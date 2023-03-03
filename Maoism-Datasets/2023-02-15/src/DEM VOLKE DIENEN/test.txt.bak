@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de-de" lang="de-de" dir="ltr">
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	  <base href="https://www.demvolkedienen.org/index.php/de/t-international/7488-brasilien-lcp-vor-dem-massaker-wurde-gefoltert" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="Internetplattform, revolutionäre Bewegung, Dem Volke Dienen, Nachrichten, Theorie" />
+  <meta name="author" content="refa" />
+  <meta name="description" content="Internetplattform für die Entwicklung einer revolutionären Bewegung" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Brasilien - LCP: Vor dem Massaker wurde gefoltert</title>
+  <link href="/templates/protostar/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/templates/protostar/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="/components/com_roksprocket/layouts/strips/themes/parallel/parallel.css" type="text/css" />
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js" type="text/javascript"></script>
+  <script src="/plugins/system/jqueryeasy/jquerynoconflict.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  
+  
+  
+  <script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+  <script src="/templates/protostar/js/template.js" type="text/javascript"></script>
+  <script src="/media/system/js/html5fallback.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/components/com_roksprocket/assets/js/mootools-mobile.js" type="text/javascript"></script>
+  <script src="/components/com_roksprocket/assets/js/rokmediaqueries.js" type="text/javascript"></script>
+  <script src="/components/com_roksprocket/assets/js/roksprocket.js" type="text/javascript"></script>
+  <script src="/components/com_roksprocket/assets/js/moofx.js" type="text/javascript"></script>
+  <script src="/components/com_roksprocket/assets/js/roksprocket.request.js" type="text/javascript"></script>
+  <script src="/components/com_roksprocket/layouts/strips/assets/js/strips.js" type="text/javascript"></script>
+  <script src="/components/com_roksprocket/layouts/strips/assets/js/strips-speeds.js" type="text/javascript"></script>
+  <script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});if (typeof RokSprocket == 'undefined') RokSprocket = {};
+Object.merge(RokSprocket, {
+	SiteURL: 'https://www.demvolkedienen.org/',
+	CurrentURL: 'https://www.demvolkedienen.org/',
+	AjaxURL: 'https://www.demvolkedienen.org/index.php?option=com_roksprocket&amp;task=ajax&amp;format=raw&amp;ItemId=148'
+});
+window.addEvent('domready', function(){
+		RokSprocket.instances.strips = new RokSprocket.Strips();
+});
+window.addEvent('domready', function(){
+	RokSprocket.instances.strips.attach(109, '{"animation":"fadeDelay","autoplay":"1","delay":"35"}');
+});
+window.addEvent('load', function(){
+   var overridden = false;
+   if (!overridden && window.G5 && window.G5.offcanvas){
+       var mod = document.getElement('[data-strips="109"]');
+       mod.addEvents({
+           touchstart: function(){ window.G5.offcanvas.detach(); },
+           touchend: function(){ window.G5.offcanvas.attach(); }
+       });
+       overridden = true;
+   };
+});
+
+  </script>
+
+				<link href='//fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css' />
+		<style type="text/css">
+			h1,h2,h3,h4,h5,h6{
+				font-family: 'Ubuntu', sans-serif;
+			}
+		</style>
+				<!--style type="text/css"> 4.10. horst: roter Rand oben // button hintergrund
+		
+		body.site
+		{
+			border-top: 3px solid #a81818;
+			background-color: #f4f6f7		}
+		a
+		{
+			color: #a81818;
+		}
+		.navbar-inner, .nav-list > .active > a, .nav-list > .active > a:hover, .dropdown-menu li > a:hover, .dropdown-menu .active > a, .dropdown-menu .active > a:hover, .nav-pills > .active > a, .nav-pills > .active > a:hover,
+		.btn-primary
+		{
+			background: #a81818;
+		}
+		.navbar-inner
+		{
+			-moz-box-shadow: 0 1px 3px rgba(0, 0, 0, .25), inset 0 -1px 0 rgba(0, 0, 0, .1), inset 0 30px 10px rgba(0, 0, 0, .2);
+			-webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, .25), inset 0 -1px 0 rgba(0, 0, 0, .1), inset 0 30px 10px rgba(0, 0, 0, .2);
+			box-shadow: 0 1px 3px rgba(0, 0, 0, .25), inset 0 -1px 0 rgba(0, 0, 0, .1), inset 0 30px 10px rgba(0, 0, 0, .2);
+		}
+	</style-->
+		<!--[if lt IE 9]>
+		<script src="/media/jui/js/html5.js"></script>
+	<![endif]-->
+</head>
+
+<body class="site com_content view-article no-layout no-task itemid-148">
+
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-70094084-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+	<!-- Body -->
+	<div class="body">
+		<div class="container">
+			<!-- Header -->
+			<header class="header" role="banner">
+				<div class="header-inner clearfix">
+					<a class="brand pull-left" href="/">
+						<span class="site-title" title="Dem Volke Dienen">Dem Volke Dienen</span>													<div class="site-description">Internetplattform für die Entwicklung der revolutionären Bewegung</div>											</a>
+					<div class="header-search pull-right">
+						
+					</div>
+				</div>
+			</header>
+							<nav class="navigation" role="navigation">
+					<div class="navbar pull-left">
+						<a class="btn btn-navbar collapsed" data-toggle="collapse" data-target=".nav-collapse">
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</a>
+					</div>
+					<div class="nav-collapse">
+						<ul class="nav menu nav-pills">
+<li class="item-101"><a href="/index.php/de/" >Home</a></li><li class="item-148 current active"><a href="/index.php/de/t-international" >International</a></li><li class="item-149"><a href="/index.php/de/t-brd" >BRD</a></li><li class="item-150"><a href="/index.php/de/t-kultur" >Kultur</a></li><li class="item-298"><a href="/index.php/de/200-jahre-karl-marx" >200 Jahre Karl Marx</a></li><li class="item-153"><a href="/index.php/de/t-proletarischer-feminismus" >Proletarischer Feminismus</a></li><li class="item-152"><a href="/index.php/de/t-jugend" >Jugend</a></li><li class="item-147 deeper parent"><a href="/index.php/de/t-theorie" >Theorie</a><ul class="nav-child unstyled small"><li class="item-165"><a href="/index.php/de/t-theorie/marx-engels" >Marx / Engels</a></li><li class="item-168"><a href="/index.php/de/t-theorie/lenin" >Lenin</a></li><li class="item-171"><a href="/index.php/de/t-theorie/stalin" >Stalin</a></li><li class="item-169"><a href="/index.php/de/t-theorie/mao" >Mao</a></li><li class="item-172"><a href="/index.php/de/t-theorie/gonzalo" >Gonzalo</a></li><li class="item-156"><a href="/index.php/de/t-theorie/t-dokumente" >Dokumente der kommunistischen Bewegung</a></li></ul></li><li class="item-155"><a href="/index.php/de/t-links" >Links</a></li></ul>
+
+					</div>
+				</nav>
+						
+			<div class="row-fluid">
+								<main id="content" role="main" class="span9">
+					<!-- Begin Content -->
+					
+					<div id="system-message-container">
+	</div>
+
+					<div class="item-page" itemscope itemtype="http://schema.org/Article">
+	<meta itemprop="inLanguage" content="de-DE" />
+	
+		
+			<div class="page-header">
+		<h2 itemprop="name">
+							Brasilien - LCP: Vor dem Massaker wurde gefoltert					</h2>
+							</div>
+					
+	
+	
+		
+								<div itemprop="articleBody">
+		<p style="text-align: justify;"><em>Wir ver&ouml;ffentlichen eine inoffizielle &Uuml;bersetzung von einem Dokument der LCP von Rondonia und Westamazonien, indem das k&uuml;rzliche Massaker an Bauern im Gebiet Tiago Campin dos Santos angeprangert und verurteilt wird.</em></p>
+ 
+<p style="text-align: center;"><strong>Vor dem Massaker wurde gefoltert</strong></p>
+<p style="text-align: justify;">Dem Massaker, das das Spezialeinsatzbataillon (BOPE) am 28. Januar in der Region Nova Mutum Paran&aacute;, Landkreis Porto Velho, ver&uuml;bte, ging die willk&uuml;rliche Verhaftung und Folterung von mindestens drei Bauern aus der Gegend von Tiago Campim dos Santos voraus, von denen einem in die Schulter geschossen wurde, w&auml;hrend zwei weitere Bauern, die Genossen Esticado und Mandruv&aacute;, gefoltert und get&ouml;tet wurden.</p>
+<p style="text-align: justify;">Die Bauern Esticado (Rodrigo Hawerroth) und Mandruv&aacute; (Raniel Barbosa Laurindo) waren nicht im Besitz einer Waffe, wurden von der Milit&auml;rpolizei festgenommen und ohne jede Chance auf Verteidigung brutal gefoltert und sp&auml;ter feige ermordet. Die Spuren an den K&ouml;rpern der Genossen lassen keinen Zweifel an der Grausamkeit, der sie ausgesetzt waren, beide K&ouml;rper wiesen zahlreiche Bluterg&uuml;sse auf, die von Gewehrkolbenschl&auml;gen und Schl&auml;gen herr&uuml;hren, Perforationen am K&ouml;rper, auch in den Augen, au&szlig;erdem wurde dem Genossen Rodrigo die Zunge herausgerissen und die beiden Enden seines Mundes von einem scharfen Gegenstand zerschnitten.</p>
+<p style="text-align: justify;">Neben diesem sch&auml;ndlichen Verbrechen griffen andere Truppen der Milit&auml;rpolizei unter dem Kommando von Oberstleutnant Pontes die in der N&auml;he der BR 364 kampierenden Familien an, schossen und warfen Bomben in ihre Richtung, raubten und zerst&ouml;rten ihr Hab und Gut und f&uuml;hrten willk&uuml;rliche und illegale Repressionen und Vertreibungen durch.</p>
+<p style="text-align: justify;">All dies, um die Privilegien und illegalen Interessen des Gro&szlig;grundbesitzers Antonio Martins dos Santos zu verteidigen, dem Galo Velho, dem ber&uuml;chtigten Dieb von &ouml;ffentlichem Land der Union, der mehrfach angeprangert wurde und Ziel verschiedener Aktionen des Bundesministeriums f&uuml;r &ouml;ffentliche Angelegenheiten war. Die Milit&auml;rpolizei des Gouverneurs Oberst Marcos Rocha, Lakai des Landbesitzers, hat zur Verteidigung des Banditen Galo Velho, Landr&auml;uber, Landdieb, Anf&uuml;hrer einer bewaffneten Bande (die fast immer aus Polizisten besteht) und M&ouml;rder von Bauern, eine Reihe von Verbrechen gegen die Bauern dieser Region begangen.</p>
+<p style="text-align: justify;">Und angesichts all dessen erf&uuml;llen die Pressemonopole (G1 des Globo-Netzes) und die M&uuml;llpresse von Rondonia (rondoniaovivo u.a.) wie immer ihre Rolle als Sprachrohr der Ganovenpolizei und der Gro&szlig;grundbesitzer. Sie schweigen &uuml;ber solche schweren Verbrechen oder beschr&auml;nken sich darauf, die l&uuml;gnerische Version der S&ouml;ldnerpolizei zu wiederholen, die eine bewaffnete Konfrontation und einen Schusswechsel behauptet und stets versucht, die Bauern im Kampf um Land als die schlimmsten Verbrecher zu verleumden und zu d&auml;monisieren, um die Praxis von Misshandlungen, Folter und Hinrichtungen im Schnellverfahren auf absurde Weise zu rechtfertigen.</p>
+<p style="text-align: justify;">Es braucht nur ein wenig Ehrlichkeit, es braucht nur Augen, um mit einem einfachen Blick die Fotos zu sehen, die die Situation zeigen, in der die Leichen der Genossen Esticado und Mandruv&aacute; pr&auml;sentiert wurden, verst&uuml;mmelt und bereits leblos, um zu best&auml;tigen, dass sie brutal gefoltert und kaltbl&uuml;tig ermordet wurden und dass die Version der Polizei nichts als eine schamlose und zynische Farce ist, um wieder einmal die Wahrheit der Tatsachen zu verbergen.</p>
+<p style="text-align: justify;">Bis wann wird diese Truppe von M&ouml;rdern und uniformierten Banditen des alten Staates weiterhin ungestraft Folterungen und Morde an Bauern begehen?</p>
+<p style="text-align: justify;">Solange sie von den Gouverneuren der Gro&szlig;grundbesitzer, den anderen Politikern Rondonias, den S&ouml;ldnern der Polizei und einem gro&szlig;en Teil der Justiz des Staates, den Gro&szlig;grundbesitzern, die der Union das Land stehlen, und ihren bewaffneten Banden, den nationalen Pressemonopolen und der M&uuml;llpresse Rondonias, die alle derselbe Schurke sind und reichlich mit &ouml;ffentlichen Geldern finanziert werden, abh&auml;ngt, wird das so weitergehen, bis sie durch die Revolution im Lande ausgel&ouml;scht werden.</p>
+<p style="text-align: justify;">Solange dies aber nicht geschieht, irren sie sich, wenn sie glauben, dass sie ihre Verbrechen ungestraft fortsetzen k&ouml;nnen, ohne dass darauf reagiert wird. Wie sehr sie auch versuchen, Repression und Staatsterror anzuwenden, um den Kampf der Bauern niederzuschlagen, w&auml;hrend auf der einen Seite eine Handvoll parasit&auml;rer Grundbesitzer steht, die vom alten Staat gesch&uuml;tzt werden und den gr&ouml;&szlig;ten Teil des Landes an sich rei&szlig;en, und auf der anderen Seite Millionen von armen Bauern, die landlos sind oder nur wenig Land haben, wird der Kampf f&uuml;r die Agrarrevolution, f&uuml;r Land f&uuml;r diejenigen, die es bearbeiten, weiter wachsen; und das vergossene Blut unserer Genossen wird ger&auml;cht werden, wir werden mit der gleichen Gewalt antworten, darauf k&ouml;nnt ihr euch verlassen! Das Blut unseres Volkes, das im Kampf vergossen wird, ertr&auml;nkt ihn nicht, sondern tr&auml;nkt unsere Sache, macht unsere Fahnen noch r&ouml;ter, steigert unseren Klassenhass, unsere Entschlossenheit und unseren Kampfeswillen. Das Risiko, das der Stock eingeht, geht die Axt ein! Wir machen die Rechnung auf, und ihr werdet teuer daf&uuml;r bezahlen!</p>
+<p style="text-align: justify;">An die Bauern, die Arbeiter, die kleinen und mittleren Unternehmer, die Studenten, die Lehrer, die Volksk&uuml;nstler, die ehrlichen Intellektuellen, die klassenm&auml;&szlig;igen und demokratischen Organisationen und K&ouml;rperschaften und die wahrhaft demokratischen Menschen: Wir rufen alle auf, die Bestrafung derjenigen zu fordern, die die Misshandlungen, die Folterungen und die Ermordung der Bauern angeordnet und durchgef&uuml;hrt haben!</p>
+<p style="text-align: center;">Ehre und Ruhm f&uuml;r die im Kampf um Boden gefallenen Genossen!</p>
+<p style="text-align: center;">Bestrafung derjeniger, die die Morde an den K&auml;mpfern des Volkes ausgef&uuml;hrt und angeordnet haben!</p>
+<p style="text-align: center;">Raus aus unseren Gebieten, Waschb&auml;renpolizei der Gro&szlig;grundbesitzer, die Diebe des Unionslandes sind!</p>
+<p style="text-align: center;">Das Land von Tiago dos Santos geh&ouml;rt dem Volk!</p>
+<p style="text-align: center;">Erobert das Land! Zerst&ouml;rt das Latifundium!</p>
+<p style="text-align: center;">Es lebe die Agrarrevolution!</p>
+<p style="text-align: right;">LCP - Liga der armen Bauern von Rondonia und Westamazonien</p>	</div>
+
+				<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+									Details							</dt>
+
+							<dd class="createdby" itemprop="author" itemscope itemtype="http://schema.org/Person">
+					Geschrieben von <span itemprop="name">refa</span>	</dd>
+			
+			
+			
+										<dd class="published">          
+								<time datetime="2023-02-14T22:57:54+00:00" itemprop="datePublished">
+				14. Februar 2023									</time>
+			</dd>					
+					
+			
+						</dl>
+			
+	
+<ul class="pager pagenav">
+	<li class="next">
+		<a href="/index.php/de/t-international/7469-aktuelles-aus-mexiko-07-02-2023" rel="next">
+			Weiter <span class="icon-chevron-right"></span>		</a>
+	</li>
+</ul>
+						</div>
+
+					
+					<!-- End Content -->
+				</main>
+									<div id="aside" class="span2" style="float:right;">
+						<!-- Begin Right Sidebar -->
+						<div class=" ">﻿<script type="text/javascript">
+// "σε άλλες γλώσσες "
+var cit = new Array(" in other languages ", " en otras languas ", " em outras línguas ", "Dans d'autres langues ", " In altre lingue ", " in anderen Sprachen ");
+var ind= 0;
+document.getElementById('Citation1').innerHTML = cit[ind];
+ChangeCitation2();
+function ChangeCitation2(){
+  incrementIndex()
+  document.getElementById('Citation2').innerHTML = cit[ind];
+  document.getElementById('Citation1').style.opacity = 0;
+  document.getElementById('Citation2').style.opacity = 1;
+  setTimeout(ChangeCitation1, 4000);
+}
+function ChangeCitation1(){
+  incrementIndex();
+  document.getElementById('Citation1').innerHTML = cit[ind];
+  document.getElementById('Citation1').style.opacity = 1;
+  document.getElementById('Citation2').style.opacity = 0;
+  setTimeout(ChangeCitation2, 4000);
+}
+function incrementIndex(){
+  if(ind < cit.length - 1 ){
+    ind++;
+  }else{
+    ind = 0;
+  }
+}</script>
+<img src="/templates/protostar/images/custom_system/custom_search_button.svg" style="display:none;" onload="ChangeCitation2()">
+<nav id="primary_nav_wrap">
+    <ul>
+      <li id="citationContainer">
+      	<p id = "Citation1"></p>
+    	<p id = "Citation2"></p>
+        <ul>
+		  <li><a href="/index.php/de/">Deutsch</a>
+          <li><a href="/index.php/en/">English</a>
+          <li><a href="/index.php/es/">Español</a>
+		  <li><a href="/index.php/fr/">Français</a>
+		  <li><a href="/index.php/it/">Italiano</a>
+          <li><a href="/index.php/pt/">Português</a>
+        </ul>
+      </li>
+    </ul>
+</nav>
+
+
+<div class="search_div2"> 
+	<form action="/index.php/de/t-international" method="post" class="form-inline">
+	<label for="mod-search-searchword" class="element-invisible"> Suchen... </label>
+	<input name="searchword" id="mod-search-searchword" maxlength="200"  class="inputbox search-query" type="search"  placeholder="Suchen..." size="" />
+   
+	<input type="image" alt="Start Search" class="search_button" id="search-button-id" src="/templates/protostar/images/custom_system/custom_search_button.svg" onclick="this.form.searchword.focus()"/>
+    
+
+		<input type="hidden" name="task" value="search" />
+		<input type="hidden" name="option" value="com_search" />
+		<input type="hidden" name="Itemid" value="148" />
+	</form>
+</div></div><div class=" "><ul class="nav menu">
+<li class="item-138"><a href="/index.php/de/ueber-uns" >Über uns</a></li><li class="item-139"><a href="/index.php/de/about-en" >About</a></li><li class="item-140"><a href="/index.php/de/about-es" > Sobre Nosotros</a></li><li class="item-141"><a href="/index.php/de/about-tr" >Hakkımızda</a></li><li class="item-144"><a href="/index.php/de/kontakt" >Kontakt</a></li><li class="item-164"><a href="/index.php/de/sicherheit" >Sicherheit</a></li></ul>
+</div><div class=" "><h3 class="page-header">Neueste Dokumente</h3> <div class="sprocket-strips-p" data-strips="109">
+	<div class="sprocket-strips-p-overlay"><div class="css-loader-wrapper"><div class="css-loader"></div></div></div>
+	<ul class="sprocket-strips-p-container cols-1" data-strips-items>
+		<li class="sprocket-strips-p-block" data-strips-item>
+	<div class="sprocket-strips-p-item" data-strips-content>
+					<img src="/images/Brasilien/LCPtiago_santos_1-510x360-f1f.jpg" alt="" />
+				<div class="sprocket-strips-p-content">
+						<h4 class="sprocket-strips-p-title" data-strips-toggler>
+				<a href="/index.php/de/t-international/7488-brasilien-lcp-vor-dem-massaker-wurde-gefoltert">					Brasilien - LCP: Vor dem Massaker wurde gefoltert				</a>			</h4>
+												<a href="/index.php/de/t-international/7488-brasilien-lcp-vor-dem-massaker-wurde-gefoltert" class="readon"><span>Weiterlesen</span></a>
+					</div>
+	</div>
+</li>
+<li class="sprocket-strips-p-block" data-strips-item>
+	<div class="sprocket-strips-p-item" data-strips-content>
+					<img src="/images/Bremen/2023/Februar_Uni_Malung_Brasilien_III.JPG" alt="" />
+				<div class="sprocket-strips-p-content">
+						<h4 class="sprocket-strips-p-title" data-strips-toggler>
+				<a href="/index.php/de/t-brd/7474-bremen-aktionen-gegen-den-terror-gegen-die-armen-bauern-in-brasilien-und-mexiko">					Bremen: Aktionen gegen den Terror gegen die armen Bauern in Brasilien und Mexiko				</a>			</h4>
+												<a href="/index.php/de/t-brd/7474-bremen-aktionen-gegen-den-terror-gegen-die-armen-bauern-in-brasilien-und-mexiko" class="readon"><span>Weiterlesen</span></a>
+					</div>
+	</div>
+</li>
+<li class="sprocket-strips-p-block" data-strips-item>
+	<div class="sprocket-strips-p-item" data-strips-content>
+					<img src="/images/HH/2023/Mexiko-Brasilien/Kundgebung_Hamburg_Brasilien_Mexiko_2023-1.png" alt="" />
+				<div class="sprocket-strips-p-content">
+						<h4 class="sprocket-strips-p-title" data-strips-toggler>
+				<a href="/index.php/de/t-brd/7472-hamburg-kundgebung-gegen-massaker-in-brasilien-und-repression-in-mexiko">					Hamburg: Kundgebung gegen Massaker in Brasilien und Repression in Mexiko				</a>			</h4>
+												<a href="/index.php/de/t-brd/7472-hamburg-kundgebung-gegen-massaker-in-brasilien-und-repression-in-mexiko" class="readon"><span>Weiterlesen</span></a>
+					</div>
+	</div>
+</li>
+<li class="sprocket-strips-p-block" data-strips-item>
+	<div class="sprocket-strips-p-item" data-strips-content>
+					<img src="/images/BRD/Nationale_Sicherheitsstrategie_Baerbock.jpg" alt="" />
+				<div class="sprocket-strips-p-content">
+						<h4 class="sprocket-strips-p-title" data-strips-toggler>
+				<a href="/index.php/de/t-brd/7470-sicherheit-wie-die-yankees-erste-nationale-sicherheitsstrategie-der-brd">					Sicherheitsrat wie die Yankees? Eine erste „Nationale Sicherheitsstrategie“ der BRD				</a>			</h4>
+												<a href="/index.php/de/t-brd/7470-sicherheit-wie-die-yankees-erste-nationale-sicherheitsstrategie-der-brd" class="readon"><span>Weiterlesen</span></a>
+					</div>
+	</div>
+</li>
+<li class="sprocket-strips-p-block" data-strips-item>
+	<div class="sprocket-strips-p-item" data-strips-content>
+					<img src="/images/Mexiko/2023/Aktuelles_aus_Mexiko_07._Februar_2023.jpg" alt="" />
+				<div class="sprocket-strips-p-content">
+						<h4 class="sprocket-strips-p-title" data-strips-toggler>
+				<a href="/index.php/de/t-international/7469-aktuelles-aus-mexiko-07-02-2023">					Aktuelles aus Mexiko (07.02.2023)				</a>			</h4>
+												<a href="/index.php/de/t-international/7469-aktuelles-aus-mexiko-07-02-2023" class="readon"><span>Weiterlesen</span></a>
+					</div>
+	</div>
+</li>
+<li class="sprocket-strips-p-block" data-strips-item>
+	<div class="sprocket-strips-p-item" data-strips-content>
+				<div class="sprocket-strips-p-content">
+						<h4 class="sprocket-strips-p-title" data-strips-toggler>
+				<a href="/index.php/de/t-brd/7466-kundgebung-in-hamburg-aktualisierter-aufruf-stoppt-den-terror-gegen-das-mexikanische-volk-stoppt-den-terror-gegen-die-armen-bauern-in-brasilien">					Kundgebung in Hamburg [Aktualisierter Aufruf]: Stoppt den Terror gegen das mexikanische Volk! Stoppt den Terror gegen die armen Bauern in Brasilien! 				</a>			</h4>
+												<a href="/index.php/de/t-brd/7466-kundgebung-in-hamburg-aktualisierter-aufruf-stoppt-den-terror-gegen-das-mexikanische-volk-stoppt-den-terror-gegen-die-armen-bauern-in-brasilien" class="readon"><span>Weiterlesen</span></a>
+					</div>
+	</div>
+</li>
+<li class="sprocket-strips-p-block" data-strips-item>
+	<div class="sprocket-strips-p-item" data-strips-content>
+					<img src="/images/Tuerkei/2023/türkei-erdbeben-januar-2023.png" alt="" />
+				<div class="sprocket-strips-p-content">
+						<h4 class="sprocket-strips-p-title" data-strips-toggler>
+				<a href="/index.php/de/t-international/7465-partizan-obwohl-das-erdbeben-ein-natuerliches-phaenomen-ist-sind-die-zerstoerungen-und-todesfaelle-das-ergebnis-der-ausbeutungsordnung">					PARTIZAN: Obwohl das Erdbeben ein natürliches Phänomen ist, sind die Zerstörungen und Todesfälle das Ergebnis der Ausbeutungsordnung.				</a>			</h4>
+												<a href="/index.php/de/t-international/7465-partizan-obwohl-das-erdbeben-ein-natuerliches-phaenomen-ist-sind-die-zerstoerungen-und-todesfaelle-das-ergebnis-der-ausbeutungsordnung" class="readon"><span>Weiterlesen</span></a>
+					</div>
+	</div>
+</li>
+<li class="sprocket-strips-p-block" data-strips-item>
+	<div class="sprocket-strips-p-item" data-strips-content>
+					<img src="/images/BaWü/thomas_strobl.jpg" alt="" />
+				<div class="sprocket-strips-p-content">
+						<h4 class="sprocket-strips-p-title" data-strips-toggler>
+				<a href="/index.php/de/t-brd/7462-baden-wuerttemberg-cdu-fordert-bodycams-fuer-rettungskraefte">					 Baden Württemberg: CDU fordert Bodycams für Rettungskräfte				</a>			</h4>
+												<a href="/index.php/de/t-brd/7462-baden-wuerttemberg-cdu-fordert-bodycams-fuer-rettungskraefte" class="readon"><span>Weiterlesen</span></a>
+					</div>
+	</div>
+</li>
+<li class="sprocket-strips-p-block" data-strips-item>
+	<div class="sprocket-strips-p-item" data-strips-content>
+					<img src="/images/HH/2023/HH-Palästina0402-3.JPG" alt="" />
+				<div class="sprocket-strips-p-content">
+						<h4 class="sprocket-strips-p-title" data-strips-toggler>
+				<a href="/index.php/de/t-international/7459-hamburg-kundgebung-gegen-die-aggression-gegen-palaestina">					Hamburg: Kundgebung gegen die Aggression gegen Palästina				</a>			</h4>
+												<a href="/index.php/de/t-international/7459-hamburg-kundgebung-gegen-die-aggression-gegen-palaestina" class="readon"><span>Weiterlesen</span></a>
+					</div>
+	</div>
+</li>
+<li class="sprocket-strips-p-block" data-strips-item>
+	<div class="sprocket-strips-p-item" data-strips-content>
+					<img src="/images/HH/2023/HH-solifürMexiko0223-Anzeige.JPG" alt="" />
+				<div class="sprocket-strips-p-content">
+						<h4 class="sprocket-strips-p-title" data-strips-toggler>
+				<a href="/index.php/de/t-international/7457-hamburg-aktionen-in-solidaritaet-mit-den-aktuellen-kaempfen-in-oaxaca-mexiko">					Hamburg: Aktionen in Solidarität mit den aktuellen Kämpfen in Oaxaca, Mexiko 				</a>			</h4>
+												<a href="/index.php/de/t-international/7457-hamburg-aktionen-in-solidaritaet-mit-den-aktuellen-kaempfen-in-oaxaca-mexiko" class="readon"><span>Weiterlesen</span></a>
+					</div>
+	</div>
+</li>
+	</ul>
+	<div class="sprocket-strips-p-nav">
+		<div class="sprocket-strips-p-pagination-hidden">
+			<ul>
+									    	<li class="active" data-strips-page="1"><span>1</span></li>
+									    	<li data-strips-page="2"><span>2</span></li>
+									    	<li data-strips-page="3"><span>3</span></li>
+						</ul>
+		</div>
+				<div class="sprocket-strips-p-arrows">
+			<span class="arrow next" data-strips-next></span>
+			<span class="arrow prev" data-strips-previous></span>
+		</div>
+			</div>
+</div>
+</div>            
+						<!-- End Right Sidebar -->
+					</div>
+							</div>
+		</div>
+	</div>
+	<!-- Footer -->
+	<footer class="footer" role="contentinfo">
+		<div class="container">
+			<hr />
+			
+			<p class="pull-right">
+				<a href="#top" id="back-top">
+					Nach oben				</a>
+			</p>
+			<p>
+			&copy; 2023  
+			</p>
+		</div>
+	</footer>
+	
+
+</body>
+</html>

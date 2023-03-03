@@ -1,0 +1,1132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://struggle-sessions.com/xmlrpc.php">
+
+<title>Two Posts on &#8216;Daltonite Revisionism&#8217; &#8211; Ex-Struggle Sessions</title>
+<script type="text/javascript">
+  WebFontConfig = {"google":{"families":["Muli:r:latin,latin-ext","Merriweather+Sans:r,i,b,bi:latin,latin-ext"]},"api_url":"https:\/\/fonts-api.wp.com\/css"};
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = 'https://s0.wp.com/wp-content/plugins/custom-fonts/js/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+	})();
+</script><style id="jetpack-custom-fonts-css">.wf-active pre{font-family:"Merriweather Sans",sans-serif}.wf-active #infinite-handle span, .wf-active body, .wf-active button, .wf-active input, .wf-active select, .wf-active textarea{font-family:"Merriweather Sans",sans-serif}.wf-active pre{font-family:"Merriweather Sans",sans-serif}.wf-active #infinite-handle span, .wf-active .button, .wf-active button, .wf-active input[type="button"], .wf-active input[type="reset"], .wf-active input[type="submit"]{font-family:"Merriweather Sans",sans-serif}.wf-active .entry-meta{font-family:"Merriweather Sans",sans-serif}.wf-active .panel-navigation a .hidden, .wf-active .panel-navigation a:visited .hidden{font-family:"Merriweather Sans",sans-serif}.wf-active .site-info{font-family:"Merriweather Sans",sans-serif}.wf-active .main-navigation{font-family:"Merriweather Sans",sans-serif}.wf-active .post-navigation .title{font-family:"Merriweather Sans",sans-serif}.wf-active .comment-author .fn{font-family:"Merriweather Sans",sans-serif}.wf-active .comment-metadata{font-family:"Merriweather Sans",sans-serif}.wf-active .comment-form-author label, .wf-active .comment-form-comment label, .wf-active .comment-form-email label, .wf-active .comment-form-url label{font-family:"Merriweather Sans",sans-serif}@media screen and (min-width: 46em){.wf-active .affinity-front-page .edit-link a, .wf-active .affinity-front-page .edit-link a:visited{font-family:"Merriweather Sans",sans-serif}}@media screen and (min-width: 46em){.wf-active .affinity-front-page .hentry:first-of-type .edit-link a, .wf-active .affinity-front-page .hentry:first-of-type .edit-link a:visited{font-family:"Merriweather Sans",sans-serif}}@media screen and (min-width: 46em){.wf-active .affinity-front-page .no-featured-image .edit-link a, .wf-active .affinity-front-page .no-featured-image .edit-link a:visited{font-family:"Merriweather Sans",sans-serif}}.wf-active .main-navigation ul ul{font-family:"Merriweather Sans",sans-serif}.wf-active h1, .wf-active h2, .wf-active h3, .wf-active h4, .wf-active h5, .wf-active h6{font-family:"Muli",sans-serif;font-style:normal;font-weight:400}.wf-active h1{font-style:normal;font-weight:400}.wf-active h2{font-style:normal;font-weight:400}.wf-active h3{font-style:normal;font-weight:400}.wf-active h4{font-style:normal;font-weight:400}.wf-active h5{font-style:normal;font-weight:400}.wf-active h6{font-style:normal;font-weight:400}.wf-active .site-header .entry-title{font-weight:400;font-style:normal}.wf-active .site-description{font-family:"Muli",sans-serif;font-weight:400;font-style:normal}.wf-active .site-title{font-family:"Muli",sans-serif;font-style:normal;font-weight:400}.wf-active .comment-reply-title, .wf-active .comments-title{font-style:normal;font-weight:400}.wf-active .widget-title{font-family:"Muli",sans-serif;font-style:normal;font-weight:400}.wf-active .affinity-customizer.affinity-front-page .affinity-panel .affinity-panel-title{font-family:"Muli",sans-serif;font-weight:400;font-style:normal}@media screen and (min-width: 46em){.wf-active h1{font-style:normal;font-weight:400}}@media screen and (min-width: 46em){.wf-active h2{font-style:normal;font-weight:400}}@media screen and (min-width: 46em){.wf-active h3{font-style:normal;font-weight:400}}@media screen and (min-width: 46em){.wf-active h4{font-style:normal;font-weight:400}}@media screen and (min-width: 46em){.wf-active h5{font-style:normal;font-weight:400}}@media screen and (min-width: 46em){.wf-active h6{font-style:normal;font-weight:400}}@media screen and (min-width: 46em){.wf-active .entry-title{font-style:normal;font-weight:400}}@media screen and (min-width: 46em){.wf-active .site-description{font-style:normal;font-weight:400}}@media screen and (min-width: 46em){.wf-active .page-title{font-style:normal;font-weight:400}}</style>
+<meta name='robots' content='max-image-preview:large' />
+
+<!-- Async WordPress.com Remote Login -->
+<script id="wpcom_remote_login_js">
+var wpcom_remote_login_extra_auth = '';
+function wpcom_remote_login_remove_dom_node_id( element_id ) {
+	var dom_node = document.getElementById( element_id );
+	if ( dom_node ) { dom_node.parentNode.removeChild( dom_node ); }
+}
+function wpcom_remote_login_remove_dom_node_classes( class_name ) {
+	var dom_nodes = document.querySelectorAll( '.' + class_name );
+	for ( var i = 0; i < dom_nodes.length; i++ ) {
+		dom_nodes[ i ].parentNode.removeChild( dom_nodes[ i ] );
+	}
+}
+function wpcom_remote_login_final_cleanup() {
+	wpcom_remote_login_remove_dom_node_classes( "wpcom_remote_login_msg" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_key" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_validate" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_js" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_request_access_iframe" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_request_access_styles" );
+}
+
+// Watch for messages back from the remote login
+window.addEventListener( "message", function( e ) {
+	if ( e.origin === "https://r-login.wordpress.com" ) {
+		var data = {};
+		try {
+			data = JSON.parse( e.data );
+		} catch( e ) {
+			wpcom_remote_login_final_cleanup();
+			return;
+		}
+
+		if ( data.msg === 'LOGIN' ) {
+			// Clean up the login check iframe
+			wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_key" );
+
+			var id_regex = new RegExp( /^[0-9]+$/ );
+			var token_regex = new RegExp( /^.*|.*|.*$/ );
+			if (
+				token_regex.test( data.token )
+				&& id_regex.test( data.wpcomid )
+			) {
+				// We have everything we need to ask for a login
+				var script = document.createElement( "script" );
+				script.setAttribute( "id", "wpcom_remote_login_validate" );
+				script.src = '/remote-login.php?wpcom_remote_login=validate'
+					+ '&wpcomid=' + data.wpcomid
+					+ '&token=' + encodeURIComponent( data.token )
+					+ '&host=' + window.location.protocol
+					+ '//' + window.location.hostname
+					+ '&postid=2469'
+					+ '&is_singular=1';
+				document.body.appendChild( script );
+			}
+
+			return;
+		}
+
+		// Safari ITP, not logged in, so redirect
+		if ( data.msg === 'LOGIN-REDIRECT' ) {
+			window.location = 'https://wordpress.com/log-in?redirect_to=' + window.location.href;
+			return;
+		}
+
+		// Safari ITP, storage access failed, remove the request
+		if ( data.msg === 'LOGIN-REMOVE' ) {
+			var css_zap = 'html { -webkit-transition: margin-top 1s; transition: margin-top 1s; } /* 9001 */ html { margin-top: 0 !important; } * html body { margin-top: 0 !important; } @media screen and ( max-width: 782px ) { html { margin-top: 0 !important; } * html body { margin-top: 0 !important; } }';
+			var style_zap = document.createElement( 'style' );
+			style_zap.type = 'text/css';
+			style_zap.appendChild( document.createTextNode( css_zap ) );
+			document.body.appendChild( style_zap );
+
+			var e = document.getElementById( 'wpcom_request_access_iframe' );
+			e.parentNode.removeChild( e );
+
+			document.cookie = 'wordpress_com_login_access=denied; path=/; max-age=31536000';
+
+			return;
+		}
+
+		// Safari ITP
+		if ( data.msg === 'REQUEST_ACCESS' ) {
+			console.log( 'request access: safari' );
+
+			// Check ITP iframe enable/disable knob
+			if ( wpcom_remote_login_extra_auth !== 'safari_itp_iframe' ) {
+				return;
+			}
+
+			// If we are in a "private window" there is no ITP.
+			var private_window = false;
+			try {
+				var opendb = window.openDatabase( null, null, null, null );
+			} catch( e ) {
+				private_window = true;
+			}
+
+			if ( private_window ) {
+				console.log( 'private window' );
+				return;
+			}
+
+			var iframe = document.createElement( 'iframe' );
+			iframe.id = 'wpcom_request_access_iframe';
+			iframe.setAttribute( 'scrolling', 'no' );
+			iframe.setAttribute( 'sandbox', 'allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-top-navigation-by-user-activation' );
+			iframe.src = 'https://r-login.wordpress.com/remote-login.php?wpcom_remote_login=request_access&origin=' + encodeURIComponent( data.origin ) + '&wpcomid=' + encodeURIComponent( data.wpcomid );
+
+			var css = 'html { -webkit-transition: margin-top 1s; transition: margin-top 1s; } /* 9001 */ html { margin-top: 46px !important; } * html body { margin-top: 46px !important; } @media screen and ( max-width: 660px ) { html { margin-top: 71px !important; } * html body { margin-top: 71px !important; } #wpcom_request_access_iframe { display: block; height: 71px !important; } } #wpcom_request_access_iframe { border: 0px; height: 46px; position: fixed; top: 0; left: 0; width: 100%; min-width: 100%; z-index: 99999; background: #23282d; } ';
+
+			var style = document.createElement( 'style' );
+			style.type = 'text/css';
+			style.id = 'wpcom_request_access_styles';
+			style.appendChild( document.createTextNode( css ) );
+			document.body.appendChild( style );
+
+			document.body.appendChild( iframe );
+		}
+
+		if ( data.msg === 'DONE' ) {
+			wpcom_remote_login_final_cleanup();
+		}
+	}
+}, false );
+
+// Inject the remote login iframe after the page has had a chance to load
+// more critical resources
+window.addEventListener( "DOMContentLoaded", function( e ) {
+	var iframe = document.createElement( "iframe" );
+	iframe.style.display = "none";
+	iframe.setAttribute( "scrolling", "no" );
+	iframe.setAttribute( "id", "wpcom_remote_login_key" );
+	iframe.src = "https://r-login.wordpress.com/remote-login.php"
+		+ "?wpcom_remote_login=key"
+		+ "&origin=aHR0cHM6Ly9zdHJ1Z2dsZS1zZXNzaW9ucy5jb20%3D"
+		+ "&wpcomid=147936915"
+		+ "&time=1677627443";
+	document.body.appendChild( iframe );
+}, false );
+</script>
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel='dns-prefetch' href='//strugglesessions.wordpress.com' />
+<link rel='dns-prefetch' href='//wordpress.com' />
+<link rel='dns-prefetch' href='//fonts-api.wp.com' />
+<link rel='dns-prefetch' href='//s.pubmine.com' />
+<link rel='dns-prefetch' href='//x.bidswitch.net' />
+<link rel='dns-prefetch' href='//static.criteo.net' />
+<link rel='dns-prefetch' href='//ib.adnxs.com' />
+<link rel='dns-prefetch' href='//aax.amazon-adsystem.com' />
+<link rel='dns-prefetch' href='//bidder.criteo.com' />
+<link rel='dns-prefetch' href='//cas.criteo.com' />
+<link rel='dns-prefetch' href='//gum.criteo.com' />
+<link rel='dns-prefetch' href='//ads.pubmatic.com' />
+<link rel='dns-prefetch' href='//gads.pubmatic.com' />
+<link rel='dns-prefetch' href='//tpc.googlesyndication.com' />
+<link rel='dns-prefetch' href='//ad.doubleclick.net' />
+<link rel='dns-prefetch' href='//googleads.g.doubleclick.net' />
+<link rel='dns-prefetch' href='//www.googletagservices.com' />
+<link rel='dns-prefetch' href='//cdn.switchadhub.com' />
+<link rel='dns-prefetch' href='//delivery.g.switchadhub.com' />
+<link rel='dns-prefetch' href='//delivery.swid.switchadhub.com' />
+<link rel='dns-prefetch' href='//a.teads.tv' />
+<link rel='dns-prefetch' href='//prebid.media.net' />
+<link rel='dns-prefetch' href='//adserver-us.adtech.advertising.com' />
+<link rel='dns-prefetch' href='//fastlane.rubiconproject.com' />
+<link rel='dns-prefetch' href='//prebid-server.rubiconproject.com' />
+<link rel='dns-prefetch' href='//hb-api.omnitagjs.com' />
+<link rel='dns-prefetch' href='//mtrx.go.sonobi.com' />
+<link rel='dns-prefetch' href='//apex.go.sonobi.com' />
+<link rel='dns-prefetch' href='//u.openx.net' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Ex-Struggle Sessions &raquo; Feed" href="https://struggle-sessions.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Ex-Struggle Sessions &raquo; Comments Feed" href="https://struggle-sessions.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Ex-Struggle Sessions &raquo; Two Posts on &#8216;Daltonite Revisionism&#8217; Comments Feed" href="https://struggle-sessions.com/2023/02/26/two-posts-on-daltonite-revisionism/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+	<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s2.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1677072837h&ver=6.2-beta1-55307"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link crossorigin='anonymous' rel='stylesheet' id='all-css-0-1' href='https://s1.wp.com/_static/??-eJyNUttSAyEM/SHZuDq19cHxW7hkMG1YGALt7N9L117W1ra+MJwk5yQnALukbBwKDgVCVYmrp0Fgl2wMSgIxjheosyJPMKMZjv5MjNlpJ+A5Gs1XtbMWayxJ280BQ8rRVVsoDhDajVEgI+uCTqUo5QLdE2ba4Fl+Qlflx1pfGzSYfctkhG2/6PquVwZMJXZ7a5OEyTqPIGVkPEnRYLm6fSeBgI40MoZplBlIrEfMitFrO3aBhsf0lpvjX6Tb40+TzlzrMdaifCZ3Mfa/JbIuNHh5QLfxQHvp+lXbnFBIjCrjtnsFR1JOFerG+loALGsRsqp8Nc/yp+XZA++fqsVD0tfbukP7+cXGpIwiqp2Baji2bLzP8NG/LZeLfvX+8rz+BkaDKg4=?cssminify=yes' type='text/css' media='all' />
+<style id='wp-block-library-inline-css'>
+.has-text-align-justify {
+	text-align:justify;
+}
+.wp-block-cover__image-background.has-parallax {
+	background-size: cover;
+}
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-family--albert-sans: 'Albert Sans';--wp--preset--font-family--alegreya: Alegreya;--wp--preset--font-family--arvo: Arvo;--wp--preset--font-family--bodoni-moda: 'Bodoni Moda';--wp--preset--font-family--cabin: Cabin;--wp--preset--font-family--chivo: Chivo;--wp--preset--font-family--commissioner: Commissioner;--wp--preset--font-family--cormorant: Cormorant;--wp--preset--font-family--courier-prime: 'Courier Prime';--wp--preset--font-family--crimson-pro: 'Crimson Pro';--wp--preset--font-family--dm-mono: 'DM Mono';--wp--preset--font-family--dm-sans: 'DM Sans';--wp--preset--font-family--domine: Domine;--wp--preset--font-family--eb-garamond: 'EB Garamond';--wp--preset--font-family--epilogue: Epilogue;--wp--preset--font-family--figtree: Figtree;--wp--preset--font-family--fira-sans: 'Fira Sans';--wp--preset--font-family--fraunces: Fraunces;--wp--preset--font-family--ibm-plex-mono: 'IBM Plex Mono';--wp--preset--font-family--ibm-plex-sans: 'IBM Plex Sans';--wp--preset--font-family--inter: Inter;--wp--preset--font-family--josefin-sans: 'Josefin Sans';--wp--preset--font-family--jost: Jost;--wp--preset--font-family--libre-baskerville: 'Libre Baskerville';--wp--preset--font-family--libre-franklin: 'Libre Franklin';--wp--preset--font-family--literata: Literata;--wp--preset--font-family--lora: Lora;--wp--preset--font-family--merriweather: Merriweather;--wp--preset--font-family--montserrat: Montserrat;--wp--preset--font-family--newsreader: Newsreader;--wp--preset--font-family--nunito: Nunito;--wp--preset--font-family--open-sans: 'Open Sans';--wp--preset--font-family--overpass: Overpass;--wp--preset--font-family--petrona: Petrona;--wp--preset--font-family--piazzolla: Piazzolla;--wp--preset--font-family--playfair-display: 'Playfair Display';--wp--preset--font-family--plus-jakarta-sans: 'Plus Jakarta Sans';--wp--preset--font-family--poppins: Poppins;--wp--preset--font-family--raleway: Raleway;--wp--preset--font-family--roboto-slab: 'Roboto Slab';--wp--preset--font-family--roboto: Roboto;--wp--preset--font-family--rubik: Rubik;--wp--preset--font-family--sora: Sora;--wp--preset--font-family--source-sans-pro: 'Source Sans Pro';--wp--preset--font-family--source-serif-pro: 'Source Serif Pro';--wp--preset--font-family--space-mono: 'Space Mono';--wp--preset--font-family--texturina: Texturina;--wp--preset--font-family--work-sans: 'Work Sans';--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+</style>
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-2-1' href='https://s2.wp.com/_static/??-eJyNjEEKhDAMRS80nTiIdTV4Fi1Vo01aaMrg7Q0OiLhyl//+z4NfMi6yeBagYlIoE3IGF4kUmYCr15Rv5K3kBQgcBfU7n8e/uDhl9qSGVAboxxEZZYMsW/CPlkOIbj2kHX0/jbV13VatXXakjkNF?cssminify=yes' type='text/css' media='all' />
+<style id='affinity-style-inline-css'>
+.tags-links, .byline, .comments-link { clip: rect(1px, 1px, 1px, 1px); height: 1px; position: absolute; overflow: hidden; width: 1px; }
+</style>
+<link rel='stylesheet' id='affinity-fonts-css' href='https://fonts-api.wp.com/css?family=Raleway%3A400%2C400italic%2C700%2C700italic%7CLora%3A400%2C400italic%2C700%2C700italic&#038;subset=latin%2Clatin-ext' media='all' />
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-4-1' href='https://s1.wp.com/_static/??-eJx9jtsOwiAQRH9I3Hhp9cX4KYbiFrfCQmBJ07+XGh9INL7NSeZMBuaoTGBBFvBFRVcscYYJJWrz/DDEFO7FCAWGG7EBi4yJqpd/x63JeQPNtDzQY4ZYBtDjSEyywDqUZXGo5miC/3KaOxaDcsHo94MW1Og0pX9qwsEFW6OF2mpwla7+suu7/nA8n/bd9AL1DmSb?cssminify=yes' type='text/css' media='all' />
+<style id='jetpack-global-styles-frontend-style-inline-css'>
+:root { --font-headings: unset; --font-base: unset; --font-headings-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif; --font-base-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;}
+</style>
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-6-1' href='https://s0.wp.com/_static/??-eJyVjUEKwjAQRS9kHAti7EI8isRJSFInM6GTIN6+rbgRV+7eg8/78KwGhVvgBqWbSj1mVphCqw4fH4c6i+/YsjCUlSgoaHJz8M771xszxz2q7uDf3i0zggpmR4Ykin7JT7OlUNb3dIRIcne0Da7lMpysPZyH0Y7TAj+kTlE=?cssminify=yes' type='text/css' media='all' />
+<script id='jetpack_related-posts-js-extra'>
+var related_posts_js_options = {"post_heading":"h4"};
+</script>
+<script id='wpcom-actionbar-placeholder-js-extra'>
+var actionbardata = {"siteID":"147936915","siteURL":"https:\/\/struggle-sessions.com","xhrURL":"https:\/\/struggle-sessions.com\/wp-admin\/admin-ajax.php","nonce":"8876cf7514","isLoggedIn":"","statusMessage":"","subsEmailDefault":"instantly","proxyScriptUrl":"https:\/\/s0.wp.com\/wp-content\/js\/wpcom-proxy-request.js?ver=20211021","shortlink":"https:\/\/wp.me\/pa0J9h-DP","i18n":{"followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/read\">Reader<\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar"}};
+</script>
+<script crossorigin='anonymous' type='text/javascript' src='https://s2.wp.com/_static/??-eJylUttuwyAM/aERlHVdt4dpn1IRcBkpYGZML38/0qVZOrVSpT4hc8y52Mh9EhojQ2TZZxmwcx5EyUDK1jvh4gabPj/JWV8oIvliXcyyB05Kb8daJkJTNDuMcu2ill1x3kgCrxiMSJg5X1ZNcPE/fbVBnkXlOhzPWCXzxUAeQOMyyx1EgzRACf1x47yvPUA8J7z1iKBGqwEZSVCJ7AJc83HOaEstOyBbEQK5a5dN27SiG9P9kmZ5kp/c3ONjZv4B/S/E7aBu4PAAi2vf4m2SuzY+IusxnSqMQTE7Pb1ROUP9AX+KwqMyQNcG1X8XoON43JrmRZMIztalXt1l59FOEfZIRpkstB8MnYh0SCJiFNakwc1n+GhfV6vl++L5ZdH/AK6xKkk='></script>
+<script type='text/javascript'>
+	window.addEventListener( 'DOMContentLoaded', function() {
+		rltInitialize( {"token":null,"iframeOrigins":["https:\/\/widgets.wp.com"]} );
+	} );
+</script>
+<script type='text/javascript'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type='text/javascript'>
+wp.jpI18nLoader.state = {"baseUrl":"https://widgets.wp.com/languages/","locale":"en_US","domainMap":{"jetpack-action-bar":"plugins/jetpack","jetpack-admin-ui":"plugins/jetpack","jetpack-assets":"plugins/jetpack","jetpack-backup-pkg":"plugins/jetpack","jetpack-blaze":"plugins/jetpack","jetpack-compat":"plugins/jetpack","jetpack-config":"plugins/jetpack","jetpack-connection":"plugins/jetpack","jetpack-forms":"plugins/jetpack","jetpack-google-fonts-provider":"plugins/jetpack","jetpack-idc":"plugins/jetpack","jetpack-import":"plugins/jetpack","jetpack-jitm":"plugins/jetpack","jetpack-lazy-images":"plugins/jetpack","jetpack-licensing":"plugins/jetpack","jetpack-my-jetpack":"plugins/jetpack","jetpack-password-checker":"plugins/jetpack","jetpack-plugins-installer":"plugins/jetpack","jetpack-post-list":"plugins/jetpack","jetpack-publicize-pkg":"plugins/jetpack","jetpack-search-pkg":"plugins/jetpack","jetpack-stats":"plugins/jetpack","jetpack-stats-admin":"plugins/jetpack","jetpack-sync":"plugins/jetpack","jetpack-videopress-pkg":"plugins/jetpack","jetpack-waf":"plugins/jetpack","jetpack-wordads":"plugins/jetpack"},"domainPaths":{"jetpack-action-bar":"jetpack_vendor/automattic/jetpack-action-bar/","jetpack-admin-ui":"jetpack_vendor/automattic/jetpack-admin-ui/","jetpack-assets":"jetpack_vendor/automattic/jetpack-assets/","jetpack-backup-pkg":"jetpack_vendor/automattic/jetpack-backup/","jetpack-blaze":"jetpack_vendor/automattic/jetpack-blaze/","jetpack-compat":"jetpack_vendor/automattic/jetpack-compat/","jetpack-config":"jetpack_vendor/automattic/jetpack-config/","jetpack-connection":"jetpack_vendor/automattic/jetpack-connection/","jetpack-forms":"jetpack_vendor/automattic/jetpack-forms/","jetpack-google-fonts-provider":"jetpack_vendor/automattic/jetpack-google-fonts-provider/","jetpack-idc":"jetpack_vendor/automattic/jetpack-identity-crisis/","jetpack-import":"jetpack_vendor/automattic/jetpack-import/","jetpack-jitm":"jetpack_vendor/automattic/jetpack-jitm/","jetpack-lazy-images":"jetpack_vendor/automattic/jetpack-lazy-images/","jetpack-licensing":"jetpack_vendor/automattic/jetpack-licensing/","jetpack-my-jetpack":"jetpack_vendor/automattic/jetpack-my-jetpack/","jetpack-password-checker":"jetpack_vendor/automattic/jetpack-password-checker/","jetpack-plugins-installer":"jetpack_vendor/automattic/jetpack-plugins-installer/","jetpack-post-list":"jetpack_vendor/automattic/jetpack-post-list/","jetpack-publicize-pkg":"jetpack_vendor/automattic/jetpack-publicize/","jetpack-search-pkg":"jetpack_vendor/automattic/jetpack-search/","jetpack-stats":"jetpack_vendor/automattic/jetpack-stats/","jetpack-stats-admin":"jetpack_vendor/automattic/jetpack-stats-admin/","jetpack-sync":"jetpack_vendor/automattic/jetpack-sync/","jetpack-videopress-pkg":"jetpack_vendor/automattic/jetpack-videopress/","jetpack-waf":"jetpack_vendor/automattic/jetpack-waf/","jetpack-wordads":"jetpack_vendor/automattic/jetpack-wordads/"}};
+</script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://strugglesessions.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress.com" />
+<link rel="canonical" href="https://struggle-sessions.com/2023/02/26/two-posts-on-daltonite-revisionism/" />
+<link rel='shortlink' href='https://wp.me/pa0J9h-DP' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Fstruggle-sessions.com%2F2023%2F02%2F26%2Ftwo-posts-on-daltonite-revisionism%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Fstruggle-sessions.com%2F2023%2F02%2F26%2Ftwo-posts-on-daltonite-revisionism%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Two Posts on &#8216;Daltonite Revisionism&#8217;" />
+<meta property="og:url" content="https://struggle-sessions.com/2023/02/26/two-posts-on-daltonite-revisionism/" />
+<meta property="og:description" content="Note: the following two essays were published by a former Tribune supporter going by René. They provide a slightly different viewpoint and analysis of the revisionism of the crcpusa to what we have…" />
+<meta property="article:published_time" content="2023-02-26T10:00:00+00:00" />
+<meta property="article:modified_time" content="2023-02-08T15:05:34+00:00" />
+<meta property="og:site_name" content="Ex-Struggle Sessions" />
+<meta property="og:image" content="https://strugglesessions.files.wordpress.com/2018/06/maocircle-e1529516246557.png?w=200" />
+<meta property="og:image:width" content="200" />
+<meta property="og:image:height" content="200" />
+<meta property="og:image:alt" content="" />
+<meta property="og:locale" content="en_US" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+<meta name="twitter:creator" content="@StruggleSession" />
+<meta name="twitter:site" content="@StruggleSession" />
+<meta name="twitter:text:title" content="Two Posts on &#8216;Daltonite Revisionism&#8217;" />
+<meta name="twitter:image" content="https://strugglesessions.files.wordpress.com/2018/06/maocircle-e1529516246557.png?w=240" />
+<meta name="twitter:card" content="summary" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="search" type="application/opensearchdescription+xml" href="https://struggle-sessions.com/osd.xml" title="Ex-Struggle Sessions" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+<meta name="theme-color" content="#d8d8d8" />
+
+		<style type="text/css" id="affinity-overlay-opacity">
+
+			.custom-header-image {
+				opacity: 0.5;
+			}
+
+			.in-panel .custom-header-image {
+				opacity: 1;
+			}
+
+			@media screen and ( min-width: 48em ) {
+				.custom-header-image,
+				.in-panel .custom-header-image {
+					opacity: 0.5;
+				}
+			}
+
+		</style>
+
+		<meta name="application-name" content="Ex-Struggle Sessions" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="It is right to rebel against revisionism and reaction!" /><meta name="msapplication-task" content="name=Subscribe;action-uri=https://struggle-sessions.com/feed/;icon-uri=https://strugglesessions.files.wordpress.com/2018/06/maocircle-e1529516246557.png?w=16" /><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=https://s1.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=https://s1.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=https://s1.wp.com/i/favicon.ico" /><meta name="description" content="Note: the following two essays were published by a former Tribune supporter going by René. They provide a slightly different viewpoint and analysis of the revisionism of the crcpusa to what we have shared hitherto. I certainly don&#039;t agree with everything written in these pieces, but am sharing it ~for the discourse~. There is also&hellip;" />
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #d8d8d8; }
+</style>
+			<script type='application/javascript' src='https://ced.sascdn.com/tag/3905/smart.js' async></script>
+		<script type='application/javascript'>
+			var sas = sas || {};
+			var sas_fallback = sas_fallback || [];
+			sas.cmd = sas.cmd || [];
+			sas.cmd.push(function() {
+				sas.setup({networkid: 3905, domain: 'https://www15.smartadserver.com', async: true});
+			});
+			sas.cmd.push(function() {
+				sas.call('onecall', {
+					siteId: 560111,
+					pageId: 1700829,
+					formats: [
+						{ id: 110354, tagId: "sas_110354" }
+					],
+					target: 'iab_category=IAB1;iab_category=IAB8;iab_category=IAB19;wp_blog_id=147936915',
+				});
+			});
+			sas.cmd.push(function() {
+				sas.events.on('noad', function(data) {
+					var el = document.getElementById(data.tagId);
+					var wrapper = el.closest('.wordads-ad-wrapper');
+					
+					if ( sas_fallback.length === 0 ) {
+						wrapper.remove();
+						return;
+					}
+					
+					// Process first tag.
+					var tag = sas_fallback[0].tag;
+					
+					// Unescape the tag markup.
+					var e = document.createElement('div');
+					e.innerHTML = tag;
+					tag = e.childNodes[0].nodeValue;
+					
+					// Insert the tag.
+					wrapper.innerHTML = tag;
+					
+					// Process any scripts in the tag.
+					var scripts = wrapper.querySelectorAll('script');
+					scripts.forEach( function (script) {
+						script.parentNode.removeChild(script);
+						
+						var scriptTag = document.createElement('script');
+						
+						if (script.src) {
+							scriptTag.src = script.src;
+						} else if (script.textContent) {
+							scriptTag.textContent = script.textContent;
+						} else if (script.innerText) {
+							scriptTag.innerText = script.innerText;
+						}
+						
+						document.body.appendChild(scriptTag);
+					});
+				});
+			});
+			sas.cmd.push(function() {
+				sas.events.on('load', function(data) {
+					var el = document.getElementById(data.tagId);
+					el.closest('.wordads-ad-wrapper').style.display = 'inherit';
+				});
+			});
+		</script>		<script type="text/javascript">
+		function __ATA_CC() {var v = document.cookie.match('(^|;) ?personalized-ads-consent=([^;]*)(;|$)');return v ? 1 : 0;}
+		var __ATA_PP = { 'pt': 1, 'ht': 1, 'tn': 'affinity', 'uloggedin': 0, 'amp': false, 'consent': __ATA_CC(), 'gdpr_applies': false, 'ad': { 'label': { 'text': 'Advertisements' }, 'reportAd': { 'text': 'Report this ad' } }, 'siteid': 147936915 };
+		var __ATA = __ATA || {};
+		__ATA.cmd = __ATA.cmd || [];
+		__ATA.criteo = __ATA.criteo || {};
+		__ATA.criteo.cmd = __ATA.criteo.cmd || [];
+		</script>
+		<script type="text/javascript">
+		(function(){var g=Date.now||function(){return+new Date};function h(a,b){a:{for(var c=a.length,d="string"==typeof a?a.split(""):a,e=0;e<c;e++)if(e in d&&b.call(void 0,d[e],e,a)){b=e;break a}b=-1}return 0>b?null:"string"==typeof a?a.charAt(b):a[b]};function k(a,b,c){c=null!=c?"="+encodeURIComponent(String(c)):"";if(b+=c){c=a.indexOf("#");0>c&&(c=a.length);var d=a.indexOf("?");if(0>d||d>c){d=c;var e=""}else e=a.substring(d+1,c);a=[a.substr(0,d),e,a.substr(c)];c=a[1];a[1]=b?c?c+"&"+b:b:c;a=a[0]+(a[1]?"?"+a[1]:"")+a[2]}return a};var l=0;function m(a,b){var c=document.createElement("script");c.src=a;c.onload=function(){b&&b(void 0)};c.onerror=function(){b&&b("error")};a=document.getElementsByTagName("head");var d;a&&0!==a.length?d=a[0]:d=document.documentElement;d.appendChild(c)}function n(a){var b=void 0===b?document.cookie:b;return(b=h(b.split("; "),function(c){return-1!=c.indexOf(a+"=")}))?b.split("=")[1]:""}function p(a){return"string"==typeof a&&0<a.length}
+		function r(a,b,c){b=void 0===b?"":b;c=void 0===c?".":c;var d=[];Object.keys(a).forEach(function(e){var f=a[e],q=typeof f;"object"==q&&null!=f||"function"==q?d.push(r(f,b+e+c)):null!==f&&void 0!==f&&(e=encodeURIComponent(b+e),d.push(e+"="+encodeURIComponent(f)))});return d.filter(p).join("&")}function t(a,b){a||((window.__ATA||{}).config=b.c,m(b.url))}var u=Math.floor(1E13*Math.random()),v=window.__ATA||{};window.__ATA=v;window.__ATA.cmd=v.cmd||[];v.rid=u;v.createdAt=g();var w=window.__ATA||{},x="s.pubmine.com";
+		w&&w.serverDomain&&(x=w.serverDomain);var y="//"+x+"/conf",z=window.top===window,A=window.__ATA_PP&&window.__ATA_PP.gdpr_applies,B="boolean"===typeof A?Number(A):null,C=window.__ATA_PP||null,D=z?document.referrer?document.referrer:null:null,E=z?window.location.href:document.referrer?document.referrer:null,F,G=n("__ATA_tuuid");F=G?G:null;var H=window.innerWidth+"x"+window.innerHeight,I=n("usprivacy"),J=r({gdpr:B,pp:C,rid:u,src:D,ref:E,tuuid:F,vp:H,us_privacy:I?I:null},"",".");
+		(function(a){var b=void 0===b?"cb":b;l++;var c="callback__"+g().toString(36)+"_"+l.toString(36);a=k(a,b,c);window[c]=function(d){t(void 0,d)};m(a,function(d){d&&t(d)})})(y+"?"+J);}).call(this);
+		</script>	<script>
+		var sas_fallback = sas_fallback || [];
+		sas_fallback.push(
+			{ tag: "&lt;div id=&quot;atatags-26942-63fe903397996&quot;&gt;&lt;/div&gt;&lt;script&gt;__ATA.cmd.push(function() {__ATA.initDynamicSlot({id: \'atatags-26942-63fe903397996\',location: 120,formFactor: \'001\',label: {text: \'Advertisements\',},creative: {reportAd: {text: \'Report this ad\',},privacySettings: {text: \'Privacy\',}}});});&lt;/script&gt;", }
+		);
+	</script><style type="text/css" id="custom-colors-css">
+	@media screen and ( min-width: 46em ) {
+		.site-description a,
+		.site-description a:visited {
+			color: white !important;
+		}
+		.main-navigation.toggled > div {
+			background: transparent !important;
+		}
+	}
+
+.button:hover, .button:active, .button:focus, button:hover, #infinite-handle span:hover, button:active, #infinite-handle span:active, button:focus, #infinite-handle span:focus, input[type="button"]:hover, input[type="button"]:active, input[type="button"]:focus, input[type="reset"]:hover, input[type="reset"]:active, input[type="reset"]:focus, input[type="submit"]:hover, input[type="submit"]:active, input[type="submit"]:focus { color: #FFFFFF;}
+.button:hover, .button:active, .button:focus, button:hover, #infinite-handle span:hover, button:active, #infinite-handle span:active, button:focus, #infinite-handle span:focus, input[type="button"]:hover, input[type="button"]:active, input[type="button"]:focus, input[type="reset"]:hover, input[type="reset"]:active, input[type="reset"]:focus, input[type="submit"]:hover, input[type="submit"]:active, input[type="submit"]:focus { border-color: #FFFFFF;}
+#infinite-handle span button:hover, #infinite-handle span button:focus, #infinite-handle span button:active { color: #FFFFFF;}
+#infinite-handle span:hover button, #infinite-handle span:focus button, #infinite-handle span:active button { color: #FFFFFF;}
+.button, button, #infinite-handle span, #infinite-handle span button, input[type="button"], input[type="reset"], input[type="submit"] { color: #232323;}
+.button, button, #infinite-handle span, input[type="button"], input[type="reset"], input[type="submit"] { border-color: #232323;}
+.menu-toggle { color: #FFFFFF;}
+body, button, #infinite-handle span, input, select, textarea { color: #5B5651;}
+label { color: #5E5853;}
+.site-footer .sep { color: #5B5651;}
+.page-links { color: #5B5651;}
+a:hover, a:focus, a:active { color: #383E44;}
+.entry-meta a:hover, .entry-meta a:focus, .entry-meta a:active { color: #383E44;}
+.entry-meta { color: #383E44;}
+.entry-footer { color: #383E44;}
+.comment-navigation a, .comment-navigation a:visited, .posts-navigation a, .posts-navigation a:visited, .post-navigation a, .post-navigation a:visited { color: #383E44;}
+.comment-navigation, .posts-navigation, .post-navigation { border-color: #e8e9ea;}
+.comment-navigation, .posts-navigation, .post-navigation { border-color: rgba( 232, 233, 234, 0.4 );}
+.entry-meta { border-color: #e8e9ea;}
+.entry-meta { border-color: rgba( 232, 233, 234, 0.5 );}
+#secondary .widget { border-color: #e8e9ea;}
+#secondary .widget { border-color: rgba( 232, 233, 234, 0.4 );}
+.widget-title { border-color: #e8e9ea;}
+.widget-title { border-color: rgba( 232, 233, 234, 0.4 );}
+.widget div > ul li, .widget > ul li { border-color: #e8e9ea;}
+.widget div > ul li, .widget > ul li { border-color: rgba( 232, 233, 234, 0.5 );}
+.hentry { border-color: #e8e9ea;}
+.hentry { border-color: rgba( 232, 233, 234, 0.5 );}
+.page-links { border-color: #e8e9ea;}
+.page-links { border-color: rgba( 232, 233, 234, 0.4 );}
+td, th { border-color: #e8e9ea;}
+td, th { border-color: rgba( 232, 233, 234, 0.5 );}
+.page-header { border-color: #e8e9ea;}
+.page-header { border-color: rgba( 232, 233, 234, 0.5 );}
+blockquote { border-color: #e8e9ea;}
+blockquote { border-color: rgba( 232, 233, 234, 0.5 );}
+.comment-body { border-color: #e8e9ea;}
+.comment-body { border-color: rgba( 232, 233, 234, 0.5 );}
+.entry-meta, .comment-meta { border-color: #e8e9ea;}
+.entry-meta, .comment-meta { border-color: rgba( 232, 233, 234, 0.5 );}
+input[type="text"], input[type="email"], input[type="url"], input[type="password"], input[type="search"], input[type="number"], input[type="tel"], input[type="range"], input[type="date"], input[type="month"], input[type="week"], input[type="time"], input[type="datetime"], input[type="datetime-local"], input[type="color"], textarea { border-color: #e8e9ea;}
+input[type="text"], input[type="email"], input[type="url"], input[type="password"], input[type="search"], input[type="number"], input[type="tel"], input[type="range"], input[type="date"], input[type="month"], input[type="week"], input[type="time"], input[type="datetime"], input[type="datetime-local"], input[type="color"], textarea { border-color: rgba( 232, 233, 234, 0.4 );}
+.footer-widgets .widget-title { color: #E8E9EA;}
+.footer-widgets { color: #E8E9EA;}
+.site-title a, .site-title a:visited { color: #E8E9EA;}
+body, .main-navigation.toggled > div { background-color: #d8d8d8;}
+.entry-title, .entry-title a, .entry-title a:visited { color: #5B5651;}
+h1, h2, h3, h4, h5, h6 { color: #5B5651;}
+.widget-title { color: #5B5651;}
+.comment-author .fn a, .comment-author .fn a:visited { color: #5B5651;}
+.affinity-front-page .no-featured-image .entry-title { color: #5B5651;}
+.main-navigation ul ul a, .main-navigation ul ul a:visited { color: #5E5853;}
+.button:hover, .button:active, .button:focus, button:hover, #infinite-handle span:hover, button:active, #infinite-handle span:active, button:focus, #infinite-handle span:focus, input[type="button"]:hover, input[type="button"]:active, input[type="button"]:focus, input[type="reset"]:hover, input[type="reset"]:active, input[type="reset"]:focus, input[type="submit"]:hover, input[type="submit"]:active, input[type="submit"]:focus { background-color: #5e5853;}
+.button:hover, .button:active, .button:focus, button:hover, #infinite-handle span:hover, button:active, #infinite-handle span:active, button:focus, #infinite-handle span:focus, input[type="button"]:hover, input[type="button"]:active, input[type="button"]:focus, input[type="reset"]:hover, input[type="reset"]:active, input[type="reset"]:focus, input[type="submit"]:hover, input[type="submit"]:active, input[type="submit"]:focus { outline-color: #5e5853;}
+.button:hover, .button:focus, .button:active { outline-color: #5e5853;}
+a, a:visited { color: #5C5550;}
+.post-navigation .title { color: #5C5550;}
+.site-footer { color: #5C5550;}
+blockquote { color: #5C5550;}
+.comment-navigation a:hover, .comment-navigation a:visited:hover, .posts-navigation a:hover, .posts-navigation a:visited:hover, .post-navigation a:hover, .post-navigation a:visited:hover { color: #5C5550;}
+.site-description a, .site-description a:visited { color: #5C5550;}
+.main-navigation ul ul a:hover, .main-navigation ul ul a.focus { color: #756C65;}
+.main-navigation ul ul li:hover > a:visited, .main-navigation ul ul li.focus > a:visited { color: #756C65;}
+.footer-widgets a, .footer-widgets a:visited { color: #99908A;}
+.button, button, #infinite-handle span, input[type="button"], input[type="reset"], input[type="submit"] { outline-color: #99908a;}
+.button, button, #infinite-handle span, input[type="button"], input[type="reset"], input[type="submit"] { background-color: #99908a;}
+input[type="text"]:focus, input[type="email"]:focus, input[type="url"]:focus, input[type="password"]:focus, input[type="search"]:focus, input[type="number"]:focus, input[type="tel"]:focus, input[type="range"]:focus, input[type="date"]:focus, input[type="month"]:focus, input[type="week"]:focus, input[type="time"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="color"]:focus, textarea:focus { border-color: #99908a;}
+</style>
+<link rel="icon" href="https://strugglesessions.files.wordpress.com/2018/06/maocircle-e1529516246557.png?w=32" sizes="32x32" />
+<link rel="icon" href="https://strugglesessions.files.wordpress.com/2018/06/maocircle-e1529516246557.png?w=192" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://strugglesessions.files.wordpress.com/2018/06/maocircle-e1529516246557.png?w=180" />
+<meta name="msapplication-TileImage" content="https://strugglesessions.files.wordpress.com/2018/06/maocircle-e1529516246557.png?w=270" />
+<!-- Your Google Analytics Plugin is missing the tracking ID -->
+</head>
+
+<body class="post-template-default single single-post postid-2469 single-format-standard custom-background wp-embed-responsive jps-theme-pub/affinity customizer-styles-applied custom-header-active tags-hidden author-hidden comment-hidden highlander-enabled highlander-light custom-colors">
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<header id="masthead" class="site-header" role="banner">
+
+		
+<div class="custom-header">
+	
+			<div class="custom-header-image" style="padding-top: 60%; background-image: url(https://strugglesessions.files.wordpress.com/2023/02/cropped-collage2.jpg);">
+			</div>
+
+	
+</div><!-- .custom-header -->
+
+		<div class="header-wrapper clear">
+	<div class="site-branding">
+					<p class="site-title"><a href="https://struggle-sessions.com/" rel="home">Ex-Struggle Sessions</a></p>
+			</div><!-- .site-branding -->
+
+	<nav id="site-navigation" class="main-navigation" role="navigation">
+	<button class="menu-toggle" aria-controls="top-menu" aria-expanded="false">Menu</button>
+	<div class="menu-ex-struggle-sessions-blog-container"><ul id="top-menu" class="menu"><li id="menu-item-2333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2333"><a href="https://struggle-sessions.com/homepage/">Homepage</a></li>
+<li id="menu-item-2353" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2353"><a href="https://struggle-sessions.com/contact/">Contact</a></li>
+<li id="menu-item-2316" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2316"><a href="https://struggle-sessions.com/category/rebellion/">Rebellion</a></li>
+<li id="menu-item-2356" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2356"><a href="https://struggle-sessions.com/category/dogma/">Dogma</a></li>
+<li id="menu-item-2398" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2398"><a href="https://struggle-sessions.com/dazibao-wall/">Dazibao Wall</a></li>
+</ul></div></nav><!-- #site-navigation -->
+</div><!-- .header-wrapper -->
+
+
+<h1 class="entry-title">Two Posts on &#8216;Daltonite Revisionism&#8217;</h1>
+	</header>
+
+	<div id="content" class="site-content">
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+		
+<article id="post-2469" class="post-2469 post type-post status-publish format-standard hentry category-rebellion">
+
+	
+	<header class="entry-header">
+		<h1 class="entry-title">Two Posts on &#8216;Daltonite Revisionism&#8217;</h1>	</header>
+
+	
+					<div class="entry-meta">
+			<span class="posted-on"><a href="https://struggle-sessions.com/2023/02/26/two-posts-on-daltonite-revisionism/" rel="bookmark"><time class="entry-date published" datetime="2023-02-26T05:00:00-05:00">February 26, 2023</time><time class="updated" datetime="2023-02-08T10:05:34-05:00">February 8, 2023</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="https://struggle-sessions.com/author/strugglesessions/">strugglesessions</a></span></span>		</div><!-- .entry-meta -->
+	
+	<div class="entry-content">
+
+		
+<p class="has-small-font-size">Note: the <a href="https://web.archive.org/web/20221226190839/https://hastebin.com/raw/fibifuquxu">following</a> two <a href="https://web.archive.org/web/20230112034236/https://hastebin.com/raw/upuruwujuf">essays</a> were published by a former Tribune supporter going by René. They provide a slightly different viewpoint and analysis of the revisionism of the crcpusa to what we have shared hitherto. I certainly don&#8217;t agree with everything written in these pieces, but am sharing it ~for the discourse~. There is also a lot of assumed background knowledge in this piece &#8211; </p>
+
+
+
+<h2 class="wp-block-heading">Theory and Practice of Daltonite Revisionism</h2>
+
+
+
+<p>René, 23 Dec 2022</p>
+
+
+
+<p>The US, as the dominant imperialist power and most advanced capitalist country, has consistently had the most advanced opportunists. The US has given the ICM Browderism, Avakianism, and recently Winstonism. These all came out of the petty bourgeoisie. Now we have a new trend crystallizing, and it too has managed to infect the ICM. It is unfortunate that some foreign comrades have mistaken him as a leader of American revolutionaries, but this is also our fault, as we failed to carry out thorough, genuinely communist criticism in a timely manner, which enabled Dalton to paint a handful of renegades as the sole opposition to a supposedly blossoming movement. Since the RCP, the American proletariat has not had an ideologically and organizationally strong Maoist movement, until the promising growth and consolidation of the CR-CPUSA. And just like the RCP, the CR-CPUSA was obliterated by a revisionist leadership that stifled every attempt to correct their mistakes. Just as Avakianite revisionism was thoroughly studied and its theoretical line shown to be counterrevolutionary, so too must Daltonite revisionism be scrutinized. There are some individuals also who stand against the worst organizational practices of the old clique but who nonetheless hold onto some of their mistaken ideas, which can hopefully be corrected here. In short, Dalton is the lumpen Trotsky, reenacting the antics of the Symbionese Liberation Army in his own idiotic way.</p>
+
+
+
+<p>In practice it is plain gangsterism. We cannot go into too much detail here because we do not want to endanger people who were physically and emotionally abused, but suffice to say the organizational practices were copied wholesale from the bourgeois armed forces, such as forced labor (not productive labor, but idiotic tasks like carrying heavy things uphill repeatedly), beatings, sham tribunals, threats of physical harm, and public humiliation. It must be noted that, while many people were unaware of the severity of the abuses that were occurring, this in no way excuses us from criticism. On the contrary, our own failure to criticize plainly reactionary lines and horrible organizational practices is rank liberalism. It is this exact sort of behavior that the revisionist center depended on to maintain power. In theory, it is the ideology of the lumpen proletariat which naturally resembles the scientific ideology of the proletariat, Marxism-Leninism-Maoism. Despite this resemblance, there were serious theoretical red flags which were minimized, ignored, or even mistakenly promoted by party cadre. The petty bourgeoisie that surrounded the lumpen core was unable to differentiate between street cred and revolutionary potential. Even now, this clique has hangers-on that deny the need for criticism or try to limit criticism in order to protect this group. Therefore we have to point out some of the early ideological red flags.</p>
+
+
+
+<p>The most obvious red flag was Dalton&#8217;s opposition to any concessions to the proletariat. This is a characteristic of the lumpen proletarians and petty bourgeoisie. Anything that strengthens the workers threatens the lumpen&#8217;s ability to leech off them. Without proper leadership, they fight against the interests of the proletariat. For example, when the liberals were talking about a vaccine mandate, instead of exposing the liberals for failing to enforce basic health measures including a vaccine mandate, they joined up with the petty bourgeois libertarians by claiming such a mandate was an affront to the workers&#8217; &#8220;dignity&#8221;. (Which is also laughable, implying that the workers can have dignity under a bourgeois dictatorship.) (<a href="https://tribuneofthepeoplenews.wordpress.com/2022/01/28/vaccine-mandates-punish-workers-to-protect-ruling-class-profits-not-health/" rel="nofollow">https://tribuneofthepeoplenews.wordpress.com/2022/01/28/vaccine-mandates-punish-workers-to-protect-ruling-class-profits-not-health/</a>) In a response to the Canadian rightist Moufawad-Paul, Dalton said, &#8220;What is being argued in Tribune of the People is that the consequences of the state’s policies are worse than the threat of the virus.&#8221; If you are arguing that the state&#8217;s measures against the virus are worse than the virus, you are arguing against those measures, plain and simple. The original reactionary line taken by the government and elaborated by Trump was that COVID was no big deal, if not a complete hoax concocted by the Chinese. Once this line was no longer defensible due to hundreds of thousands of deaths, Trump and his coterie walked it back to, &#8220;Yes, COVID is real, but we have to have our freedom,&#8221; and that the measures taken against the virus were excessive or even counterproductive. Is this not exactly the line Tribune peddled, except substituting &#8220;freedom&#8221; for &#8220;dignity&#8221; and small businesses with &#8220;the people&#8221;? The reality is there is no separating the danger of COVID from the state&#8217;s response. It is exactly as deadly as government health measures allow it to be, which is to say, extremely deadly. But Dalton, instead of pointing this out, or exposing the liberals for also failing to control the virus, joined in chorus with the bourgeois sycophants in decrying the inadequate government response as excessive. (<a href="https://web.archive.org/web/20200519025526/https://tribuneofthepeople.news/2020/04/10/open-letter-to-j-moufawad-paul-regarding-his-misrepresentations-of-tribune-of-the-people/" rel="nofollow">https://web.archive.org/web/20200519025526/https://tribuneofthepeople.news/2020/04/10/open-letter-to-j-moufawad-paul-regarding-his-misrepresentations-of-tribune-of-the-people/</a> ) Even before this, Dalton flirted with COVID denial. Joining up with the stupidest bourgeois pundits, Dalton repeated the short-sighted nonsense about the flu being more dangerous: &#8220;COVID-19 is still less deadly than the seasonal flu, with 2020 being a particularly bad year for the flu which has already claimed more lives (over 22,000) than the mysterious Coronavirus. Fears are increased and encouraged by the ruling class with the collaboration of the media, its loyal servant. For working people there is always a fear of getting sick, and it is usually related to missing work, medical costs, and not being able to pay bills or support ones family. For a large number of workers, not just in the service industry but in, logistics, retail and entertainment as well, this nightmare has already arrived with no Coronavirus symptoms.&#8221; Unlike Dalton, I actually work in logistics, and we were among the earliest infected, something we struggled with while also dealing with insane volume that exceeded peak season volume. (<a href="https://web.archive.org/web/20200519025514/https://tribuneofthepeople.news/2020/03/18/austin-reactionary-city-prohibits-gatherings-greater-than-ten-and-threatens-1000-fine/" rel="nofollow">https://web.archive.org/web/20200519025514/https://tribuneofthepeople.news/2020/03/18/austin-reactionary-city-prohibits-gatherings-greater-than-ten-and-threatens-1000-fine/</a> ) The lumpen is fine with coughing COVID all over service workers and spreading it in the big warehouses and factories, which is what actually happened under the liberal half-measures. On this issue, Dalton also harmonized with the liberals when he claimed COVID could be dealt with under a bourgeois dictatorship, by saying that it is not a question of ability: &#8220;However it is not mainly an issue of inability but one of unwillingness.&#8221; (<a href="https://web.archive.org/web/20200519025528/https://tribuneofthepeople.news/2020/03/27/imperialist-economic-crisis-is-the-real-motivation-for-of-enforced-isolation/" rel="nofollow">https://web.archive.org/web/20200519025528/https://tribuneofthepeople.news/2020/03/27/imperialist-economic-crisis-is-the-real-motivation-for-of-enforced-isolation/</a> ) This is both blatant idealism and a concession to the bourgeois state. The &#8220;will&#8221; of the capitalists is literally immaterial. If one, or even multiple capitalists, sincerely wanted to meet the needs of the workers, they would not be able to, since investment would immediately flow away from them and towards capitals that are not granting those concessions to health needs. Their attempt to paint the capitalists as pure evil in fact undermines basic materialist concepts. Their work is rife with left-sounding analysis that in fact has nothing in common with Marxism.</p>
+
+
+
+<p>There is also the theoretical issue of Dalton&#8217;s hatred of queer people. Dalton knew coming out openly against nonbinary people being in the party would expose him as a reactionary. Instead of flatly stating it, he separated himself from it by one degree, by saying that nonbinary people are the result of postmodernism and by association should be struggled against: &#8220;On the other hand, the ideology that underlies non-binary identification is rooted in idealism and reactionary postmodernism.&#8221; (<a href="https://struggle-sessions.com/2021/07/12/letter-to-the-editor-class-struggle-or-sexual-liberation/">https://struggle-sessions.com/2021/07/12/letter-to-the-editor-class-struggle-or-sexual-liberation/</a> ) Either Dalton is against non-binary people being in the party, or he is okay with idealism and reactionary postmodernism existing in the party. In both cases, this is a reactionary deviation that aligns perfectly with the bourgeoisie&#8217;s need to scapegoat outlier communities for social ills. Dalton evidently does not know the difference between a primarily biological phenomenon (non-binary-ness) and the ideological trend of postmodernism. &#8220;Don&#8217;t you really know that physiological phenomena, such as eating, for example, differ fundamentally from sociological phenomena […] Is it conceivable that that which does not change can determine that which is constantly changing?&#8221; (Stalin, Anarchism or Socialism)</p>
+
+
+
+<p>Dalton also repeatedly adhered to the &#8220;left&#8221; deviation of liquidating any organization of the most heavily exploited women. Most prostitutes are wage laborers who use prostitution to make up for lower wages. Naturally the lumpen would not want to see these people unionize, since it threatens their hold over vulnerable women: &#8220;Being under the control of a pimp prevents a prostitute from all independent activity and independent thinking. The woman chained by the pimp cannot be organized into a trade union. A union of prostitutes who through some unknown force have ceased to be enthralled to pimps, due to the inevitable emergence of leadership and people who professionally manage such a union, will inevitably just generate its own, internal pimps. This is true because if the union bureaucracy is not completely ineffective (that is, if the union actually exists and functions), they would find themselves enforcing payment from reneging johns, securing housing in times of income shortage, bribing or negotiating with police, and sustaining their professional organizers with dues: they would in essence be pimps with a more charitable subsidiary. The use of violent reprisal and or the lack thereof is not the decisive factor in determining a pimp’s relationship to production—what is principal is the fact of reproducing prostitutes. The likelihood of successfully organizing such a union— or even making a substantial attempt at doing so—is so slim that it hardly merits mention beyond the totally hypothetical. We give it attention here only to point out the utter ridiculousness of the right-opportunist line.&#8221;<br>(<a href="https://struggle-sessions.com/2019/01/14/political-economy-and-prostitution/">https://struggle-sessions.com/2019/01/14/political-economy-and-prostitution/</a> ) (Note also that all of these arguments can also be applied to the trade unions, who outright collaborate with police and act as capitalists inside the labor force responsible for selling the commodity of labor power.) This also obviously negates dialectics by claiming prostitutes aren&#8217;t capable of independent thought or activity. It is true that there are multiple classes involved in what is considered &#8220;sex work&#8221;, as is claimed in Struggle Sessions. But then why is organizing prostitutes written off completely, instead of explaining which ones have interests in common with the proletariat (i.e. the bulk of prostitutes who are proletarians or pauperized workers trying to survive) and which are completely antagonistic, that is, the pimps, police officers (who attack any attempt at organizing), pornographic media conglomerates, petty bourgeois pornographers, and so on.</p>
+
+
+
+<p>In the same work, Dalton comes out with an openly revisionist view of capitalism, which he claims &#8220;Creates relationships based on economic calculation and base physical and emotional needs as a rule.&#8221; Capitalism does not create relationships based on physical and emotional needs. The needs of the vast majority of people are undermined specifically by economic calculation, that is, the maximization of profit. He also peddled a philistine vision of communism as &#8220;a kingdom of eternal harmony&#8221; (<a href="https://tribuneofthepeoplenews.wordpress.com/2021/02/12/our-unalterable-goal/" rel="nofollow">https://tribuneofthepeoplenews.wordpress.com/2021/02/12/our-unalterable-goal/</a> ) which contradicts the dialectical view of struggle as the basis of life. This is complemented by his distorted view of the party. In another repudiation of Moufawad-Paul, he gave us the revisionist formula &#8220;All Leninism and all Maoism [sic] view centralism as principle over democracy in a unity of opposites.&#8221; (<a href="https://web.archive.org/web/20190317205234/https://struggle-sessions.com/2018/07/27/maoism-from-below/" rel="nofollow">https://web.archive.org/web/20190317205234/https://struggle-sessions.com/2018/07/27/maoism-from-below/</a> ) (Note that this was removed without criticism!) Centralism over democracy directly contradicts Mao&#8217;s formula, &#8220;First democracy, then centralism.&#8221; (Talk At An Enlarged Working Conference Convened By The Central Committee Of The Communist Party Of China) Centralism first is a Hoxhaist formula, not a Maoist one. Hoxha criticized the GPCR for violating party unity. The concept of centralism first is a negation of internal line struggle and therefore a negation of party life itself. Dalton obviously had no idea what the purpose of a communist party is when he wrote in &#8220;Condemned to Win&#8221; that &#8220;Serving the people is primary,&#8221; a red-NGO mentality that he later criticized the MCP-OC for.</p>
+
+
+
+<p>In the present day, he continues to peddle revisionism through the medium of the CI-IC. Dalton is so desperate, and so thoroughly discredited, that all he has left to do is exploit the prestige of the international communist movement. The letter that the CI published (<a href="https://ci-ic.org/blog/2022/12/21/a-statement-of-the-situation-of-the-maoists-in-the-usa/" rel="nofollow">https://ci-ic.org/blog/2022/12/21/a-statement-of-the-situation-of-the-maoists-in-the-usa/</a>) is a pathetic attempt on his part to reassert control over American Maoists. Dalton is furious at communists for publicizing his picture because he has been publicly outed as a counterrevolutionary and a danger to others, permanently destroying his ability to exploit vulnerable people. A key part of his strategy in keeping the Maoists under his thumb was secrecy. Apparently, some comrades cannot tell the difference between secrecy and security. In reality, Dalton and Avanti (his second in command and partner) had contempt for basic security, which led them straight into the arms of the reactionary state when Avanti Facebook Live streamed a protest where people were looting and burning private property. They kept illegal weapons in plain sight in their apartment, which again led Dalton into the arms of the state. Dalton is far too reckless to be lecturing anyone about security. Regarding this point, he is just embarrassing himself. As for accusations of liquidationism, we have to point out that Dalton liquidated the Red Guards, again under the pretense of security. Dalton cannot tell the difference between liquidating an organization and liquidating a revisionist clique because he identifies himself with the communist movement. So any attempt to force him to abide by democratic centralism or punish him for refusing is, by default, liquidating the communist party. Conversely, anything done to preserve his authority, including liquidation, negating majority decisions, and outright attacking cadre, is by default building up the communist party.</p>
+
+
+
+<p>The American Maoists have zero use for people like Dalton. That being said, we recognize the need to raise the struggle against his person to the level of line struggle. He says we have confused errors in practical work with differences of principles. But if we are liquidationists, as he claims, then surely we differ from him in principle? The CI statement blatantly contradicts itself. On one hand, we are liquidators and snitches doing the work of the bourgeois state, and on the other hand, he wants to unite with us through line struggle. On one hand he admits there were mistakes in &#8220;practical work&#8221; while calling for self-criticism and on the other hand he deflects all responsibility for the destruction of the CR-CPUSA onto the opposition. He calls for unity. Can revolutionaries unite with counterrevolutionaries? Can we permit violations of democratic centralism? Can we allow abusers into our ranks? Can we allow unrepentant renegade lumpen into leadership? We answer these firmly in the negative. That is why, amid all his talk of line struggle, Dalton never mentions a specific issue. If he were to plainly state these differences, his clique would be thoroughly discredited and his Trotskyite diatribes about unity exposed as a sham. It is a fact that when he was leader he actively suppressed line struggle. Like the average Trotskyite revisionist, he stifles debate when in control and demands freedom of debate as cover for wrecking activities when he is not. He betrays this when in the same article he advocates line struggle he demands struggle be limited to &#8220;internal channels&#8221;. And we ask, what exactly are we supposed to struggle over, and through what channels? Like the CPUSA revisionists, the Daltonite revisionists try to limit line struggle to the &#8220;proper channels&#8221; (i.e. those controlled by the revisionists), declare it an &#8220;internal matter&#8221; (instead of publicly criticizing, as any principled communist does), or even claim their own publications do not represent their thought accurately. Revisionists will invent any excuse to dodge the simple question of correct or incorrect, and that is exactly what Dalton is doing in his recent outburst. Dalton has had plenty of opportunities to rectify, and has consistently refused. And so his clique was liquidated and the Maoists have regrouped elsewhere. Dalton is, of course, free to declare himself the leader of a nonexistent party. But we are equally free to point out that he is a thug who has dedicated himself to destroying the nascent Maoist movement and its associated mass organizations, and that his revisionism has become a trend in its own right directly opposed to the workers and oppressed people. And for this reason we bitterly oppose him.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+
+
+<h2 class="wp-block-heading">Can Trotskyism Defeat Daltonite Revisionism?</h2>
+
+
+
+<p>René, 11 Jan 2023</p>
+
+
+
+<p>The ICL said the American communists need to do a better job differentiating between Yenan and Sian. Fair enough. The comparison with Yenan is giving us credit, though, that we really have not earned. Not only have we not established a revolutionary base, but we now find ourselves dealing with a centrist trend that, consciously or unconsciously, is hindering the struggle against Daltonite revisionism through their Trotskyite organizational practices and attitude towards ideological differences.</p>
+
+
+
+<p>First of all, we should point out that Trotskyism has a superficial resemblance to Maoism. Both extol struggle against bureaucracy, both have criticisms of Stalin, both claim to fight for the unity of workers of different nations, and both claim to uphold the revolutionary lessons imparted by Marx, Engels, and Lenin. So it is natural that some petty bourgeois will mistake their Trotskyism for Maoism and smuggle their Trotskyism into the Maoist camp. It is very possible that some centrists who have allied with us have made such a mistake. By centrist, we mean those people who have come out against both the Daltonite clique and the liquidators centered in Pittsburgh but who nonetheless have dragged their feet in providing us with ideological documentation of the Dalton cliques beliefs or otherwise worked to restrict criticism of that clique.</p>
+
+
+
+<p>Second of all, the very concept of a secret political line is revisionist. Maoists strive to construct the party, the army, and the united front for the purposes of overthrowing the bourgeois state. Since these three instruments operate in very different ways, they must be held together by the ideology of the proletariat. Uniting with people who hold a secret political line is an exercise in futility as demonstrated by the entire history of the ICM. The practice of the Trotskyite and Bukharinite blocs is still with us today and will remain with us so long as there are middle classes.</p>
+
+
+
+<p>Thirdly, communists, especially ones in the imperialist countries who are caught in a complex web of bourgeois democratic rights and bureaucratic and military restrictions on those rights, have a difficult time differentiating between operational security and arbitrary bureaucratic secrecy. The specifics of who, what, when, and where must remain as secret as circumstances require. The short and long term why, however, should never be concealed. Otherwise, how are communists supposed to give spontaneous movements the guidance they need? And what is supposed to sustain the party if political opinions are kept secret?</p>
+
+
+
+<p>As a positive example, the red UPS Teamsters cells are completely discrete. The bourgeois legal details of participating individuals are known only by individuals working in the same building. But the building cells are nonetheless in lockstep with the others thanks to the clarity of our goals (in the short term, the winning of concessions from UPS, in the long term, the destruction of UPS&#8217; agents that make up the IBT labor aristocracy) and our correct grasp of Marxism-Leninism-Maoism as well as our open expression of views and constant collaboration on all decisions that affect multiple buildings. As long as we hold the common interests of the UPS workers as the basis of our activity and adhere to Maoist strategy and tactics, we will continue to bring more workers under our influence and lead them to ever-larger victories. Our stance is so undeniably correct that even some anti-communist workers grudgingly recognize us as their only unwavering advocate. This is the complete opposite of the various Trotskyists within the union, who are constantly suffering splits (even within a single building) and all sorts of complications resulting from nebulous political beliefs and constant jockeying for union offices. Unlike us, the Trotskyists are viewed with suspicion by the few workers who are aware of their existence. They have a totally laissez-faire attitude towards safety but keep their political beliefs extremely close to the chest and are as vague as possible in all their publications, which kneecaps them practically and leads to bizarre attempts at unity such as the Trotskyist ISG joining with the revisionist PLP to get a steward elected in local 170. (A campaign which was a failure, but even if they had won the election, it would have had zero impact on the workers other than getting the individual steward some petty privileges.) All of this is to say that a stop must be put to the practice of covering up ideological and political differences on grounds of &#8220;security&#8221;. It is infinitely safer to allow people to openly air their views, and treat them accordingly, than to allow people to cover up their views and potentially enable bourgeois agents burrow into communist organizations.</p>
+
+
+
+<p>The &#8220;National Working Group&#8221; is a prime example of how not to treat differences of opinion. It is hard to imagine what greater service a supposedly anti-Dalton assemblage of CRCPUSA remnants could have done for the Daltonite clique. The NWG, to their credit, ensured the security of the liquidationist line as well as the vital safety of the Dalton clique&#8217;s political stances. A year later, we have just as little information as we did before the destruction of Tribune. In fact, the NWG, under the influence of now-open liquidationists, laid the groundwork for the Daltonite clique to stage a comeback, which they are now attempting. The NWG&#8217;s political and ideological sloppiness combined with their rigid and arbitrary rules were copied wholesale from the Trotskyist playbook, and now we are dealing with the consequences.</p>
+
+
+
+<p>Finally, we were hoping to get certain documents from the centrists mainly for the purposes of further elaborating on Daltonite revisionism as well as better exposing his clique before the ICM who we suspect are working with no information or even completely false information regarding the situation in the US. Obviously we support any campaign against abusers, and we understand if the Austin people in particular want to emphasize the immediate danger posed by certain individuals who are trying to reassert themselves among Austin communists. What we do not support is the continued concealment of the political line of the Daltonite clique and efforts to restrict criticism to interpersonal abuses. Severe as they were, the correct approach is to show the link between organizational abuses and political line, and clearly demonstrate their mutual origin and why they cannot be tolerated among communists. Divorcing the two can only help the Daltonite clique in their campaign to reassert themselves as well as help future abusers who may try to sneak into communist ranks using the same political line for cover. It is entirely possible that the centrists genuinely do not know better and do not see that the course they are pursuing will strengthen the Daltonites in the long run. It is also possible that their lack of follow-through is the result of some practical hindrance that, for safety reasons, they cannot share with us. The worst case, though, is that the centrists are just Trotskyists who are in the process of deserting the revolutionary camp, and that they intend to take information with them that could help us in the struggle against Daltonite revisionism. In which case, we have little to do but point out the alliance of convenience between the Daltonite revisionist clique, the liquidators, and the centrists in their struggle against the advanced section of the American proletariat as it carries forward the struggle for a revolutionary party.</p>
+<style>.wordads-ad-wrapper {display:none;font: normal 11px Arial, sans-serif;letter-spacing: 1px;text-decoration: none;width: 100%;margin: 25px auto;padding: 0;}.wordads-ad-title {margin-bottom: 5px;}.wordads-ad-controls {margin-top: 5px;text-align: right;}.wordads-ad-controls span {cursor: pointer;}.wordads-ad {width: fit-content;margin: 0 auto;}</style><div class="wordads-ad-wrapper"><div class="wordads-ad"><div class="wordads-ad-title">Advertisement</div><div class="wordads-ad-content" id="sas_110354"></div><div class="wordads-ad-controls"></div></div></div><script>sas.cmd.push(function() {sas.render("sas_110354");});window._stq = window._stq || [];window._stq.push( ['extra',{x_wordads_smart: 'render_sas_110354',},] );</script><div id="jp-post-flair" class="sharedaddy sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-2469" class="share-twitter sd-button share-icon no-text" href="https://struggle-sessions.com/2023/02/26/two-posts-on-daltonite-revisionism/?share=twitter" target="_blank" title="Click to share on Twitter" ><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-2469" class="share-facebook sd-button share-icon no-text" href="https://struggle-sessions.com/2023/02/26/two-posts-on-daltonite-revisionism/?share=facebook" target="_blank" title="Click to share on Facebook" ><span></span><span class="sharing-screen-reader-text">Click to share on Facebook (Opens in new window)</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button share-icon no-text" href="https://struggle-sessions.com/2023/02/26/two-posts-on-daltonite-revisionism/?share=reddit" target="_blank" title="Click to share on Reddit" ><span></span><span class="sharing-screen-reader-text">Click to share on Reddit (Opens in new window)</span></a></li><li class="share-tumblr"><a rel="nofollow noopener noreferrer" data-shared="" class="share-tumblr sd-button share-icon no-text" href="https://struggle-sessions.com/2023/02/26/two-posts-on-daltonite-revisionism/?share=tumblr" target="_blank" title="Click to share on Tumblr" ><span></span><span class="sharing-screen-reader-text">Click to share on Tumblr (Opens in new window)</span></a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-147936915-2469-63fe90339c4f7' data-src='//widgets.wp.com/likes/index.html?ver=20230213#blog_id=147936915&amp;post_id=2469&amp;origin=strugglesessions.wordpress.com&amp;obj_id=147936915-2469-63fe90339c4f7&amp;domain=struggle-sessions.com' data-name='like-post-frame-147936915-2469-63fe90339c4f7' data-title='Like or Reblog'><h3 class='sd-title'>Like this:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Like</span></span> <span class="loading">Loading...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div>
+<div id='jp-relatedposts' class='jp-relatedposts' >
+	<h3 class="jp-relatedposts-headline"><em>Related</em></h3>
+</div></div>	</div>
+
+				<footer class="entry-footer">
+		<span class="cat-links">Posted in <a href="https://struggle-sessions.com/category/rebellion/" rel="category tag">Rebellion</a></span>	</footer><!-- .entry-footer -->
+	
+</article><!-- #post-## -->
+
+	<nav class="navigation post-navigation" aria-label="Posts">
+		<h2 class="screen-reader-text">Post navigation</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="https://struggle-sessions.com/2023/02/23/liquidate-what-exactly/" rel="prev"><span class="title">Previous post</span>(Repost) Liquidate What,&nbsp;Exactly?</a></div></div>
+	</nav>
+		</main>
+	</div>
+	<aside id="secondary" class="widget-area" role="complementary">
+
+					<div id="atatags-1479369153-63fe90339cc8c"></div>
+			
+			<script>
+				__ATA.cmd.push(function() {
+					__ATA.initDynamicSlot({
+						id: 'atatags-1479369153-63fe90339cc8c',
+						location: 140,
+						formFactor: '003',
+						label: {
+							text: 'Advertisements',
+						},
+						creative: {
+							reportAd: {
+								text: 'Report this ad',
+							},
+							privacySettings: {
+								text: 'Privacy',
+								
+							}
+						}
+					});
+				});
+			</script><section id="jetpack-search-filters-2" class="widget jetpack-filters widget_search">			<div id="jetpack-search-filters-2-wrapper" class="jetpack-instant-search-wrapper">
+		<div class="jetpack-search-form"><form role="search" method="get" class="search-form" action="https://struggle-sessions.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			<input type="hidden" name="orderby" value="" /><input type="hidden" name="order" value="" /></form></div>		<h4 class="jetpack-search-filters-widget__sub-heading">
+			Categories		</h4>
+		<ul class="jetpack-search-filters-widget__filter-list">
+							<li>
+								<a href="#" class="jetpack-search-filter__link" data-filter-type="taxonomy" data-taxonomy="category" data-val="dogma">
+						Dogma&nbsp;(49)					</a>
+				</li>
+							<li>
+								<a href="#" class="jetpack-search-filter__link" data-filter-type="taxonomy" data-taxonomy="category" data-val="rebellion">
+						Rebellion&nbsp;(11)					</a>
+				</li>
+					</ul>
+				<h4 class="jetpack-search-filters-widget__sub-heading">
+			Year		</h4>
+		<ul class="jetpack-search-filters-widget__filter-list">
+							<li>
+								<a href="#" class="jetpack-search-filter__link" data-filter-type="year_post_date"  data-val="2023-01-01 00:00:00" >
+						2023&nbsp;(13)					</a>
+				</li>
+							<li>
+								<a href="#" class="jetpack-search-filter__link" data-filter-type="year_post_date"  data-val="2022-01-01 00:00:00" >
+						2022&nbsp;(5)					</a>
+				</li>
+							<li>
+								<a href="#" class="jetpack-search-filter__link" data-filter-type="year_post_date"  data-val="2021-01-01 00:00:00" >
+						2021&nbsp;(11)					</a>
+				</li>
+							<li>
+								<a href="#" class="jetpack-search-filter__link" data-filter-type="year_post_date"  data-val="2020-01-01 00:00:00" >
+						2020&nbsp;(8)					</a>
+				</li>
+							<li>
+								<a href="#" class="jetpack-search-filter__link" data-filter-type="year_post_date"  data-val="2019-01-01 00:00:00" >
+						2019&nbsp;(12)					</a>
+				</li>
+					</ul>
+		</div></section><section id="archives-4" class="widget widget_archive"><h2 class="widget-title">Archives</h2>
+			<ul>
+					<li><a href='https://struggle-sessions.com/2023/02/'>February 2023</a></li>
+	<li><a href='https://struggle-sessions.com/2023/01/'>January 2023</a></li>
+	<li><a href='https://struggle-sessions.com/2022/02/'>February 2022</a></li>
+	<li><a href='https://struggle-sessions.com/2021/11/'>November 2021</a></li>
+	<li><a href='https://struggle-sessions.com/2021/08/'>August 2021</a></li>
+	<li><a href='https://struggle-sessions.com/2021/06/'>June 2021</a></li>
+	<li><a href='https://struggle-sessions.com/2021/05/'>May 2021</a></li>
+	<li><a href='https://struggle-sessions.com/2021/04/'>April 2021</a></li>
+	<li><a href='https://struggle-sessions.com/2021/02/'>February 2021</a></li>
+	<li><a href='https://struggle-sessions.com/2021/01/'>January 2021</a></li>
+	<li><a href='https://struggle-sessions.com/2020/10/'>October 2020</a></li>
+	<li><a href='https://struggle-sessions.com/2020/09/'>September 2020</a></li>
+	<li><a href='https://struggle-sessions.com/2020/08/'>August 2020</a></li>
+	<li><a href='https://struggle-sessions.com/2020/06/'>June 2020</a></li>
+	<li><a href='https://struggle-sessions.com/2020/05/'>May 2020</a></li>
+	<li><a href='https://struggle-sessions.com/2020/04/'>April 2020</a></li>
+	<li><a href='https://struggle-sessions.com/2019/12/'>December 2019</a></li>
+	<li><a href='https://struggle-sessions.com/2019/11/'>November 2019</a></li>
+	<li><a href='https://struggle-sessions.com/2019/10/'>October 2019</a></li>
+	<li><a href='https://struggle-sessions.com/2019/08/'>August 2019</a></li>
+	<li><a href='https://struggle-sessions.com/2019/06/'>June 2019</a></li>
+	<li><a href='https://struggle-sessions.com/2019/05/'>May 2019</a></li>
+	<li><a href='https://struggle-sessions.com/2019/01/'>January 2019</a></li>
+	<li><a href='https://struggle-sessions.com/2018/12/'>December 2018</a></li>
+	<li><a href='https://struggle-sessions.com/2018/09/'>September 2018</a></li>
+	<li><a href='https://struggle-sessions.com/2018/08/'>August 2018</a></li>
+	<li><a href='https://struggle-sessions.com/2018/07/'>July 2018</a></li>
+	<li><a href='https://struggle-sessions.com/2018/06/'>June 2018</a></li>
+			</ul>
+
+			</section>			<div id="atatags-1479369153-63fe90339da90"></div>
+			
+			<script>
+				__ATA.cmd.push(function() {
+					__ATA.initDynamicSlot({
+						id: 'atatags-1479369153-63fe90339da90',
+						location: 140,
+						formFactor: '003',
+						label: {
+							text: 'Advertisements',
+						},
+						creative: {
+							reportAd: {
+								text: 'Report this ad',
+							},
+							privacySettings: {
+								text: 'Privacy',
+								
+							}
+						}
+					});
+				});
+			</script>
+	</aside>
+
+	</div>
+	<footer id="colophon" class="site-footer" role="contentinfo">
+
+		
+			<div class="footer-widgets clear">
+		<div class="widget-areas">
+							<div class="widget-area">
+					<section id="block-5" class="widget widget_block">
+<div class="jetpack-simple-payments-wrapper jetpack-simple-payments-2413"><div class="jetpack-simple-payments-product"><div class="jetpack-simple-payments-product-image"><div class="jetpack-simple-payments-image"><figure><img decoding="async" src="https://strugglesessions.files.wordpress.com/2023/02/20160515crexplainer-slide-cyb7-superjumbo-e1675552618146.jpg" alt="20160515crexplainer-slide-cyb7-superjumbo" /></figure></div></div><div class="jetpack-simple-payments-details"><div class="jetpack-simple-payments-title"><p>Donate against Hate!</p></div><div class="jetpack-simple-payments-description"><p>If you feel like helping us out. I promise the money will go to good things and not just cute little pens and notebooks and highlighters and post-it notes. :)</p></div><div class="jetpack-simple-payments-price"><p>$1.00</p></div><div class="jetpack-simple-payments-purchase-message" id="jetpack-simple-payments-2413_1-message-container"></div><div class="jetpack-simple-payments-purchase-box">
+				<div class="jetpack-simple-payments-items">
+					<input class="jetpack-simple-payments-items-number" type="number" value="1" min="1" id="jetpack-simple-payments-2413_1_number" />
+				</div>
+				<div class="jetpack-simple-payments-button" id="jetpack-simple-payments-2413_1_button"></div></div></div></div></div>
+</section>				</div><!-- .widget-area -->
+			
+			
+					</div><!-- .widget-areas -->
+	</div><!-- .footer-widgets -->
+
+		<div class="site-info">
+	<a href="https://wordpress.com/?ref=footer_custom_svg" title="Create a website or blog at WordPress.com" rel="nofollow"><svg style="fill: currentColor; position: relative; top: 1px;" width="14px" height="15px" viewBox="0 0 14 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-labelledby="title" role="img">
+				<desc id="title">Create a website or blog at WordPress.com</desc>
+				<path d="M12.5225848,4.97949746 C13.0138466,5.87586309 13.2934037,6.90452431 13.2934037,7.99874074 C13.2934037,10.3205803 12.0351007,12.3476807 10.1640538,13.4385638 L12.0862862,7.88081544 C12.4453251,6.98296834 12.5648813,6.26504621 12.5648813,5.62667922 C12.5648813,5.39497674 12.549622,5.17994084 12.5225848,4.97949746 L12.5225848,4.97949746 Z M7.86730089,5.04801561 C8.24619178,5.02808979 8.58760099,4.98823815 8.58760099,4.98823815 C8.9267139,4.94809022 8.88671369,4.44972248 8.54745263,4.46957423 C8.54745263,4.46957423 7.52803983,4.54957381 6.86996227,4.54957381 C6.25158863,4.54957381 5.21247202,4.46957423 5.21247202,4.46957423 C4.87306282,4.44972248 4.83328483,4.96816418 5.17254589,4.98823815 C5.17254589,4.98823815 5.49358462,5.02808979 5.83269753,5.04801561 L6.81314716,7.73459399 L5.43565839,11.8651647 L3.14394256,5.04801561 C3.52312975,5.02808979 3.86416859,4.98823815 3.86416859,4.98823815 C4.20305928,4.94809022 4.16305906,4.44972248 3.82394616,4.46957423 C3.82394616,4.46957423 2.80475558,4.54957381 2.14660395,4.54957381 C2.02852925,4.54957381 1.88934333,4.54668493 1.74156477,4.54194422 C2.86690406,2.83350881 4.80113651,1.70529256 6.99996296,1.70529256 C8.638342,1.70529256 10.1302017,2.33173369 11.2498373,3.35765419 C11.222726,3.35602457 11.1962815,3.35261718 11.1683554,3.35261718 C10.5501299,3.35261718 10.1114609,3.89113285 10.1114609,4.46957423 C10.1114609,4.98823815 10.4107217,5.42705065 10.7296864,5.94564049 C10.969021,6.36482346 11.248578,6.90326506 11.248578,7.68133501 C11.248578,8.21992476 11.0413918,8.84503256 10.7696866,9.71584277 L10.1417574,11.8132391 L7.86730089,5.04801561 Z M6.99996296,14.2927074 C6.38218192,14.2927074 5.78595654,14.2021153 5.22195356,14.0362644 L7.11048207,8.54925635 L9.04486267,13.8491542 C9.05760348,13.8802652 9.07323319,13.9089317 9.08989995,13.9358945 C8.43574834,14.1661896 7.73285573,14.2927074 6.99996296,14.2927074 L6.99996296,14.2927074 Z M0.706448182,7.99874074 C0.706448182,7.08630113 0.902152921,6.22015756 1.25141403,5.43749503 L4.25357806,13.6627848 C2.15393732,12.6427902 0.706448182,10.4898387 0.706448182,7.99874074 L0.706448182,7.99874074 Z M6.99996296,0.999 C3.14016476,0.999 0,4.13905746 0,7.99874074 C0,11.8585722 3.14016476,14.999 6.99996296,14.999 C10.8596871,14.999 14,11.8585722 14,7.99874074 C14,4.13905746 10.8596871,0.999 6.99996296,0.999 L6.99996296,0.999 Z" id="wordpress-logo-simplified-cmyk" stroke="none" fill=“currentColor” fill-rule="evenodd"></path>
+			</svg></a>
+	
+	</div><!-- .site-info -->
+	</footer>
+</div>
+<!--  -->
+		<div class="jetpack-instant-search__widget-area" style="display: none">
+							<div id="jetpack-search-filters-1" class="widget jetpack-filters widget_search">			<div id="jetpack-search-filters-1-wrapper" class="jetpack-instant-search-wrapper">
+		</div></div>					</div>
+		<script src='//0.gravatar.com/js/gprofiles.js?ver=202309z' id='grofiles-cards-js'></script>
+<script id='wpgroho-js-extra'>
+var WPGroHo = {"my_hash":""};
+</script>
+<script crossorigin='anonymous' type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1610363240h'></script>
+
+	<script>
+		// Initialize and attach hovercards to all gravatars
+		( function() {
+			function init() {
+				if ( typeof Gravatar === 'undefined' ) {
+					return;
+				}
+
+				if ( typeof Gravatar.init !== 'function' ) {
+					return;
+				}
+
+				Gravatar.profile_cb = function ( hash, id ) {
+					WPGroHo.syncProfileData( hash, id );
+				};
+
+				Gravatar.my_hash = WPGroHo.my_hash;
+				Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+			}
+
+			if ( document.readyState !== 'loading' ) {
+				init();
+			} else {
+				document.addEventListener( 'DOMContentLoaded', init );
+			}
+		} )();
+	</script>
+
+		<div style="display:none">
+	</div>
+		<script type="text/javascript">
+		( function() {
+			function init() {
+				document.body.addEventListener( 'is.post-load', function() {
+					if ( typeof __ATA.insertInlineAds === 'function' ) {
+						__ATA.insertInlineAds();
+					}
+				} );
+			}
+
+			if ( document.readyState !== 'loading' ) {
+				init();
+			} else {
+				document.addEventListener( 'DOMContentLoaded', init );
+			}
+		} )();
+		</script>	<div id="actionbar" style="display: none;"
+			class="actnbr-pub-affinity actnbr-has-follow">
+		<ul>
+								<li class="actnbr-btn actnbr-hidden">
+								<a class="actnbr-action actnbr-actn-follow " href="">
+			<svg class="gridicon gridicons-reader-follow" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M23 16v2h-3v3h-2v-3h-3v-2h3v-3h2v3h3zM20 2v9h-4v3h-3v4H4c-1.1 0-2-.9-2-2V2h18zM8 13v-1H4v1h4zm3-3H4v1h7v-1zm0-2H4v1h7V8zm7-4H4v2h14V4z"/></g></svg><span>Follow</span>
+		</a>
+		<a class="actnbr-action actnbr-actn-following  no-display" href="">
+			<svg class="gridicon gridicons-reader-following" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M23 13.482L15.508 21 12 17.4l1.412-1.388 2.106 2.188 6.094-6.094L23 13.482zm-7.455 1.862L20 10.89V2H2v14c0 1.1.9 2 2 2h4.538l4.913-4.832 2.095 2.176zM8 13H4v-1h4v1zm3-2H4v-1h7v1zm0-2H4V8h7v1zm7-3H4V4h14v2z"/></g></svg><span>Following</span>
+		</a>
+							<div class="actnbr-popover tip tip-top-left actnbr-notice" id="follow-bubble">
+							<div class="tip-arrow"></div>
+							<div class="tip-inner actnbr-follow-bubble">
+															<ul>
+											<li class="actnbr-sitename">
+			<a href="https://struggle-sessions.com">
+				<img alt='' src='https://strugglesessions.files.wordpress.com/2018/06/maocircle-e1529516246557.png?w=50' class='avatar avatar-50' height='50' width='50' />				Ex-Struggle Sessions			</a>
+		</li>
+										<form method="post" action="https://subscribe.wordpress.com" accept-charset="utf-8" style="display: none;">
+																						<div class="actnbr-follow-count">Join 121 other followers</div>
+																					<div>
+										<input type="email" name="email" placeholder="Enter your email address" class="actnbr-email-field" aria-label="Enter your email address" />
+										</div>
+										<input type="hidden" name="action" value="subscribe" />
+										<input type="hidden" name="blog_id" value="147936915" />
+										<input type="hidden" name="source" value="https://struggle-sessions.com/2023/02/26/two-posts-on-daltonite-revisionism/" />
+										<input type="hidden" name="sub-type" value="actionbar-follow" />
+										<input type="hidden" id="_wpnonce" name="_wpnonce" value="b615054a54" />										<div class="actnbr-button-wrap">
+											<button type="submit" value="Sign me up">
+												Sign me up											</button>
+										</div>
+									</form>
+									<li class="actnbr-login-nudge">
+										<div>
+											Already have a WordPress.com account? <a href="https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fstruggle-sessions.com%252F2023%252F02%252F26%252Ftwo-posts-on-daltonite-revisionism%252F">Log in now.</a>										</div>
+									</li>
+								</ul>
+															</div>
+						</div>
+					</li>
+							<li class="actnbr-ellipsis actnbr-hidden">
+				<svg class="gridicon gridicons-ellipsis" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M7 12c0 1.104-.896 2-2 2s-2-.896-2-2 .896-2 2-2 2 .896 2 2zm12-2c-1.104 0-2 .896-2 2s.896 2 2 2 2-.896 2-2-.896-2-2-2zm-7 0c-1.104 0-2 .896-2 2s.896 2 2 2 2-.896 2-2-.896-2-2-2z"/></g></svg>				<div class="actnbr-popover tip tip-top-left actnbr-more">
+					<div class="tip-arrow"></div>
+					<div class="tip-inner">
+						<ul>
+									<li class="actnbr-sitename">
+			<a href="https://struggle-sessions.com">
+				<img alt='' src='https://strugglesessions.files.wordpress.com/2018/06/maocircle-e1529516246557.png?w=50' class='avatar avatar-50' height='50' width='50' />				Ex-Struggle Sessions			</a>
+		</li>
+								<li class="actnbr-folded-customize">
+								<a href="https://strugglesessions.wordpress.com/wp-admin/customize.php?url=https%3A%2F%2Fstrugglesessions.wordpress.com%2F2023%2F02%2F26%2Ftwo-posts-on-daltonite-revisionism%2F">
+									<svg class="gridicon gridicons-customize" height="20" width="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M2 6c0-1.505.78-3.08 2-4 0 .845.69 2 2 2 1.657 0 3 1.343 3 3 0 .386-.08.752-.212 1.09.74.594 1.476 1.19 2.19 1.81L8.9 11.98c-.62-.716-1.214-1.454-1.807-2.192C6.753 9.92 6.387 10 6 10c-2.21 0-4-1.79-4-4zm12.152 6.848l1.34-1.34c.607.304 1.283.492 2.008.492 2.485 0 4.5-2.015 4.5-4.5 0-.725-.188-1.4-.493-2.007L18 9l-2-2 3.507-3.507C18.9 3.188 18.225 3 17.5 3 15.015 3 13 5.015 13 7.5c0 .725.188 1.4.493 2.007L3 20l2 2 6.848-6.848c1.885 1.928 3.874 3.753 5.977 5.45l1.425 1.148 1.5-1.5-1.15-1.425c-1.695-2.103-3.52-4.092-5.448-5.977z"/></g></svg>									<span>Customize</span>
+								</a>
+							</li>
+																<li class="actnbr-folded-follow">
+												<a class="actnbr-action actnbr-actn-follow " href="">
+			<svg class="gridicon gridicons-reader-follow" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M23 16v2h-3v3h-2v-3h-3v-2h3v-3h2v3h3zM20 2v9h-4v3h-3v4H4c-1.1 0-2-.9-2-2V2h18zM8 13v-1H4v1h4zm3-3H4v1h7v-1zm0-2H4v1h7V8zm7-4H4v2h14V4z"/></g></svg><span>Follow</span>
+		</a>
+		<a class="actnbr-action actnbr-actn-following  no-display" href="">
+			<svg class="gridicon gridicons-reader-following" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M23 13.482L15.508 21 12 17.4l1.412-1.388 2.106 2.188 6.094-6.094L23 13.482zm-7.455 1.862L20 10.89V2H2v14c0 1.1.9 2 2 2h4.538l4.913-4.832 2.095 2.176zM8 13H4v-1h4v1zm3-2H4v-1h7v1zm0-2H4V8h7v1zm7-3H4V4h14v2z"/></g></svg><span>Following</span>
+		</a>
+										</li>
+																	<li class="actnbr-signup"><a href="https://wordpress.com/start/">Sign up</a></li>
+									<li class="actnbr-login"><a href="https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fstruggle-sessions.com%252F2023%252F02%252F26%252Ftwo-posts-on-daltonite-revisionism%252F">Log in</a></li>
+																	<li class="actnbr-shortlink"><a href="https://wp.me/pa0J9h-DP">Copy shortlink</a></li>
+																	<li class="flb-report"><a href="http://en.wordpress.com/abuse/">Report this content</a></li>
+																	<li class="actnbr-reader">
+										<a href="https://wordpress.com/read/blogs/147936915/posts/2469">
+											View post in Reader										</a>
+									</li>
+																	<li class="actnbr-subs">
+										<a href="https://subscribe.wordpress.com/">Manage subscriptions</a>
+									</li>
+																		<li class="actnbr-fold"><a href="">Collapse this bar</a></li>
+															</ul>
+					</div>
+				</div>
+			</li>
+		</ul>
+	</div>
+	
+<script>
+window.addEventListener( "load", function( event ) {
+	var link = document.createElement( "link" );
+	link.href = "https://s0.wp.com/wp-content/mu-plugins/actionbar/actionbar.css?v=20210915";
+	link.type = "text/css";
+	link.rel = "stylesheet";
+	document.head.appendChild( link );
+
+	var script = document.createElement( "script" );
+	script.src = "https://s0.wp.com/wp-content/mu-plugins/actionbar/actionbar.js?v=20220329";
+	script.defer = true;
+	document.body.appendChild( script );
+} );
+</script>
+
+	
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/struggle-sessions.com\/2023\/02\/26\/two-posts-on-daltonite-revisionism\/":2469};
+	</script>
+				<link crossorigin='anonymous' rel='stylesheet' id='all-css-0-2' href='https://s2.wp.com/_static/??/wp-includes/css/dashicons.min.css,/wp-content/mu-plugins/jetpack-plugin/production/modules/simple-payments/simple-payments.css?m=1656429961j&cssminify=yes' type='text/css' media='all' />
+<script type='text/javascript'>
+var JetpackInstantSearchOptions=JSON.parse(decodeURIComponent("%7B%22overlayOptions%22%3A%7B%22colorTheme%22%3A%22light%22%2C%22enableInfScroll%22%3Atrue%2C%22enablePostDate%22%3Atrue%2C%22enableSort%22%3Atrue%2C%22highlightColor%22%3A%22%23abb8c3%22%2C%22overlayTrigger%22%3A%22immediate%22%2C%22resultFormat%22%3A%22expanded%22%2C%22showPoweredBy%22%3Atrue%2C%22defaultSort%22%3A%22relevance%22%2C%22excludedPostTypes%22%3A%5B%5D%7D%2C%22homeUrl%22%3A%22https%3A%5C%2F%5C%2Fstruggle-sessions.com%22%2C%22locale%22%3A%22en%22%2C%22postsPerPage%22%3A10%2C%22siteId%22%3A147936915%2C%22postTypes%22%3A%7B%22post%22%3A%7B%22singular_name%22%3A%22Post%22%2C%22name%22%3A%22Posts%22%7D%2C%22page%22%3A%7B%22singular_name%22%3A%22Page%22%2C%22name%22%3A%22Pages%22%7D%2C%22attachment%22%3A%7B%22singular_name%22%3A%22Media%22%2C%22name%22%3A%22Media%22%7D%7D%2C%22webpackPublicPath%22%3A%22https%3A%5C%2F%5C%2Fs2.wp.com%5C%2Fwp-content%5C%2Fmu-plugins%5C%2Fjetpack-plugin%5C%2Fproduction%5C%2Fjetpack_vendor%5C%2Fautomattic%5C%2Fjetpack-search%5C%2Fbuild%5C%2Finstant-search%5C%2F%22%2C%22isPhotonEnabled%22%3Atrue%2C%22isFreePlan%22%3Atrue%2C%22apiRoot%22%3A%22https%3A%5C%2F%5C%2Fpublic-api.wordpress.com%5C%2F%22%2C%22apiNonce%22%3A%22813a2f89c6%22%2C%22isPrivateSite%22%3Afalse%2C%22isWpcom%22%3Atrue%2C%22hasOverlayWidgets%22%3Atrue%2C%22widgets%22%3A%5B%7B%22filters%22%3A%5B%7B%22name%22%3A%22Mentions%22%2C%22type%22%3A%22taxonomy%22%2C%22taxonomy%22%3A%22mentions%22%2C%22count%22%3A5%2C%22widget_id%22%3A%22jetpack-search-filters-1%22%2C%22filter_id%22%3A%22taxonomy_0%22%7D%2C%7B%22name%22%3A%22Categories%22%2C%22type%22%3A%22taxonomy%22%2C%22taxonomy%22%3A%22category%22%2C%22count%22%3A5%2C%22widget_id%22%3A%22jetpack-search-filters-1%22%2C%22filter_id%22%3A%22taxonomy_1%22%7D%2C%7B%22name%22%3A%22Tags%22%2C%22type%22%3A%22taxonomy%22%2C%22taxonomy%22%3A%22post_tag%22%2C%22count%22%3A5%2C%22widget_id%22%3A%22jetpack-search-filters-1%22%2C%22filter_id%22%3A%22taxonomy_2%22%7D%2C%7B%22name%22%3A%22Year%22%2C%22type%22%3A%22date_histogram%22%2C%22count%22%3A5%2C%22field%22%3A%22post_date%22%2C%22interval%22%3A%22year%22%2C%22widget_id%22%3A%22jetpack-search-filters-1%22%2C%22filter_id%22%3A%22date_histogram_3%22%7D%5D%2C%22widget_id%22%3A%22jetpack-search-filters-1%22%7D%5D%2C%22widgetsOutsideOverlay%22%3A%5B%7B%22filters%22%3A%5B%7B%22name%22%3A%22Mentions%22%2C%22type%22%3A%22taxonomy%22%2C%22taxonomy%22%3A%22mentions%22%2C%22count%22%3A5%2C%22widget_id%22%3A%22jetpack-search-filters-2%22%2C%22filter_id%22%3A%22taxonomy_4%22%7D%2C%7B%22name%22%3A%22Categories%22%2C%22type%22%3A%22taxonomy%22%2C%22taxonomy%22%3A%22category%22%2C%22count%22%3A5%2C%22widget_id%22%3A%22jetpack-search-filters-2%22%2C%22filter_id%22%3A%22taxonomy_5%22%7D%2C%7B%22name%22%3A%22Tags%22%2C%22type%22%3A%22taxonomy%22%2C%22taxonomy%22%3A%22post_tag%22%2C%22count%22%3A5%2C%22widget_id%22%3A%22jetpack-search-filters-2%22%2C%22filter_id%22%3A%22taxonomy_6%22%7D%2C%7B%22name%22%3A%22Year%22%2C%22type%22%3A%22date_histogram%22%2C%22count%22%3A5%2C%22field%22%3A%22post_date%22%2C%22interval%22%3A%22year%22%2C%22widget_id%22%3A%22jetpack-search-filters-2%22%2C%22filter_id%22%3A%22date_histogram_7%22%7D%5D%2C%22widget_id%22%3A%22jetpack-search-filters-2%22%7D%5D%2C%22hasNonSearchWidgets%22%3Afalse%7D"));
+</script>
+<script crossorigin='anonymous' type='text/javascript' src='https://s0.wp.com/_static/??-eJx9j1FuAjEMRC9E1g0SpXwgjoKyiVkSEick9pbevkFaEEJqvzz2s2dk+C7KZmIkhiSqRJk8NQjIxdjL0kOp2YllnwlSVxEb3I+MZXXKNUFocK+q8U9nQ2grePHt1OHsLZbbO3qJjP7Sba+CgmdDLmJ9X35sTtLbEevUSUWY9WbQg1YjjOKjA6kRPDm8DcnTP4F//7iQ44zkcgUjnJNh9vZ509BUe14Cuxkb4scwlEX17EPa68/tdqO/duuP8AvTYoha'></script>
+<script crossorigin='anonymous' src='//stats.wp.com/w.js?ver=202309' id='jp-tracks-js'></script>
+<script id='comment-like-js-extra'>
+var comment_like_text = {"loading":"Loading...","swipeUrl":"https:\/\/s2.wp.com\/wp-content\/mu-plugins\/comment-likes\/js\/lib\/swipe.js?ver=20131008"};
+</script>
+<script crossorigin='anonymous' type='text/javascript' src='https://s2.wp.com/_static/??-eJyVkN0OgjAMhV/IsRjUhAvjs5T9YNnWLXRTeXuHxoQQb7hrTs/X9lQ+k1CRsqEsQxHJlwGJpYohVEl4dIbluBGakQ+ygkjKF/01YIDBsI+gjW4C0j9PAI40zev2b3e+m1BNqfQSrEXCPEtgNvkD2kIqYyTehxE8cIAF3Mexw1STkhM2qsLC4ms7YPUr0DWP6GFa8mUz1UrkCZRbrr2F6/Fy7tq2607t+Ab6rIhx'></script>
+<script src='https://www.paypalobjects.com/api/checkout.js' id='paypal-checkout-js-js'></script>
+<script id='sharing-js-js-extra'>
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+</script>
+<script crossorigin='anonymous' type='text/javascript' src='https://s2.wp.com/_static/??-eJyVzVEOwiAQBNALSTc1StIP41EMwqZdCsuGhWhvLzFewL83HzMDLzG+cENukLuR1FdihYhNnN9/GaSW0H2jwpCHEiooZUloxB15dBUGxCWDb6moavyGfi+9TVFP8O/Hg9jDs1MKoJurGFwIx5fE65SJx+o932Z7tZfzstg5fgAWKUr0'></script>
+<script type='text/javascript'>
+try{PaypalExpressCheckout.renderButton( '147936915', '2413', 'jetpack-simple-payments-2413_1', '1' );}catch(e){}
+</script>
+<script type='text/javascript'>
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-twitter' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-twitter' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+						return false;
+					}
+				} );
+			} )();
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-facebook' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-facebook' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+						return false;
+					}
+				} );
+			} )();
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-tumblr' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-tumblr' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomtumblr', 'menubar=1,resizable=1,width=450,height=450' );
+						return false;
+					}
+				} );
+			} )();
+</script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script>	<iframe src='https://widgets.wp.com/likes/master.html?ver=20230213#ver=20230213&amp;origin=https://struggle-sessions.com' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
+	<div id='likes-other-gravatars'>
+		<div class="likes-text">
+			<span>%d</span> bloggers like this:		</div>
+		<ul class="wpl-avatars sd-like-gravatars"></ul>
+	</div>
+
+		<script src="//stats.wp.com/w.js?63" defer></script> <script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'147936915','blog_tz':'-5','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'147936915','v':'wpcom','tz':'-5','user_id':'0','post':'2469','subd':'strugglesessions'}]);
+_stq.push(['extra', {'crypt':'UE5VTUIlVktzQVNtcFdrRlVoJUNZcTJRQnxOUXdtdVVIWW9zcyVldEdoeldWVEh8ejBLKzBkN0pzLzIxZC9IMmM4anwlYWViW1pOMFhlUG5Jc3c/T0Y0M3M5Q2tlVlE2aDBOSG98MW49bUZGSC98UkZTcmM5akNJQnlOTTRzPT83LSZyc25zbCszUFYvczdvb3F5emNQeUlockolVGQyT09FLXR3M0JBMmZEPXllLjNiWXxQcF1iVVlWcythOXhrTUhtZ3pSSEJ6V1BqVV83VnxOMGZ0VFNvZQ=='}]);
+_stq.push([ 'clickTrackerInit', '147936915', '2469' ]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:1px;width:1px;overflow:hidden;position:absolute;bottom:1px;" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>
+</body>
+</html>

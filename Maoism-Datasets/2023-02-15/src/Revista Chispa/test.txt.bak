@@ -1,0 +1,924 @@
+<!DOCTYPE html>
+
+<html class="no-js" lang="es">
+
+<head>
+
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+
+	<title>VAMOS ARGENTINA &#8211; Revista Chispa</title>
+<script type="text/javascript">
+  WebFontConfig = {"google":{"families":["Oswald:r:latin,latin-ext","Merriweather+Sans:r,i,b,bi:latin,latin-ext"]},"api_url":"https:\/\/fonts-api.wp.com\/css"};
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = 'https://revistachispa.org/wp-content/mu-plugins/wpcomsh/vendor/automattic/custom-fonts/js/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+	})();
+</script><style id="jetpack-custom-fonts-css"></style>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//fonts-api.wp.com' />
+<link rel='dns-prefetch' href='//widgets.wp.com' />
+<link rel='dns-prefetch' href='//jetpack.wordpress.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//public-api.wordpress.com' />
+<link rel='dns-prefetch' href='//0.gravatar.com' />
+<link rel='dns-prefetch' href='//1.gravatar.com' />
+<link rel='dns-prefetch' href='//2.gravatar.com' />
+<link rel='dns-prefetch' href='//i0.wp.com' />
+<link rel='dns-prefetch' href='//c0.wp.com' />
+<link rel="alternate" type="application/rss+xml" title="Revista Chispa &raquo; Feed" href="https://revistachispa.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Revista Chispa &raquo; Feed de los comentarios" href="https://revistachispa.org/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Revista Chispa &raquo; Comentario VAMOS ARGENTINA del feed" href="https://revistachispa.org/2022/12/17/vamos-argentina/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/revistachispa.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1.1"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://c0.wp.com/c/6.1.1/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='mediaelement-css' href='https://c0.wp.com/c/6.1.1/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://c0.wp.com/c/6.1.1/wp-includes/js/mediaelement/wp-mediaelement.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://c0.wp.com/c/6.1.1/wp-includes/css/classic-themes.min.css' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='wpcom-text-widget-styles-css' href='https://revistachispa.org/wp-content/mu-plugins/wpcomsh/vendor/automattic/text-media-widget-styles/css/widget-text.css?ver=20170607' type='text/css' media='all' />
+<link rel='stylesheet' id='block-lite-style-css' href='https://revistachispa.org/wp-content/themes/block-lite/style.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='block-lite-style-conditionals-css' href='https://revistachispa.org/wp-content/themes/block-lite/css/style-conditionals.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='block-lite-style-mobile-css' href='https://revistachispa.org/wp-content/themes/block-lite/css/style-mobile.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='https://revistachispa.org/wp-content/themes/block-lite/css/font-awesome.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='block-lite-fonts-css' href='//fonts-api.wp.com/css?family=Raleway%3A400%2C200%2C300%2C800%2C700%2C500%2C600%2C900%2C100%7CMontserrat%3A100%2C100i%2C200%2C200i%2C300%2C300i%2C400%2C400i%2C500%2C500i%2C600%2C600i%2C700%2C700i%2C800%2C800i%2C900%2C900i%7CMerriweather%3A300%2C300i%2C400%2C400i%2C700%2C700i&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='wpforo-widgets-css' href='https://revistachispa.org/wp-content/plugins/wpforo/themes/2022/widgets.css?ver=2.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wpforo-dynamic-style-css' href='https://revistachispa.org/wp-content/uploads/wpforo/assets/colors.css?ver=2.1.6.8791b329842b434018f86964fbd1ff09' type='text/css' media='all' />
+<link rel='stylesheet' id='social-logos-css' href='https://revistachispa.org/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=11.9-a.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css' href='https://revistachispa.org/wp-content/plugins/jetpack/css/jetpack.css?ver=11.9-a.1' type='text/css' media='all' />
+<script type='text/javascript' id='media-video-jwt-bridge-js-extra'>
+/* <![CDATA[ */
+var videopressAjax = {"ajaxUrl":"https:\/\/revistachispa.org\/wp-admin\/admin-ajax.php","bridgeUrl":"https:\/\/revistachispa.org\/wp-content\/plugins\/jetpack\/jetpack_vendor\/automattic\/jetpack-videopress\/src\/..\/build\/lib\/token-bridge.js","post_id":"8964"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://revistachispa.org/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-videopress/src/../build/lib/token-bridge.js?ver=0.10.9' id='media-video-jwt-bridge-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/6.1.1/wp-includes/js/jquery/jquery.min.js' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/6.1.1/wp-includes/js/jquery/jquery-migrate.min.js' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://revistachispa.org/wp-content/themes/block-lite/js/jquery.sidr.js?ver=1.0' id='jquery-sidr-js'></script>
+<script type='text/javascript' src='https://revistachispa.org/wp-content/themes/block-lite/js/jquery.fitvids.js?ver=1.0' id='jquery-fitvids-js'></script>
+<script type='text/javascript' src='https://revistachispa.org/wp-content/themes/block-lite/js/jquery.bgBrightness.js?ver=1.0' id='jquery-bg-brightness-js'></script>
+<link rel="https://api.w.org/" href="https://revistachispa.org/wp-json/" /><link rel="alternate" type="application/json" href="https://revistachispa.org/wp-json/wp/v2/posts/8964" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://revistachispa.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://revistachispa.org/wp-includes/wlwmanifest.xml" />
+
+<link rel="canonical" href="https://revistachispa.org/2022/12/17/vamos-argentina/" />
+<link rel='shortlink' href='https://wp.me/p7SPSw-2kA' />
+<link rel="alternate" type="application/json+oembed" href="https://revistachispa.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frevistachispa.org%2F2022%2F12%2F17%2Fvamos-argentina%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://revistachispa.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frevistachispa.org%2F2022%2F12%2F17%2Fvamos-argentina%2F&#038;format=xml" />
+	<style>img#wpstats{display:none}</style>
+				<style type="text/css">
+			.recentcomments a {
+				display: inline !important;
+				padding: 0 !important;
+				margin: 0 !important;
+			}
+
+			table.recentcommentsavatartop img.avatar, table.recentcommentsavatarend img.avatar {
+				border: 0px;
+				margin: 0;
+			}
+
+			table.recentcommentsavatartop a, table.recentcommentsavatarend a {
+				border: 0px !important;
+				background-color: transparent !important;
+			}
+
+			td.recentcommentsavatarend, td.recentcommentsavatartop {
+				padding: 0px 0px 1px 0px;
+				margin: 0px;
+			}
+
+			td.recentcommentstextend {
+				border: none !important;
+				padding: 0px 0px 2px 10px;
+			}
+
+			.rtl td.recentcommentstextend {
+				padding: 0px 10px 2px 0px;
+			}
+
+			td.recentcommentstexttop {
+				border: none;
+				padding: 0px 0px 0px 10px;
+			}
+
+			.rtl td.recentcommentstexttop {
+				padding: 0px 10px 0px 0px;
+			}
+		</style>
+		<meta name="description" content="El 20 de noviembre empezó el mundial de futbol en Catar, el evento más importante de este deporte y el más esperado por lxs fanáticos del fútbol. En la cancha y fuera de ella, asoman las disputas de un mundo en conflicto, de un sistema capitalista voraz que intenta apropiarse de este deporte popular, para&hellip;" />
+<link rel="amphtml" href="https://revistachispa.org/2022/12/17/vamos-argentina/amp/">			<style type="text/css">
+				/* If html does not have either class, do not show lazy loaded images. */
+				html:not( .jetpack-lazy-images-js-enabled ):not( .js ) .jetpack-lazy-image {
+					display: none;
+				}
+			</style>
+			<script>
+				document.documentElement.classList.add(
+					'jetpack-lazy-images-js-enabled'
+				);
+			</script>
+		
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="VAMOS ARGENTINA" />
+<meta property="og:url" content="https://revistachispa.org/2022/12/17/vamos-argentina/" />
+<meta property="og:description" content="El 20 de noviembre empezó el mundial de futbol en Catar, el evento más importante de este deporte y el más esperado por lxs fanáticos del fútbol. En la cancha y fuera de ella, asoman las disputas d…" />
+<meta property="article:published_time" content="2022-12-18T01:15:24+00:00" />
+<meta property="article:modified_time" content="2023-02-08T23:38:18+00:00" />
+<meta property="og:site_name" content="Revista Chispa" />
+<meta property="og:image" content="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/6393a12b23248_1200.jpg?fit=1200%2C675&#038;ssl=1" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="675" />
+<meta property="og:image:alt" content="" />
+<meta property="og:locale" content="es_ES" />
+<meta name="twitter:text:title" content="VAMOS ARGENTINA" />
+<meta name="twitter:image" content="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/6393a12b23248_1200.jpg?fit=1200%2C675&#038;ssl=1&#038;w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="icon" href="https://i0.wp.com/revistachispa.org/wp-content/uploads/2020/04/cropped-avatar-perfil-ig_mesa-de-trabajo-1_mesa-de-trabajo-1-4.jpg?fit=32%2C32&#038;ssl=1" sizes="32x32" />
+<link rel="icon" href="https://i0.wp.com/revistachispa.org/wp-content/uploads/2020/04/cropped-avatar-perfil-ig_mesa-de-trabajo-1_mesa-de-trabajo-1-4.jpg?fit=192%2C192&#038;ssl=1" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://i0.wp.com/revistachispa.org/wp-content/uploads/2020/04/cropped-avatar-perfil-ig_mesa-de-trabajo-1_mesa-de-trabajo-1-4.jpg?fit=180%2C180&#038;ssl=1" />
+<meta name="msapplication-TileImage" content="https://i0.wp.com/revistachispa.org/wp-content/uploads/2020/04/cropped-avatar-perfil-ig_mesa-de-trabajo-1_mesa-de-trabajo-1-4.jpg?fit=270%2C270&#038;ssl=1" />
+
+	<style>
+
+		.wp-custom-header {
+			background-image: url('https://revistachispa.org/wp-content/uploads/2020/05/2020-05-24-Contacto-3_Mesa-de-trabajo-1.jpg');
+	}
+	
+	#wrapper .footer {
+		background-color: #f4f4f4;	}
+
+	.block-header-inactive #header {
+		background-color: #000000;	}
+
+	</style>
+
+	<link rel="stylesheet" type="text/css" id="wp-custom-css" href="https://revistachispa.org/?custom-css=6c177c43ff" /><!-- Your Google Analytics Plugin is missing the tracking ID -->
+
+</head>
+
+<body class="post-template-default single single-post postid-8964 single-format-standard wp-custom-logo block-has-logo block-nav-center block-desc-center block-desc-active block-no-social-menu block-has-img block-header-inactive block-header-video-inactive block-singular wpf-default wpft- wpf-guest wpfu-group-4 wpf-theme-2022 wpf-is_standalone-0 wpf-boardid-0 is_wpforo_page-0 is_wpforo_url-0 is_wpforo_shortcode_page-0">
+
+<!-- BEGIN #wrapper -->
+<div id="wrapper">
+
+	<!-- BEGIN #header -->
+	<header id="header">
+
+		<!-- BEGIN #nav-bar -->
+		<div id="nav-bar">
+
+					<p class="site-title">
+				<a href="https://revistachispa.org/" rel="home">Revista Chispa</a>
+			</p>
+		
+		
+			<!-- BEGIN #navigation -->
+			<nav id="navigation" class="navigation-main" role="navigation" aria-label="Primary Navigation">
+
+				<ul id="menu-quienes-somos" class="menu" role="menubar"><li id="menu-item-51" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-51"><a href="https://revistachispa.org/?customize_changeset_uuid=8573a318-4590-4554-a888-65b48cfbf92c"><span>INICIO</span></a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="https://revistachispa.org/quienes-somos/"><span>Quiénes somos</span></a></li>
+<li id="menu-item-19" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-19" aria-haspopup="true" aria-expanded="false" tabindex="0"><a href="http://revistachispa.org/"><span>SECCIONES</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-138" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-138"><a href="https://revistachispa.org/category/politica/"><span>Actualidad</span></a></li>
+	<li id="menu-item-50" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-50"><a href="https://revistachispa.org/category/campesinado/"><span>Agrarias</span></a></li>
+	<li id="menu-item-8283" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8283"><a href="https://revistachispa.org/category/medio-ambiente/"><span>Ambiente</span></a></li>
+	<li id="menu-item-2907" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2907" aria-haspopup="true" aria-expanded="false" tabindex="0"><a href="https://revistachispa.org/category/bonus/"><span>Bonus</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-2909" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2909"><a href="https://revistachispa.org/category/bonus/libros/"><span>Libros</span></a></li>
+		<li id="menu-item-4098" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4098"><a href="https://revistachispa.org/category/musica/"><span>Música</span></a></li>
+		<li id="menu-item-2910" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2910"><a href="https://revistachispa.org/category/bonus/peliculas-y-series/"><span>Películas y Series</span></a></li>
+		<li id="menu-item-3879" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3879"><a href="https://revistachispa.org/category/videojuegos/"><span>videojuegos</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-3960" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3960"><a href="https://revistachispa.org/category/comunismo/"><span>Comunismo</span></a></li>
+	<li id="menu-item-565" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-565"><a href="https://revistachispa.org/category/cultura/"><span>Cultura</span></a></li>
+	<li id="menu-item-42" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-42"><a href="https://revistachispa.org/category/deporte/"><span>Deporte</span></a></li>
+	<li id="menu-item-338" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-338"><a href="https://revistachispa.org/category/derechos-humanos/"><span>Derechos Humanos</span></a></li>
+	<li id="menu-item-745" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-745"><a href="https://revistachispa.org/category/educacion/"><span>Educación</span></a></li>
+	<li id="menu-item-3971" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3971"><a href="https://revistachispa.org/category/lgtb/"><span>LGTBI+</span></a></li>
+	<li id="menu-item-799" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-799"><a href="https://revistachispa.org/category/movimiento-obrero/"><span>Movimiento Obrero</span></a></li>
+	<li id="menu-item-43" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-43"><a href="https://revistachispa.org/category/mujeres/"><span>Mujeres</span></a></li>
+	<li id="menu-item-3940" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3940"><a href="https://revistachispa.org/category/mundo/"><span>Mundo</span></a></li>
+	<li id="menu-item-820" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-820"><a href="https://revistachispa.org/category/lucha-contra-la-droga/"><span>Ni Un Pibe Menos Por La Droga</span></a></li>
+	<li id="menu-item-1088" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1088"><a href="https://revistachispa.org/category/campesinado/"><span>Pueblos Originarios</span></a></li>
+	<li id="menu-item-3878" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3878"><a href="https://revistachispa.org/category/protagonistas/"><span>Protagonistas</span></a></li>
+	<li id="menu-item-337" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-337"><a href="https://revistachispa.org/category/soberania/"><span>Soberanía</span></a></li>
+	<li id="menu-item-3880" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3880"><a href="https://revistachispa.org/category/tecno/"><span>Tecno</span></a></li>
+</ul>
+</li>
+<li id="menu-item-6393" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6393"><a href="https://revistachispa.org/cursos/"><span>Cursos</span></a></li>
+<li id="menu-item-6688" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6688"><a href="https://bit.ly/33RIrdX"><span>Archivo histórico</span></a></li>
+</ul>
+			<!-- END #navigation -->
+			</nav>
+
+			<button type="button" id="menu-toggle" class="menu-toggle" href="#sidr">
+				<svg class="icon-menu-open" version="1.1" id="icon-open" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+					width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+					<rect y="2" width="24" height="2"/>
+					<rect y="11" width="24" height="2"/>
+					<rect y="20" width="24" height="2"/>
+				</svg>
+				<svg class="icon-menu-close" version="1.1" id="icon-close" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+					<rect x="0" y="11" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 12 28.9706)" width="24" height="2"/>
+					<rect x="0" y="11" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 28.9706 12)" width="24" height="2"/>
+				</svg>
+			</button>
+
+		
+		<!-- END #nav-bar -->
+		</div>
+
+		
+			
+		
+	<!-- END #header -->
+	</header>
+
+	<!-- BEGIN .container -->
+	<main class="container" role="main">
+
+<!-- BEGIN .post class -->
+<div class="post-8964 post type-post status-publish format-standard has-post-thumbnail hentry category-inicio" id="post-8964">
+
+	
+
+
+	<!-- BEGIN .row -->
+	<header class="row" role="banner">
+
+		<div class="featured-img banner-img" style="background-image: url(https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/6393a12b23248_1200.jpg?resize=1200%2C675&#038;ssl=1);">
+							<div class="img-title">
+											<p class="post-author"><span class="meta-prep meta-prep-author">Posted on</span> 17 diciembre, 2022 <em>by</em> revistachispa</p>
+										<h1 class="img-headline">VAMOS ARGENTINA</h1>
+									</div>
+						<img width="1200" height="675" src="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/6393a12b23248_1200.jpg?resize=1200%2C675&amp;ssl=1" class="attachment-block-featured-large size-block-featured-large wp-post-image jetpack-lazy-image" alt decoding="async" data-attachment-id="8967" data-permalink="https://revistachispa.org/2022/12/17/vamos-argentina/6393a12b23248_1200/" data-orig-file="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/6393a12b23248_1200.jpg?fit=1200%2C675&amp;ssl=1" data-orig-size="1200,675" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="6393a12b23248_1200" data-image-description data-image-caption data-medium-file="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/6393a12b23248_1200.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/6393a12b23248_1200.jpg?fit=760%2C428&amp;ssl=1" data-lazy-srcset="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/6393a12b23248_1200.jpg?w=1200&amp;ssl=1 1200w, https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/6393a12b23248_1200.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/6393a12b23248_1200.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/6393a12b23248_1200.jpg?resize=768%2C432&amp;ssl=1 768w" data-lazy-sizes="(max-width: 1200px) 100vw, 1200px" data-lazy-src="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/6393a12b23248_1200.jpg?resize=1200%2C675&amp;ssl=1&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">		</div>
+
+	<!-- END .row -->
+	</header>
+
+
+	<!-- BEGIN .row -->
+	<div class="row">
+
+		<!-- BEGIN .content -->
+		<div class="content">
+
+			<!-- BEGIN .sixteen columns -->
+			<section class="sixteen columns">
+
+				
+
+	<!-- BEGIN .entry-content -->
+	<article class="entry-content">
+
+		
+		
+<p>El 20 de noviembre empezó el mundial de futbol en Catar, el evento más importante de este deporte y el más esperado por lxs fanáticos del fútbol. En la cancha y fuera de ella, asoman las disputas de un mundo en conflicto, de un sistema capitalista voraz que intenta apropiarse de este deporte popular, para que sea de unos pocos, y no de todos, como la vida misma.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img data-attachment-id="8967" data-permalink="https://revistachispa.org/2022/12/17/vamos-argentina/6393a12b23248_1200/" data-orig-file="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/6393a12b23248_1200.jpg?fit=1200%2C675&amp;ssl=1" data-orig-size="1200,675" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="6393a12b23248_1200" data-image-description data-image-caption data-medium-file="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/6393a12b23248_1200.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/6393a12b23248_1200.jpg?fit=760%2C428&amp;ssl=1" decoding="async" width="760" height="428" src="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/6393a12b23248_1200.jpg?resize=760%2C428&#038;ssl=1" alt class="wp-image-8967 jetpack-lazy-image" data-recalc-dims="1" data-lazy-srcset="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/6393a12b23248_1200.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/6393a12b23248_1200.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/6393a12b23248_1200.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/6393a12b23248_1200.jpg?w=1200&amp;ssl=1 1200w" data-lazy-sizes="(max-width: 760px) 100vw, 760px" data-lazy-src="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/6393a12b23248_1200.jpg?resize=760%2C428&amp;is-pending-load=1#038;ssl=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img data-lazy-fallback="1" data-attachment-id="8967" data-permalink="https://revistachispa.org/2022/12/17/vamos-argentina/6393a12b23248_1200/" data-orig-file="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/6393a12b23248_1200.jpg?fit=1200%2C675&amp;ssl=1" data-orig-size="1200,675" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="6393a12b23248_1200" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/6393a12b23248_1200.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/6393a12b23248_1200.jpg?fit=760%2C428&amp;ssl=1" decoding="async" loading="lazy" width="760" height="428" src="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/6393a12b23248_1200.jpg?resize=760%2C428&#038;ssl=1" alt="" class="wp-image-8967" srcset="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/6393a12b23248_1200.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/6393a12b23248_1200.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/6393a12b23248_1200.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/6393a12b23248_1200.jpg?w=1200&amp;ssl=1 1200w" sizes="(max-width: 760px) 100vw, 760px" data-recalc-dims="1"  /></noscript></figure></div>
+
+
+<p> Los mundiales son únicos y especiales. Es uno de los eventos donde más se exacerba el amor por nuestro país, por la patria. La camiseta argentina nos une de norte a sur, con una fuerza y una emoción difícil de explicar con palabras, que solo se entiende con el corazón. Nuestra participación en los mundiales tuvo grandes hitos y capítulos que quedaron para la historia. Maradona y el gol a los ingleses después de la guerra de Malvinas, el gol más antiimperialista de los mundiales. Las finales ganadas y perdidas, llenan las páginas de nuestra memoria colectiva con recuerdos épicos y gloriosos, pero también con derrotas dolorosas. El fútbol es mucho más que un partido de 11 contra 11, es un reflejo&nbsp; de la vida, de sus alegrías, tristezas y desde ya, de sus injusticias.</p>
+
+
+
+<p><a></a>Argentina llegó a este mundial con una ilusión enorme. Con Messi, el ídolo de nuestra generación, jugando quizás el último de su exitosa e increíble carrera, y liderando un gran grupo: la scaloneta, a la que nos “subimos” con todo porque nos representa.&nbsp; Con el sabor de la consagración en la Copa América y con la esperanza de coronar.</p>
+
+
+
+<p>Pero también, el mundial encuentra a Argentina en un momento muy difícil para las amplias mayorías populares que sufren las consecuencias de una pandemia y una crisis económica que golpea muy duro los bolsillos de los laburantes, jubilados y de la juventud, para quienes viajar a Catar, para alentar a la selección es un sueño imposible. Aun así, nos entusiasmamos, nos juntamos entre amigos y con la familia para gritar los goles, cantar las canciones de cancha, y compartir todos los sentimientos que nos provoca el fútbol. Un deporte que está en el ADN profundo de nuestra identidad. Pocos países viven con tanta locura, expectativa, y euforia el futbol, cómo el nuestro. Es que el Diego nos dejó la vara alta, allá por el 86, dejando la vida en cada partido por los colores y cumpliendo el sueño de todxs: ser campeón del mundo.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img data-attachment-id="8968" data-permalink="https://revistachispa.org/2022/12/17/vamos-argentina/680516-48180-000-332a368/" data-orig-file="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/680516-48180-000-332a368.jpg?fit=960%2C640&amp;ssl=1" data-orig-size="960,640" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;AFP or licensors&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="680516-48180-000-332a368" data-image-description data-image-caption data-medium-file="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/680516-48180-000-332a368.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/680516-48180-000-332a368.jpg?fit=760%2C507&amp;ssl=1" decoding="async" width="760" height="507" src="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/680516-48180-000-332a368.jpg?resize=760%2C507&#038;ssl=1" alt class="wp-image-8968 jetpack-lazy-image" data-recalc-dims="1" data-lazy-srcset="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/680516-48180-000-332a368.jpg?w=960&amp;ssl=1 960w, https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/680516-48180-000-332a368.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/680516-48180-000-332a368.jpg?resize=768%2C512&amp;ssl=1 768w" data-lazy-sizes="(max-width: 760px) 100vw, 760px" data-lazy-src="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/680516-48180-000-332a368.jpg?resize=760%2C507&amp;is-pending-load=1#038;ssl=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img data-lazy-fallback="1" data-attachment-id="8968" data-permalink="https://revistachispa.org/2022/12/17/vamos-argentina/680516-48180-000-332a368/" data-orig-file="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/680516-48180-000-332a368.jpg?fit=960%2C640&amp;ssl=1" data-orig-size="960,640" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;AFP or licensors&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="680516-48180-000-332a368" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/680516-48180-000-332a368.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/680516-48180-000-332a368.jpg?fit=760%2C507&amp;ssl=1" decoding="async" loading="lazy" width="760" height="507" src="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/680516-48180-000-332a368.jpg?resize=760%2C507&#038;ssl=1" alt="" class="wp-image-8968" srcset="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/680516-48180-000-332a368.jpg?w=960&amp;ssl=1 960w, https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/680516-48180-000-332a368.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/680516-48180-000-332a368.jpg?resize=768%2C512&amp;ssl=1 768w" sizes="(max-width: 760px) 100vw, 760px" data-recalc-dims="1"  /></noscript></figure></div>
+
+
+<p><strong>La otra cara de Catar</strong></p>
+
+
+
+<p><a></a>Pero los mundiales tienen también sus datos de color, y lo ideológico y lo de clase, atraviesa el fútbol como todo en la vida cotidiana. Las elecciones de las sedes son cada vez más arbitrarias, con pocos argumentos futbolísticos y por causas económicas y de negociados escandalosos. Sin embargo las luchas por la igualdad entre hombres y mujeres, por los derechos y la visibilidad de las diversidades, etc, se hicieron eco en este mundial, que tiene como organizador a uno de los países que más vulnera estos derechos. Ya en el acto de apertura, se negaron a participar Dua Lipa, Shakira y otros artistas en repudio a esto. También la selección alemana exigió poder usar como brazalete la bandera del Orgullo (One Love), petición que le fue negada por la FIFA y generó un amplio repudio. Es el primer mundial donde las mujeres comienzan a tener más protagonismo en lugares importantes: por primera vez hay árbitras mujeres y también relatoras y comentaristas.</p>
+
+
+
+<p>Los estadios donde se juegan los partidos fueron construidos por miles de obreros explotados y migrantes, que murieron por las malas condiciones de trabajo en la construcción de esos mismos estadios. No es el primer mundial que se organiza en un país que intenta «lavar un poco su cara represiva»: ya pasó con Mussolini en Italia (1934), con Argentina (1978) en plena dictadura militar, con Rusia (2018), que venía de aprobar leyes homofóbicas, y&nbsp; que en este certamen no participará por la invasión a Ucrania, aunque otros países imperialistas si lo hacen, como es el caso de Estados Unidos. Es importante no olvidar esto, y comprender que los mundiales son también hechos políticos. Las clases dominantes y el sistema se apropian del deporte más popular del mundo, para hacer del mismo un negocio, y extraer ganancias a gran escala.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img data-attachment-id="8970" data-permalink="https://revistachispa.org/2022/12/17/vamos-argentina/wqhwuq4ar5ltcq22y3fbqvksqq/" data-orig-file="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/WQHWUQ4AR5LTCQ22Y3FBQVKSQQ.webp?fit=1440%2C930&amp;ssl=1" data-orig-size="1440,930" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="WQHWUQ4AR5LTCQ22Y3FBQVKSQQ" data-image-description data-image-caption data-medium-file="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/WQHWUQ4AR5LTCQ22Y3FBQVKSQQ.webp?fit=300%2C194&amp;ssl=1" data-large-file="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/WQHWUQ4AR5LTCQ22Y3FBQVKSQQ.webp?fit=760%2C491&amp;ssl=1" decoding="async" width="760" height="491" src="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/WQHWUQ4AR5LTCQ22Y3FBQVKSQQ.webp?resize=760%2C491&#038;ssl=1" alt class="wp-image-8970 jetpack-lazy-image" data-recalc-dims="1" data-lazy-srcset="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/WQHWUQ4AR5LTCQ22Y3FBQVKSQQ.webp?resize=1024%2C661&amp;ssl=1 1024w, https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/WQHWUQ4AR5LTCQ22Y3FBQVKSQQ.webp?resize=300%2C194&amp;ssl=1 300w, https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/WQHWUQ4AR5LTCQ22Y3FBQVKSQQ.webp?resize=768%2C496&amp;ssl=1 768w, https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/WQHWUQ4AR5LTCQ22Y3FBQVKSQQ.webp?w=1440&amp;ssl=1 1440w" data-lazy-sizes="(max-width: 760px) 100vw, 760px" data-lazy-src="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/WQHWUQ4AR5LTCQ22Y3FBQVKSQQ.webp?resize=760%2C491&amp;is-pending-load=1#038;ssl=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img data-lazy-fallback="1" data-attachment-id="8970" data-permalink="https://revistachispa.org/2022/12/17/vamos-argentina/wqhwuq4ar5ltcq22y3fbqvksqq/" data-orig-file="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/WQHWUQ4AR5LTCQ22Y3FBQVKSQQ.webp?fit=1440%2C930&amp;ssl=1" data-orig-size="1440,930" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="WQHWUQ4AR5LTCQ22Y3FBQVKSQQ" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/WQHWUQ4AR5LTCQ22Y3FBQVKSQQ.webp?fit=300%2C194&amp;ssl=1" data-large-file="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/WQHWUQ4AR5LTCQ22Y3FBQVKSQQ.webp?fit=760%2C491&amp;ssl=1" decoding="async" loading="lazy" width="760" height="491" src="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/WQHWUQ4AR5LTCQ22Y3FBQVKSQQ.webp?resize=760%2C491&#038;ssl=1" alt="" class="wp-image-8970" srcset="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/WQHWUQ4AR5LTCQ22Y3FBQVKSQQ.webp?resize=1024%2C661&amp;ssl=1 1024w, https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/WQHWUQ4AR5LTCQ22Y3FBQVKSQQ.webp?resize=300%2C194&amp;ssl=1 300w, https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/WQHWUQ4AR5LTCQ22Y3FBQVKSQQ.webp?resize=768%2C496&amp;ssl=1 768w, https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/WQHWUQ4AR5LTCQ22Y3FBQVKSQQ.webp?w=1440&amp;ssl=1 1440w" sizes="(max-width: 760px) 100vw, 760px" data-recalc-dims="1"  /></noscript></figure></div>
+
+
+<p><strong>Toco y me voy</strong></p>
+
+
+
+<p>El mundo sigue rodando con sus conflictos y la pelota rueda en la cancha y no se mancha, cómo decía el Diego, más allá del trasfondo político y de la corrupción. Y a pesar de todo lo bueno y lo malo, nos seguimos emocionando y tomamos la pelota, y salimos a la cancha todos los días, a laburar, a estudiar, a luchar contra las injusticias, por tierra, techo y trabajo digno para todxs, porque no haya pibes en la calle con hambre, por ni un pibe menos por la droga, y ni una piba más asesinada. Y esas victorias, esas pequeñas victorias que son nuestras luchas, se gritan como un gol. Los más de 40 millones nos ponemos la.camiseta y nos abrazamos como equipo y jugamos nuestro mundial todos los días para hacerle un gol a este sistema que nos oprime y para que los ricos no nos roben la alegría que nos da este juego.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img data-attachment-id="8972" data-permalink="https://revistachispa.org/2022/12/17/vamos-argentina/bangladesh-argentina/" data-orig-file="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/bangladesh-argentina.webp?fit=1200%2C675&amp;ssl=1" data-orig-size="1200,675" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="bangladesh-argentina" data-image-description data-image-caption data-medium-file="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/bangladesh-argentina.webp?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/bangladesh-argentina.webp?fit=760%2C428&amp;ssl=1" decoding="async" width="760" height="428" src="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/bangladesh-argentina.webp?resize=760%2C428&#038;ssl=1" alt class="wp-image-8972 jetpack-lazy-image" data-recalc-dims="1" data-lazy-srcset="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/bangladesh-argentina.webp?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/bangladesh-argentina.webp?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/bangladesh-argentina.webp?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/bangladesh-argentina.webp?w=1200&amp;ssl=1 1200w" data-lazy-sizes="(max-width: 760px) 100vw, 760px" data-lazy-src="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/bangladesh-argentina.webp?resize=760%2C428&amp;is-pending-load=1#038;ssl=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img data-lazy-fallback="1" data-attachment-id="8972" data-permalink="https://revistachispa.org/2022/12/17/vamos-argentina/bangladesh-argentina/" data-orig-file="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/bangladesh-argentina.webp?fit=1200%2C675&amp;ssl=1" data-orig-size="1200,675" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="bangladesh-argentina" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/bangladesh-argentina.webp?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/bangladesh-argentina.webp?fit=760%2C428&amp;ssl=1" decoding="async" loading="lazy" width="760" height="428" src="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/bangladesh-argentina.webp?resize=760%2C428&#038;ssl=1" alt="" class="wp-image-8972" srcset="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/bangladesh-argentina.webp?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/bangladesh-argentina.webp?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/bangladesh-argentina.webp?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/bangladesh-argentina.webp?w=1200&amp;ssl=1 1200w" sizes="(max-width: 760px) 100vw, 760px" data-recalc-dims="1"  /></noscript></figure></div>
+
+
+<p> <strong>Un aliento antiimperialista</strong></p>
+
+
+
+<p>Las guerras, las hambrunas y los sufrimientos de los pueblos del mundo por las invasiones imperialistas provocan que sus hinchadas se unan más allá de las fronteras. Esto sucede en Bangladesh con nuestra patria. Esos fueron países y regiones que sufrieron enormemente el colonialismo, el saqueo inglés y en la segunda guerra mundial, una terrible hambruna que dejó el triste saldo de millones de muertos. La recuperación de las islas Malvinas en 1982 para la soberanía nacional argentina, generó el apoyo de los pueblos oprimidos del mundo. El apoyo se convirtió en aliento a la Selección, a Maradona y ahora a Messi. En los días del mundial vimos las ciudades de Bangladesh vestidas de celeste y blanco. Es un aliento que emergió con más fuerza cuando le ganamos a Inglaterra en el Mundial ´86 con el gol de Diego gambeteando ingleses desde mitad de cancha y el que hizo con la mano. Con el pueblo de Bangladesh nos une un aliento antiimperialista que derrumba distancias, idiomas y mares. Un solo aliento para ganar partidos y copas. Un solo aliento para ganar la independencia de nuestras naciones.</p>
+
+
+
+<p></p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img data-attachment-id="8974" data-permalink="https://revistachispa.org/2022/12/17/vamos-argentina/hinchada/" data-orig-file="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/Hinchada.jpeg?fit=1280%2C853&amp;ssl=1" data-orig-size="1280,853" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Hinchada" data-image-description data-image-caption data-medium-file="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/Hinchada.jpeg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/Hinchada.jpeg?fit=760%2C506&amp;ssl=1" decoding="async" width="760" height="506" src="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/Hinchada.jpeg?resize=760%2C506&#038;ssl=1" alt class="wp-image-8974 jetpack-lazy-image" data-recalc-dims="1" data-lazy-srcset="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/Hinchada.jpeg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/Hinchada.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/Hinchada.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/Hinchada.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/Hinchada.jpeg?w=1280&amp;ssl=1 1280w" data-lazy-sizes="(max-width: 760px) 100vw, 760px" data-lazy-src="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/Hinchada.jpeg?resize=760%2C506&amp;is-pending-load=1#038;ssl=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img data-lazy-fallback="1" data-attachment-id="8974" data-permalink="https://revistachispa.org/2022/12/17/vamos-argentina/hinchada/" data-orig-file="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/Hinchada.jpeg?fit=1280%2C853&amp;ssl=1" data-orig-size="1280,853" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Hinchada" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/Hinchada.jpeg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/Hinchada.jpeg?fit=760%2C506&amp;ssl=1" decoding="async" loading="lazy" width="760" height="506" src="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/Hinchada.jpeg?resize=760%2C506&#038;ssl=1" alt="" class="wp-image-8974" srcset="https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/Hinchada.jpeg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/Hinchada.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/Hinchada.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/Hinchada.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/Hinchada.jpeg?w=1280&amp;ssl=1 1280w" sizes="(max-width: 760px) 100vw, 760px" data-recalc-dims="1"  /></noscript></figure></div><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Comparte esto:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-8964" class="share-twitter sd-button share-icon" href="https://revistachispa.org/2022/12/17/vamos-argentina/?share=twitter" target="_blank" title="Haz clic para compartir en Twitter" ><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-8964" class="share-facebook sd-button share-icon" href="https://revistachispa.org/2022/12/17/vamos-argentina/?share=facebook" target="_blank" title="Haz clic para compartir en Facebook" ><span>Facebook</span></a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-116503488-8964-63ed7bcb8f1b9' data-src='https://widgets.wp.com/likes/#blog_id=116503488&amp;post_id=8964&amp;origin=revistachispa.org&amp;obj_id=116503488-8964-63ed7bcb8f1b9' data-name='like-post-frame-116503488-8964-63ed7bcb8f1b9' data-title='Me gusta o Compartir'><h3 class="sd-title">Me gusta esto:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Me gusta</span></span> <span class="loading">Cargando...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div>
+		
+	<!-- END .entry-content -->
+	</article>
+
+	<!-- BEGIN .post-meta -->
+	<div class="post-meta">
+
+		
+				<div class="post-navigation">
+			<div class="previous-post" style="background-image: url(https://i0.wp.com/revistachispa.org/wp-content/uploads/2022/12/WhatsApp-Image-2022-12-05-at-16.45.42.jpeg?fit=600%2C450&#038;ssl=1);">
+				<span class="nav-label"><i class="fa fa-angle-left"></i></span>
+				<a href="https://revistachispa.org/2022/12/05/no-al-fraude-de-la-franja-en-la-fua/" rel="prev">FRAUDE DE LA FRANJA EN LA FUA</a>			</div>
+		</div>
+		
+		<!-- BEGIN .post-information -->
+		<div class="post-information text-center">
+
+			<!-- BEGIN .post-author -->
+			<div class="post-author">
+				<p class="author-avatar"><img alt src="https://secure.gravatar.com/avatar/1ebb64567e508712a2f490b12103c74c?s=48&#038;d=mm&#038;r=g" class="avatar avatar-48 photo jetpack-lazy-image" height="48" width="48" decoding="async" data-lazy-srcset="https://secure.gravatar.com/avatar/1ebb64567e508712a2f490b12103c74c?s=96&#038;d=mm&#038;r=g 2x" data-lazy-src="https://secure.gravatar.com/avatar/1ebb64567e508712a2f490b12103c74c?s=48&amp;is-pending-load=1#038;d=mm&#038;r=g" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img data-lazy-fallback="1" alt='' src='https://secure.gravatar.com/avatar/1ebb64567e508712a2f490b12103c74c?s=48&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/1ebb64567e508712a2f490b12103c74c?s=96&#038;d=mm&#038;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' loading='lazy' decoding='async' /></noscript></p>
+				<p><em>Posted by</em></p>
+				<h6><a href="https://revistachispa.org/author/revistachispa/" title="Entradas de revistachispa" rel="author">revistachispa</a></h6>
+			<!-- END .post-author -->
+			</div>
+
+							<!-- BEGIN .post-taxonomy -->
+				<div class="post-taxonomy">
+					<p>Category: <a href="https://revistachispa.org/category/inicio/" rel="category tag">Inicio</a><p>
+									<!-- END .post-taxonomy -->
+				</div>
+			
+			
+		<!-- END .post-information -->
+		</div>
+
+		
+	<!-- END .post-meta -->
+	</div>
+
+		
+<section id="comments">
+
+	<div class="comments-wrapper">
+
+	
+		
+		
+		
+		<div id="respond" class="comment-respond">
+							<h3 id="reply-title" class="comment-reply-title">Deja un comentario					<small><a rel="nofollow" id="cancel-comment-reply-link" href="/2022/12/17/vamos-argentina/#respond" style="display:none;">Cancelar respuesta</a></small>
+				</h3>
+						<form id="commentform" class="comment-form">
+				<iframe
+					title="Formulario de comentarios"
+					src="https://jetpack.wordpress.com/jetpack-comment/?blogid=116503488&#038;postid=8964&#038;comment_registration=0&#038;require_name_email=0&#038;stc_enabled=0&#038;stb_enabled=0&#038;show_avatars=1&#038;avatar_default=mystery&#038;greeting=Deja+un+comentario&#038;jetpack_comments_nonce=f50729e090&#038;greeting_reply=Responder+a+%25s&#038;color_scheme=light&#038;lang=es_ES&#038;jetpack_version=11.9-a.1&#038;show_cookie_consent=10&#038;has_cookie_consent=0&#038;token_key=%3Bnormal%3B&#038;sig=c1d3679fb232ba6b741625f126b761bd99a0a45f#parent=https%3A%2F%2Frevistachispa.org%2F2022%2F12%2F17%2Fvamos-argentina%2F"
+											name="jetpack_remote_comment"
+						style="width:100%; height: 430px; border:0;"
+										class="jetpack_remote_comment"
+					id="jetpack_remote_comment"
+					sandbox="allow-same-origin allow-top-navigation allow-scripts allow-forms allow-popups"
+				>
+									</iframe>
+									<!--[if !IE]><!-->
+					<script>
+						document.addEventListener('DOMContentLoaded', function () {
+							var commentForms = document.getElementsByClassName('jetpack_remote_comment');
+							for (var i = 0; i < commentForms.length; i++) {
+								commentForms[i].allowTransparency = false;
+								commentForms[i].scrolling = 'no';
+							}
+						});
+					</script>
+					<!--<![endif]-->
+							</form>
+		</div>
+
+		
+		<input type="hidden" name="comment_parent" id="comment_parent" value="" />
+
+		
+	</div>
+
+</section><!-- #comments -->
+
+
+			<!-- END .sixteen columns -->
+			</section>
+
+		<!-- END .content -->
+		</div>
+
+	<!-- END .row -->
+	</div>
+
+<!-- END .post class -->
+</div>
+
+
+<!-- END .container -->
+</main>
+
+<!-- BEGIN .footer -->
+<footer class="footer" role="contentinfo">
+
+	
+	<!-- BEGIN .row -->
+	<div class="row">
+
+		<!-- BEGIN .content -->
+		<div class="content">
+
+			<!-- BEGIN .footer-widgets -->
+			<div class="footer-widgets clearfix">
+
+				<aside id="jetpack-search-filters-3" class="widget jetpack-filters widget_search"><div class="footer-widget">			<div id="jetpack-search-filters-3-wrapper" >
+		<div class="jetpack-search-form">
+<form method="get" id="searchform" class="clearfix" action="https://revistachispa.org/" role="search">
+	<label for="s" class="screen-reader-text">Search</label>
+	<input type="text" class="field" name="s" value="" id="s" placeholder="Search &hellip;" />
+	<input type="submit" class="submit" name="submit" id="searchsubmit" value="Go" />
+<input type="hidden" name="orderby" value="relevance" /><input type="hidden" name="order" value="DESC" /></form>
+</div></div></div></aside>
+			<!-- END .footer-widgets -->
+			</div>
+
+		<!-- END .content -->
+		</div>
+
+	<!-- END .row -->
+	</div>
+
+	
+	<!-- BEGIN .row -->
+	<div class="row">
+
+		<!-- BEGIN .content -->
+		<div class="content">
+
+			<!-- BEGIN .footer-information -->
+			<div class="footer-information">
+
+				<div class="align-left">
+
+					<p>Copyright &copy; 2023 &middot; All Rights Reserved &middot; Revista Chispa</p>
+
+					
+						<p><span class="footer-site-info"></span></p>
+
+					
+				</div>
+
+				
+			<!-- END .footer-information -->
+			</div>
+
+		<!-- END .content -->
+		</div>
+
+	<!-- END .row -->
+	</div>
+
+<!-- END .footer -->
+</footer>
+
+<!-- END #wrapper -->
+</div>
+
+<!--  -->
+<script defer id="bilmur" data-provider="wordpress.com" data-service="atomic"  src="https://s0.wp.com/wp-content/js/bilmur.min.js?m=202307"></script>
+	<div style="display:none">
+			<div class="grofile-hash-map-1ebb64567e508712a2f490b12103c74c">
+		</div>
+		</div>
+				<div id="jp-carousel-loading-overlay">
+			<div id="jp-carousel-loading-wrapper">
+				<span id="jp-carousel-library-loading">&nbsp;</span>
+			</div>
+		</div>
+		<div class="jp-carousel-overlay" style="display: none;">
+
+		<div class="jp-carousel-container">
+			<!-- The Carousel Swiper -->
+			<div
+				class="jp-carousel-wrap swiper-container jp-carousel-swiper-container jp-carousel-transitions"
+				itemscope
+				itemtype="https://schema.org/ImageGallery">
+				<div class="jp-carousel swiper-wrapper"></div>
+				<div class="jp-swiper-button-prev swiper-button-prev">
+					<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<mask id="maskPrev" mask-type="alpha" maskUnits="userSpaceOnUse" x="8" y="6" width="9" height="12">
+							<path d="M16.2072 16.59L11.6496 12L16.2072 7.41L14.8041 6L8.8335 12L14.8041 18L16.2072 16.59Z" fill="white"/>
+						</mask>
+						<g mask="url(#maskPrev)">
+							<rect x="0.579102" width="23.8823" height="24" fill="#FFFFFF"/>
+						</g>
+					</svg>
+				</div>
+				<div class="jp-swiper-button-next swiper-button-next">
+					<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<mask id="maskNext" mask-type="alpha" maskUnits="userSpaceOnUse" x="8" y="6" width="8" height="12">
+							<path d="M8.59814 16.59L13.1557 12L8.59814 7.41L10.0012 6L15.9718 12L10.0012 18L8.59814 16.59Z" fill="white"/>
+						</mask>
+						<g mask="url(#maskNext)">
+							<rect x="0.34375" width="23.8822" height="24" fill="#FFFFFF"/>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<!-- The main close buton -->
+			<div class="jp-carousel-close-hint">
+				<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+					<mask id="maskClose" mask-type="alpha" maskUnits="userSpaceOnUse" x="5" y="5" width="15" height="14">
+						<path d="M19.3166 6.41L17.9135 5L12.3509 10.59L6.78834 5L5.38525 6.41L10.9478 12L5.38525 17.59L6.78834 19L12.3509 13.41L17.9135 19L19.3166 17.59L13.754 12L19.3166 6.41Z" fill="white"/>
+					</mask>
+					<g mask="url(#maskClose)">
+						<rect x="0.409668" width="23.8823" height="24" fill="#FFFFFF"/>
+					</g>
+				</svg>
+			</div>
+			<!-- Image info, comments and meta -->
+			<div class="jp-carousel-info">
+				<div class="jp-carousel-info-footer">
+					<div class="jp-carousel-pagination-container">
+						<div class="jp-swiper-pagination swiper-pagination"></div>
+						<div class="jp-carousel-pagination"></div>
+					</div>
+					<div class="jp-carousel-photo-title-container">
+						<h2 class="jp-carousel-photo-caption"></h2>
+					</div>
+					<div class="jp-carousel-photo-icons-container">
+						<a href="#" class="jp-carousel-icon-btn jp-carousel-icon-info" aria-label="Cambiar la visibilidad de los metadatos de las fotos">
+							<span class="jp-carousel-icon">
+								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<mask id="maskInfo" mask-type="alpha" maskUnits="userSpaceOnUse" x="2" y="2" width="21" height="20">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M12.7537 2C7.26076 2 2.80273 6.48 2.80273 12C2.80273 17.52 7.26076 22 12.7537 22C18.2466 22 22.7046 17.52 22.7046 12C22.7046 6.48 18.2466 2 12.7537 2ZM11.7586 7V9H13.7488V7H11.7586ZM11.7586 11V17H13.7488V11H11.7586ZM4.79292 12C4.79292 16.41 8.36531 20 12.7537 20C17.142 20 20.7144 16.41 20.7144 12C20.7144 7.59 17.142 4 12.7537 4C8.36531 4 4.79292 7.59 4.79292 12Z" fill="white"/>
+									</mask>
+									<g mask="url(#maskInfo)">
+										<rect x="0.8125" width="23.8823" height="24" fill="#FFFFFF"/>
+									</g>
+								</svg>
+							</span>
+						</a>
+												<a href="#" class="jp-carousel-icon-btn jp-carousel-icon-comments" aria-label="Cambiar la visibilidad de los comentarios de las fotos">
+							<span class="jp-carousel-icon">
+								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<mask id="maskComments" mask-type="alpha" maskUnits="userSpaceOnUse" x="2" y="2" width="21" height="20">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M4.3271 2H20.2486C21.3432 2 22.2388 2.9 22.2388 4V16C22.2388 17.1 21.3432 18 20.2486 18H6.31729L2.33691 22V4C2.33691 2.9 3.2325 2 4.3271 2ZM6.31729 16H20.2486V4H4.3271V18L6.31729 16Z" fill="white"/>
+									</mask>
+									<g mask="url(#maskComments)">
+										<rect x="0.34668" width="23.8823" height="24" fill="#FFFFFF"/>
+									</g>
+								</svg>
+
+								<span class="jp-carousel-has-comments-indicator" aria-label="Esta imagen tiene comentarios."></span>
+							</span>
+						</a>
+											</div>
+				</div>
+				<div class="jp-carousel-info-extra">
+					<div class="jp-carousel-info-content-wrapper">
+						<div class="jp-carousel-photo-title-container">
+							<h2 class="jp-carousel-photo-title"></h2>
+						</div>
+						<div class="jp-carousel-comments-wrapper">
+															<div id="jp-carousel-comments-loading">
+									<span>Cargando comentarios...</span>
+								</div>
+								<div class="jp-carousel-comments"></div>
+								<div id="jp-carousel-comment-form-container">
+									<span id="jp-carousel-comment-form-spinner">&nbsp;</span>
+									<div id="jp-carousel-comment-post-results"></div>
+																														<form id="jp-carousel-comment-form">
+												<label for="jp-carousel-comment-form-comment-field" class="screen-reader-text">Escribe un comentario...</label>
+												<textarea
+													name="comment"
+													class="jp-carousel-comment-form-field jp-carousel-comment-form-textarea"
+													id="jp-carousel-comment-form-comment-field"
+													placeholder="Escribe un comentario..."
+												></textarea>
+												<div id="jp-carousel-comment-form-submit-and-info-wrapper">
+													<div id="jp-carousel-comment-form-commenting-as">
+																													<fieldset>
+																<label for="jp-carousel-comment-form-email-field">Correo electrónico</label>
+																<input type="text" name="email" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-email-field" />
+															</fieldset>
+															<fieldset>
+																<label for="jp-carousel-comment-form-author-field">Nombre</label>
+																<input type="text" name="author" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-author-field" />
+															</fieldset>
+															<fieldset>
+																<label for="jp-carousel-comment-form-url-field">Web</label>
+																<input type="text" name="url" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-url-field" />
+															</fieldset>
+																											</div>
+													<input
+														type="submit"
+														name="submit"
+														class="jp-carousel-comment-form-button"
+														id="jp-carousel-comment-form-button-submit"
+														value="Publicar comentario" />
+												</div>
+											</form>
+																											</div>
+													</div>
+						<div class="jp-carousel-image-meta">
+							<div class="jp-carousel-title-and-caption">
+								<div class="jp-carousel-photo-info">
+									<h3 class="jp-carousel-caption" itemprop="caption description"></h3>
+								</div>
+
+								<div class="jp-carousel-photo-description"></div>
+							</div>
+							<ul class="jp-carousel-image-exif" style="display: none;"></ul>
+							<a class="jp-carousel-image-download" target="_blank" style="display: none;">
+								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="3" y="3" width="19" height="18">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M5.84615 5V19H19.7775V12H21.7677V19C21.7677 20.1 20.8721 21 19.7775 21H5.84615C4.74159 21 3.85596 20.1 3.85596 19V5C3.85596 3.9 4.74159 3 5.84615 3H12.8118V5H5.84615ZM14.802 5V3H21.7677V10H19.7775V6.41L9.99569 16.24L8.59261 14.83L18.3744 5H14.802Z" fill="white"/>
+									</mask>
+									<g mask="url(#mask0)">
+										<rect x="0.870605" width="23.8823" height="24" fill="#FFFFFF"/>
+									</g>
+								</svg>
+								<span class="jp-carousel-download-text"></span>
+							</a>
+							<div class="jp-carousel-image-map" style="display: none;"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		</div>
+		
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/revistachispa.org\/2022\/12\/17\/vamos-argentina\/":8964};
+	</script>
+				<script type='text/javascript' src='https://revistachispa.org/wp-content/plugins/jetpack/modules/contact-form/js/form-styles.js?ver=11.9-a.1' id='contact-form-styles-js'></script>
+<script type='text/javascript' src='https://revistachispa.org/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20191001' id='jetpack-photon-js'></script>
+<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=202307' id='grofiles-cards-js'></script>
+<script type='text/javascript' id='wpgroho-js-extra'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://revistachispa.org/wp-content/plugins/jetpack/modules/wpgroho.js?ver=11.9-a.1' id='wpgroho-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/6.1.1/wp-includes/js/hoverIntent.min.js' id='hoverIntent-js'></script>
+<script type='text/javascript' src='https://revistachispa.org/wp-content/themes/block-lite/js/jquery.custom.js?ver=1.0' id='block-lite-custom-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/6.1.1/wp-includes/js/comment-reply.min.js' id='comment-reply-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/6.1.1/wp-includes/js/dist/vendor/regenerator-runtime.min.js' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/6.1.1/wp-includes/js/dist/vendor/wp-polyfill.min.js' id='wp-polyfill-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/6.1.1/wp-includes/js/dist/hooks.min.js' id='wp-hooks-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/6.1.1/wp-includes/js/dist/i18n.min.js' id='wp-i18n-js'></script>
+<script type='text/javascript' id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type='text/javascript' src='https://revistachispa.org/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-search/src/widgets/js/search-widget.js?minify=false&#038;ver=1645029952' id='jetpack-search-widget-js'></script>
+<script type='text/javascript' src='https://revistachispa.org/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-lazy-images/dist/intersection-observer.js?minify=false&#038;ver=83ec8aa758f883d6da14' id='jetpack-lazy-images-polyfill-intersectionobserver-js'></script>
+<script type='text/javascript' id='jetpack-lazy-images-js-extra'>
+/* <![CDATA[ */
+var jetpackLazyImagesL10n = {"loading_warning":"Las im\u00e1genes a\u00fan est\u00e1n cargando. Cancela la impresi\u00f3n y vuelve a intentarlo."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://revistachispa.org/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-lazy-images/dist/lazy-images.js?minify=false&#038;ver=54eb31dc971b63b49278' id='jetpack-lazy-images-js'></script>
+<script type='text/javascript' src='https://revistachispa.org/wp-content/plugins/jetpack/_inc/build/likes/queuehandler.min.js?ver=11.9-a.1' id='jetpack_likes_queuehandler-js'></script>
+<script type='text/javascript' id='jetpack-carousel-js-extra'>
+/* <![CDATA[ */
+var jetpackSwiperLibraryPath = {"url":"https:\/\/revistachispa.org\/wp-content\/plugins\/jetpack\/_inc\/build\/carousel\/swiper-bundle.min.js"};
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"es","ajaxurl":"https:\/\/revistachispa.org\/wp-admin\/admin-ajax.php","nonce":"56c7109d2a","display_exif":"1","display_comments":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comentario","post_comment":"Publicar comentario","write_comment":"Escribe un comentario...","loading_comments":"Cargando comentarios...","download_original":"Ver tama\u00f1o completo <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Por favor, aseg\u00farate de enviar el texto con tu comentario.","no_comment_email":"Por favor, proporciona una direcci\u00f3n de correo electr\u00f3nico para comentar.","no_comment_author":"Por favor, a\u00f1ade tu nombre al comentario.","comment_post_error":"Lo sentimos, pero ha habido un error al publicar tu comentario. Por favor, vuelve a intentarlo m\u00e1s tarde.","comment_approved":"Se ha aprobado tu comentario.","comment_unapproved":"Tu comentario est\u00e1 en moderaci\u00f3n.","camera":"C\u00e1mara","aperture":"Abertura","shutter_speed":"Velocidad de obturaci\u00f3n","focal_length":"Longitud focal","copyright":"Copyright","comment_registration":"0","require_name_email":"0","login_url":"https:\/\/revistachispa.org\/wp-login.php?redirect_to=https%3A%2F%2Frevistachispa.org%2F2022%2F12%2F17%2Fvamos-argentina%2F","blog_id":"1","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://revistachispa.org/wp-content/plugins/jetpack/_inc/build/carousel/jetpack-carousel.min.js?ver=11.9-a.1' id='jetpack-carousel-js'></script>
+<script defer type='text/javascript' src='https://revistachispa.org/wp-content/plugins/akismet/_inc/akismet-frontend.js?ver=1666634240' id='akismet-frontend-js'></script>
+<script type='text/javascript' id='sharing-js-js-extra'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"es","counts":"1","is_stats_active":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://revistachispa.org/wp-content/plugins/jetpack/_inc/build/sharedaddy/sharing.min.js?ver=11.9-a.1' id='sharing-js-js'></script>
+<script type='text/javascript' id='sharing-js-js-after'>
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-twitter' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-twitter' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+						return false;
+					}
+				} );
+			} )();
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-facebook' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-facebook' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+						return false;
+					}
+				} );
+			} )();
+</script>
+	<iframe src='https://widgets.wp.com/likes/master.html?ver=202307#ver=202307&#038;lang=es' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
+	<div id='likes-other-gravatars'><div class="likes-text">A <span>%d</span> blogueros les gusta esto:</div><ul class="wpl-avatars sd-like-gravatars"></ul></div>
+	
+		<!--[if IE]>
+		<script type="text/javascript">
+			if ( 0 === window.location.hash.indexOf( '#comment-' ) ) {
+				// window.location.reload() doesn't respect the Hash in IE
+				window.location.hash = window.location.hash;
+			}
+		</script>
+		<![endif]-->
+		<script type="text/javascript">
+			(function () {
+				var comm_par_el = document.getElementById( 'comment_parent' ),
+					comm_par = ( comm_par_el && comm_par_el.value ) ? comm_par_el.value : '',
+					frame = document.getElementById( 'jetpack_remote_comment' ),
+					tellFrameNewParent;
+
+				tellFrameNewParent = function () {
+					if ( comm_par ) {
+						frame.src = "https://jetpack.wordpress.com/jetpack-comment/?blogid=116503488&postid=8964&comment_registration=0&require_name_email=0&stc_enabled=0&stb_enabled=0&show_avatars=1&avatar_default=mystery&greeting=Deja+un+comentario&jetpack_comments_nonce=f50729e090&greeting_reply=Responder+a+%25s&color_scheme=light&lang=es_ES&jetpack_version=11.9-a.1&show_cookie_consent=10&has_cookie_consent=0&token_key=%3Bnormal%3B&sig=c1d3679fb232ba6b741625f126b761bd99a0a45f#parent=https%3A%2F%2Frevistachispa.org%2F2022%2F12%2F17%2Fvamos-argentina%2F" + '&replytocom=' + parseInt( comm_par, 10 ).toString();
+					} else {
+						frame.src = "https://jetpack.wordpress.com/jetpack-comment/?blogid=116503488&postid=8964&comment_registration=0&require_name_email=0&stc_enabled=0&stb_enabled=0&show_avatars=1&avatar_default=mystery&greeting=Deja+un+comentario&jetpack_comments_nonce=f50729e090&greeting_reply=Responder+a+%25s&color_scheme=light&lang=es_ES&jetpack_version=11.9-a.1&show_cookie_consent=10&has_cookie_consent=0&token_key=%3Bnormal%3B&sig=c1d3679fb232ba6b741625f126b761bd99a0a45f#parent=https%3A%2F%2Frevistachispa.org%2F2022%2F12%2F17%2Fvamos-argentina%2F";
+					}
+				};
+
+				
+				if ( 'undefined' !== typeof addComment ) {
+					addComment._Jetpack_moveForm = addComment.moveForm;
+
+					addComment.moveForm = function ( commId, parentId, respondId, postId ) {
+						var returnValue = addComment._Jetpack_moveForm( commId, parentId, respondId, postId ),
+							cancelClick, cancel;
+
+						if ( false === returnValue ) {
+							cancel = document.getElementById( 'cancel-comment-reply-link' );
+							cancelClick = cancel.onclick;
+							cancel.onclick = function () {
+								var cancelReturn = cancelClick.call( this );
+								if ( false !== cancelReturn ) {
+									return cancelReturn;
+								}
+
+								if ( ! comm_par ) {
+									return cancelReturn;
+								}
+
+								comm_par = 0;
+
+								tellFrameNewParent();
+
+								return cancelReturn;
+							};
+						}
+
+						if ( comm_par == parentId ) {
+							return returnValue;
+						}
+
+						comm_par = parentId;
+
+						tellFrameNewParent();
+
+						return returnValue;
+					};
+				}
+
+				
+				// Do the post message bit after the dom has loaded.
+				document.addEventListener( 'DOMContentLoaded', function () {
+					var iframe_url = "https:\/\/jetpack.wordpress.com";
+					if ( window.postMessage ) {
+						if ( document.addEventListener ) {
+							window.addEventListener( 'message', function ( event ) {
+								var origin = event.origin.replace( /^http:\/\//i, 'https://' );
+								if ( iframe_url.replace( /^http:\/\//i, 'https://' ) !== origin ) {
+									return;
+								}
+								frame.style.height = event.data + 'px';
+							});
+						} else if ( document.attachEvent ) {
+							window.attachEvent( 'message', function ( event ) {
+								var origin = event.origin.replace( /^http:\/\//i, 'https://' );
+								if ( iframe_url.replace( /^http:\/\//i, 'https://' ) !== origin ) {
+									return;
+								}
+								frame.style.height = event.data + 'px';
+							});
+						}
+					}
+				})
+
+			})();
+		</script>
+
+			<script src='https://stats.wp.com/e-202307.js' defer></script>
+	<script>
+		_stq = window._stq || [];
+		_stq.push([ 'view', {v:'ext',blog:'116503488',post:'8964',tz:'-3',srv:'revistachispa.org',hp:'atomic',ac:'2',amp:'0',j:'1:11.9-a.1'} ]);
+		_stq.push([ 'clickTrackerInit', '116503488', '8964' ]);
+	</script>
+</body>
+</html>
+<!--
+	generated in 0.355 seconds
+	89399 bytes batcached for 300 seconds
+-->

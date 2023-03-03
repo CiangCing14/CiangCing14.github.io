@@ -1,0 +1,33 @@
+<html><body>
+<script>
+window.onload=function turl(){
+var xmlhttp;
+if(window.XMLHttpRequest)    
+{    
+    xmlhttp = new XMLHttpRequest();//其他浏览器    
+}    
+else if (window.ActiveXObject) 
+{    
+    try {    
+        xmlhttp = new ActiveXObject("Msxml2.XMLHTTP");//旧版IE    
+    }    
+    catch (e) { }    
+    try {    
+        xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");//新版IE    
+    }    
+    catch (e) { }    
+    if (!xmlhttp) {    
+        window.alert("不能创建XMLHttpRequest对象");    
+    }    
+}
+var myDate = new Date((new Date).getTime() - 4*60*60*1000);
+var time = myDate.toJSON().split('T')[0];
+FileURL="Maoism-Datasets/" + time + "/index.htm";
+xmlhttp.open("GET",FileURL,false);
+xmlhttp.send();
+if(xmlhttp.readyState==4){
+    if(xmlhttp.status==200){location.assign(FileURL);}
+}
+}
+</script>
+</body></html>
