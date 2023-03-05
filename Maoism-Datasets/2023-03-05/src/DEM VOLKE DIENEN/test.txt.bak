@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de-de" lang="de-de" dir="ltr">
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	  <base href="https://www.demvolkedienen.org/index.php/de/t-theorie/t-dokumente/7519-ikb-wir-teilen-den-schmerz-der-menschen-aller-nationen-die-durch-das-erdbeben-in-der-tuerkei-rojava-und-nordsyrien-ihr-leben-verloren-haben" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="Internetplattform, revolutionäre Bewegung, Dem Volke Dienen, Nachrichten, Theorie" />
+  <meta name="author" content="pakr" />
+  <meta name="description" content="Internetplattform für die Entwicklung einer revolutionären Bewegung" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>IKB: &quot;Wir teilen den Schmerz der Menschen aller Nationen, die durch das Erdbeben in der Türkei, Rojava und Nordsyrien ihr Leben verloren haben!&quot;</title>
+  <link href="/templates/protostar/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/templates/protostar/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="/components/com_roksprocket/layouts/strips/themes/parallel/parallel.css" type="text/css" />
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js" type="text/javascript"></script>
+  <script src="/plugins/system/jqueryeasy/jquerynoconflict.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  
+  
+  
+  <script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+  <script src="/templates/protostar/js/template.js" type="text/javascript"></script>
+  <script src="/media/system/js/html5fallback.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/components/com_roksprocket/assets/js/mootools-mobile.js" type="text/javascript"></script>
+  <script src="/components/com_roksprocket/assets/js/rokmediaqueries.js" type="text/javascript"></script>
+  <script src="/components/com_roksprocket/assets/js/roksprocket.js" type="text/javascript"></script>
+  <script src="/components/com_roksprocket/assets/js/moofx.js" type="text/javascript"></script>
+  <script src="/components/com_roksprocket/assets/js/roksprocket.request.js" type="text/javascript"></script>
+  <script src="/components/com_roksprocket/layouts/strips/assets/js/strips.js" type="text/javascript"></script>
+  <script src="/components/com_roksprocket/layouts/strips/assets/js/strips-speeds.js" type="text/javascript"></script>
+  <script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});if (typeof RokSprocket == 'undefined') RokSprocket = {};
+Object.merge(RokSprocket, {
+	SiteURL: 'https://www.demvolkedienen.org/',
+	CurrentURL: 'https://www.demvolkedienen.org/',
+	AjaxURL: 'https://www.demvolkedienen.org/index.php?option=com_roksprocket&amp;task=ajax&amp;format=raw&amp;ItemId=156'
+});
+window.addEvent('domready', function(){
+		RokSprocket.instances.strips = new RokSprocket.Strips();
+});
+window.addEvent('domready', function(){
+	RokSprocket.instances.strips.attach(109, '{"animation":"fadeDelay","autoplay":"1","delay":"35"}');
+});
+window.addEvent('load', function(){
+   var overridden = false;
+   if (!overridden && window.G5 && window.G5.offcanvas){
+       var mod = document.getElement('[data-strips="109"]');
+       mod.addEvents({
+           touchstart: function(){ window.G5.offcanvas.detach(); },
+           touchend: function(){ window.G5.offcanvas.attach(); }
+       });
+       overridden = true;
+   };
+});
+
+  </script>
+
+				<link href='//fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css' />
+		<style type="text/css">
+			h1,h2,h3,h4,h5,h6{
+				font-family: 'Ubuntu', sans-serif;
+			}
+		</style>
+				<!--style type="text/css"> 4.10. horst: roter Rand oben // button hintergrund
+		
+		body.site
+		{
+			border-top: 3px solid #a81818;
+			background-color: #f4f6f7		}
+		a
+		{
+			color: #a81818;
+		}
+		.navbar-inner, .nav-list > .active > a, .nav-list > .active > a:hover, .dropdown-menu li > a:hover, .dropdown-menu .active > a, .dropdown-menu .active > a:hover, .nav-pills > .active > a, .nav-pills > .active > a:hover,
+		.btn-primary
+		{
+			background: #a81818;
+		}
+		.navbar-inner
+		{
+			-moz-box-shadow: 0 1px 3px rgba(0, 0, 0, .25), inset 0 -1px 0 rgba(0, 0, 0, .1), inset 0 30px 10px rgba(0, 0, 0, .2);
+			-webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, .25), inset 0 -1px 0 rgba(0, 0, 0, .1), inset 0 30px 10px rgba(0, 0, 0, .2);
+			box-shadow: 0 1px 3px rgba(0, 0, 0, .25), inset 0 -1px 0 rgba(0, 0, 0, .1), inset 0 30px 10px rgba(0, 0, 0, .2);
+		}
+	</style-->
+		<!--[if lt IE 9]>
+		<script src="/media/jui/js/html5.js"></script>
+	<![endif]-->
+</head>
+
+<body class="site com_content view-article no-layout no-task itemid-156">
+
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-70094084-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+	<!-- Body -->
+	<div class="body">
+		<div class="container">
+			<!-- Header -->
+			<header class="header" role="banner">
+				<div class="header-inner clearfix">
+					<a class="brand pull-left" href="/">
+						<span class="site-title" title="Dem Volke Dienen">Dem Volke Dienen</span>													<div class="site-description">Internetplattform für die Entwicklung der revolutionären Bewegung</div>											</a>
+					<div class="header-search pull-right">
+						
+					</div>
+				</div>
+			</header>
+							<nav class="navigation" role="navigation">
+					<div class="navbar pull-left">
+						<a class="btn btn-navbar collapsed" data-toggle="collapse" data-target=".nav-collapse">
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</a>
+					</div>
+					<div class="nav-collapse">
+						<ul class="nav menu nav-pills">
+<li class="item-101"><a href="/index.php/de/" >Home</a></li><li class="item-148"><a href="/index.php/de/t-international" >International</a></li><li class="item-149"><a href="/index.php/de/t-brd" >BRD</a></li><li class="item-150"><a href="/index.php/de/t-kultur" >Kultur</a></li><li class="item-298"><a href="/index.php/de/200-jahre-karl-marx" >200 Jahre Karl Marx</a></li><li class="item-153"><a href="/index.php/de/t-proletarischer-feminismus" >Proletarischer Feminismus</a></li><li class="item-152"><a href="/index.php/de/t-jugend" >Jugend</a></li><li class="item-147 active deeper parent"><a href="/index.php/de/t-theorie" >Theorie</a><ul class="nav-child unstyled small"><li class="item-165"><a href="/index.php/de/t-theorie/marx-engels" >Marx / Engels</a></li><li class="item-168"><a href="/index.php/de/t-theorie/lenin" >Lenin</a></li><li class="item-171"><a href="/index.php/de/t-theorie/stalin" >Stalin</a></li><li class="item-169"><a href="/index.php/de/t-theorie/mao" >Mao</a></li><li class="item-172"><a href="/index.php/de/t-theorie/gonzalo" >Gonzalo</a></li><li class="item-156 current active"><a href="/index.php/de/t-theorie/t-dokumente" >Dokumente der kommunistischen Bewegung</a></li></ul></li><li class="item-155"><a href="/index.php/de/t-links" >Links</a></li></ul>
+
+					</div>
+				</nav>
+						
+			<div class="row-fluid">
+								<main id="content" role="main" class="span9">
+					<!-- Begin Content -->
+					
+					<div id="system-message-container">
+	</div>
+
+					<div class="item-page" itemscope itemtype="http://schema.org/Article">
+	<meta itemprop="inLanguage" content="de-DE" />
+	
+		
+			<div class="page-header">
+		<h2 itemprop="name">
+							IKB: &quot;Wir teilen den Schmerz der Menschen aller Nationen, die durch das Erdbeben in der Türkei, Rojava und Nordsyrien ihr Leben verloren haben!&quot;					</h2>
+							</div>
+					
+	
+	
+		
+						    	<div class="pull-left item-image"> <img src="/images/I_K_B/LCI-DE.svg.png" alt="" itemprop="image"/> </div>
+	    			<div itemprop="articleBody">
+		<p><em>Wir ver&ouml;ffentlichen eine inoffizielle &Uuml;bersetzung einer Erkl&auml;rung des Internationalen Kommunistischen Bundes (IKB):</em></p>
+ 
+<p>&nbsp;</p>
+<p>INTERNATIONALER KOMMUNISTISCHER BUND:</p>
+<p style="text-align: center;"><strong>WIR TEILEN DEN SCHMERZ DER MENSCHEN ALLER NATIONEN, DIE DURCH DAS ERDBEBEN IN DER T&Uuml;RKEI, ROJAVA UND NORDSYRIEN IHR LEBEN VERLOREN HABEN!</strong></p>
+<p style="text-align: justify;">In den fr&uuml;hen Morgenstunden des 6. Februar ereignete sich um 04:17 Uhr ein Erdbeben in Pazarcık/Maraş mit einer St&auml;rke von 7,7, unmittelbar gefolgt von einem weiteren Erdbeben mit einer St&auml;rke von 7,6 in Elbistan/Maraş um 13:24 Uhr. Mit diesen Erdbeben kam es zu einer gro&szlig;en Katastrophe und Zerst&ouml;rung in Antakya, Osmaniye, Antep, Urfa, Amed, Malatya, Kilis, Adıyaman, Adana, Rojava und im Norden Syriens.</p>
+<p style="text-align: justify;">Zus&auml;tzlich zu der Erdbebenkatastrophe und ihrem Ausma&szlig; an Zerst&ouml;rung wurde bekannt, dass die kalten Wetterbedingungen in der Region aufgrund der Wintersaison die arme Bev&ouml;lkerung negativ beeinflussen, tausende von Menschen ihr Leben verloren haben, viele noch unter Tr&uuml;mmern liegen und zehntausende von ihnen verletzt wurden. Betrachtet man jedoch diejenigen, die unter den Tr&uuml;mmern zur&uuml;ckgeblieben sind, so wird deutlich, dass es sich um zehntausende von Opfern, Hunderttausende von Verletzten und eine gro&szlig;e Zerst&ouml;rung handelt.</p>
+<p style="text-align: justify;">Der faschistische Charakter und die volksfeindliche Haltung des t&uuml;rkischen Staates, der seinen Haushalt nach der Kriegspolitik und den Interessen der Bonzen ausrichtet, wurde nach dem Erdbeben deutlich sichtbar. Der nach dem Erdbeben ausgerufene Ausnahmezustand (OHAL) ist zu einer Waffe, einem Instrument des Staates gegen das Volk geworden, mit dem versucht wird, das Ausma&szlig; der Zerst&ouml;rung zu verschleiern. Das Embargo gegen Journalisten und revolution&auml;re und fortschrittliche Kreise, die versuchen, der &Ouml;ffentlichkeit die Wahrheit zu vermitteln, und die Praxis, den Zugang der &Ouml;ffentlichkeit zu Hilfsleistungen zu monopolisieren, sind die ersten Ma&szlig;nahmen, die ergriffen werden. Dies zeigt sich auch in den widerspr&uuml;chlichen Aussagen der Regierung und der Staatsbeamten: Der t&uuml;rkische Staat ist unsensibel gegen&uuml;ber Menschen t&uuml;rkischer, kurdischer, arabischer und anderer nationaler Herkunft. Er hat keine Vorbereitungen f&uuml;r ein Erdbeben getroffen, und dennoch unterbindet der Staat alle Hilfsversuche mit der Begr&uuml;ndung, dies w&uuml;rde die staatliche Macht schw&auml;chen. Der Staat stellt seine Einrichtungen nicht schnell genug in den Dienst der Menschen, er verhindert Solidarit&auml;tsinitiativen der Bev&ouml;lkerung, er tut so, als ob nicht zehntausende von Menschen unter den Tr&uuml;mmern l&auml;gen, und Tayyip Erdoğan selbst macht &Auml;u&szlig;erungen wie "wir werden von Tag zu Tag erleichtert." W&auml;hrend die Menschen unter den Tr&uuml;mmern sterben und an K&auml;lte und Hunger zugrunde gehen, wird versprochen, dass die zerst&ouml;rten St&auml;dte wieder aufgebaut werden. Bereits am zweiten Tag wurden von den Vertretern der Kompradorenbourgeoisie offen Profitkalkulationen f&uuml;r den Wiederaufbau der durch das Erdbeben zerst&ouml;rten St&auml;dte ge&auml;u&szlig;ert.</p>
+<p style="text-align: justify;">Das Erdbeben ist nat&uuml;rlich eine Naturkatastrophe, aber es ist sicherlich nicht nat&uuml;rlich, dass es so schwere Zerst&ouml;rungen verursacht, diese Zerst&ouml;rungen sind ein Produkt des Ausbeutungssystems der gierigen herrschenden Klassen, die v&ouml;llig vom Imperialismus abh&auml;ngig sind. Die Politik des Aufbaus und der Urbanisierung, der Auspl&uuml;nderung der Natur, der Ausbeutung der Menschen und der Konzentration auf mehr Profit, um mehr Profit zu machen, hat bis heute zu gro&szlig;en Katastrophen f&uuml;r die Menschheit gef&uuml;hrt. Das Einzige, was die Menschen und alle Lebewesen am besten sch&uuml;tzen und bewahren kann, ist die revolution&auml;re Linie, die auf die Abschaffung des Systems der Ausbeutung und des Privateigentums abzielt, um das sozialistische System, den Kommunismus, aufzubauen.</p>
+<p style="text-align: justify;">Es hat sich gezeigt, wie schwach und zerbrechlich das Wirtschaftssystem und die Infrastruktur der t&uuml;rkischen herrschenden Klassen und des Staates aufgrund ihrer Abh&auml;ngigkeit vom Imperialismus sind. Der faschistische Staat stellt gro&szlig;e Summen f&uuml;r die Angriffe auf das Volk, f&uuml;r die Feindseligkeit gegen&uuml;ber der kurdischen Nation und den unterdr&uuml;ckten V&ouml;lkern, f&uuml;r die Repressionsmechanismen des Staates und f&uuml;r ein Verteidigungssystem bereit, das der NATO w&uuml;rdig ist. Mit dieser Struktur hat sie sich nicht gescheut, die Massen mit Chauvinismus zu f&uuml;ttern und Propaganda f&uuml;r den &bdquo;gro&szlig;artigen Staat&ldquo;, &bdquo;gro&szlig;artigen F&uuml;hrer&ldquo; und &bdquo;Weltstaat&ldquo; zu machen. Das Erdbeben hat im Gegenteil gezeigt, dass die Gr&ouml;&szlig;e der Staatsgewalt und ihrer Autorit&auml;t in Wirklichkeit nur ein &bdquo;Papiertiger&ldquo; ist. Alle ihre Schw&auml;chen wurden aufgedeckt. Vor allem aber hat es gezeigt, dass der Staat den Interessen des Volkes nichts entgegenzusetzen hat, dass er nicht in der Lage ist, Investitionen zu t&auml;tigen, und dass er nicht in der Lage ist, entsprechende Vorkehrungen zu treffen. Er funktioniert wie ein r&uuml;cksichtsloses Zahnrad, das die Menschen noch mehr ausbeuten, sie in noch mehr Armut st&uuml;rzen und in noch mehr Blut und Tr&auml;nen ertr&auml;nken wird.</p>
+<p style="text-align: justify;">Tayip Erdogan, der derzeit an der Regierung des t&uuml;rkischen Staates ist, und das faschistische B&uuml;ndnis AKP-MHP haben in Anbetracht des f&uuml;r dieses Jahr geplanten Wahlprozesses darauf gesetzt, den Druckmechanismus weiter zu versch&auml;rfen, um das Machtgleichgewicht zu ihren Gunsten zu erhalten. Die Wut und Reaktion der Menschen, die bereits durch den wirtschaftlichen und sozialen Zusammenbruch hervorgerufen wurde, hat sich durch das Erdbeben noch verst&auml;rkt. F&uuml;r sie bedeutet dies eine Versch&auml;rfung der F&uuml;hrungskrise. Um diese F&uuml;hrungskrise zu bew&auml;ltigen, wird sie den faschistischen Unterdr&uuml;ckungsmechanismus noch weiter verst&auml;rken. Sie wird die Menschen noch mehr angreifen, die politischen Freiheiten noch mehr einschr&auml;nken und ihr Bestes tun, um die wirtschaftliche Last des Erdbebens dem Volk aufzub&uuml;rden.</p>
+<p style="text-align: justify;">Die Erdbebenkatastrophe hat einmal mehr gezeigt, wie sehr die Menschen Organisierung und Revolution brauchen. Wie immer sind die gr&ouml;&szlig;ten Opfer von Katastrophen das Volk. Das Volk leidet unter gro&szlig;en Schmerzen. Sie sind schweren Massakern ausgesetzt und werden in noch mehr Hunger und Armut getrieben. Diese Situation wird in der &Ouml;ffentlichkeit als &bdquo;Schicksal&ldquo; dargestellt. Das Schicksal des Volkes liegt jedoch im Kampf f&uuml;r die Befreiung. Nat&uuml;rlich muss das Volk ein Bewusstsein, eine Organisation und ein politisches Programm erlangen, das sein eigenes Schicksal bestimmt. Nur so ist die Erl&ouml;sung m&ouml;glich. Eine noch st&auml;rkere Organisation und ein noch bewussteres Handeln sind f&uuml;r die Befreiung des Volkes unerl&auml;sslich.</p>
+<p style="text-align: justify;">Die Erdbebenkatastrophe und ihre Folgen haben einige der Notwendigkeiten der t&uuml;rkischen Revolution aufgezeigt. Die Revolution ist dringend notwendig. Aber noch wichtiger ist die Frage, was der Weg der Revolution sein wird und was der organisierte Weg des Volkes sein wird. Der einzige und wahre Weg zur Beseitigung dieses Systems, das verrottet und nur ein Papiertiger ist, ist der VOLKSKRIEG. Ein revolution&auml;rer Kampf, der nicht auf Waffen und Gewalt beruht, wird die Macht und Autorit&auml;t der Massen nicht offenbaren. Um die Hilflosigkeit des Volkes zu beseitigen und die Situation des Wartens auf einen Retter zu &auml;ndern, muss es sich organisieren und auf dem Weg des Volkskrieges unter der F&uuml;hrung der TKP/ML k&auml;mpfen. Die Machtergreifung, die St&uuml;ck f&uuml;r St&uuml;ck durch die volksdemokratische Revolution bis zur &Uuml;bernahme der gesamten Macht erk&auml;mpft wird, wird die vollst&auml;ndige und endg&uuml;ltige Befreiung des Volkes bedeuten.</p>
+<p style="text-align: justify;">Wir als Internationaler Kommunistischer Bund (IKB) teilen den Schmerz der Menschen aller Nationalit&auml;ten, die bei den Erdbeben in der T&uuml;rkei, Kurdistan und Syrien ihr Leben verloren haben, und organisieren die Solidarit&auml;t des Volkes, um die Wunden zehntausender Familien zu heilen, die mit Armut und Elend k&auml;mpfen, und sind der Meinung, dass die Autorit&auml;t des Volkes jetzt anstelle der Autorit&auml;t des Staates aufgebaut werden sollte.</p>
+<p style="text-align: justify;">Wir rufen alle fortschrittlichen, revolution&auml;ren, demokratischen, antiimperialistischen Kreise auf, mit internationalistischem Geist zu handeln und die Solidarit&auml;t und den Kampf der Unterdr&uuml;ckten zu st&auml;rken!</p>
+<p style="text-align: justify;">Der Internationale Kommunistische Bund steht an der Seite der unterdr&uuml;ckten t&uuml;rkischen, kurdischen, arabischen und anderen Nationalit&auml;ten der V&ouml;lker, die Opfer des Erdbebens geworden sind.</p>
+<p style="text-align: right;">8. Februar 2023<br />Internationaler Kommunistischer Bund</p>	</div>
+
+				<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+									Details							</dt>
+
+							<dd class="createdby" itemprop="author" itemscope itemtype="http://schema.org/Person">
+					Geschrieben von <span itemprop="name">pakr</span>	</dd>
+			
+			
+			
+										<dd class="published">          
+								<time datetime="2023-03-04T08:00:00+00:00" itemprop="datePublished">
+				04. März 2023									</time>
+			</dd>					
+					
+			
+						</dl>
+									<ul class="tags inline">
+																	<li class="tag-594 tag-list0" itemprop="keywords">
+					<a href="/index.php/de/component/tags/tag/594-erklaerung" class="label label-info">
+						Erklärung					</a>
+				</li>
+																				<li class="tag-1414 tag-list1" itemprop="keywords">
+					<a href="/index.php/de/component/tags/tag/1414-ikb" class="label label-info">
+						ikb					</a>
+				</li>
+						</ul>
+			
+	
+<ul class="pager pagenav">
+	<li class="next">
+		<a href="/index.php/de/t-theorie/t-dokumente/7518-ikb-appell-an-alle-marxistisch-leninistisch-maoistischen-parteien-und-organisationen-dem-internationalen-kommunistischen-bund-beizutreten" rel="next">
+			Weiter <span class="icon-chevron-right"></span>		</a>
+	</li>
+</ul>
+						</div>
+
+					
+					<!-- End Content -->
+				</main>
+									<div id="aside" class="span2" style="float:right;">
+						<!-- Begin Right Sidebar -->
+						<div class=" ">﻿<script type="text/javascript">
+// "σε άλλες γλώσσες "
+var cit = new Array(" in other languages ", " en otras languas ", " em outras línguas ", "Dans d'autres langues ", " In altre lingue ", " in anderen Sprachen ");
+var ind= 0;
+document.getElementById('Citation1').innerHTML = cit[ind];
+ChangeCitation2();
+function ChangeCitation2(){
+  incrementIndex()
+  document.getElementById('Citation2').innerHTML = cit[ind];
+  document.getElementById('Citation1').style.opacity = 0;
+  document.getElementById('Citation2').style.opacity = 1;
+  setTimeout(ChangeCitation1, 4000);
+}
+function ChangeCitation1(){
+  incrementIndex();
+  document.getElementById('Citation1').innerHTML = cit[ind];
+  document.getElementById('Citation1').style.opacity = 1;
+  document.getElementById('Citation2').style.opacity = 0;
+  setTimeout(ChangeCitation2, 4000);
+}
+function incrementIndex(){
+  if(ind < cit.length - 1 ){
+    ind++;
+  }else{
+    ind = 0;
+  }
+}</script>
+<img src="/templates/protostar/images/custom_system/custom_search_button.svg" style="display:none;" onload="ChangeCitation2()">
+<nav id="primary_nav_wrap">
+    <ul>
+      <li id="citationContainer">
+      	<p id = "Citation1"></p>
+    	<p id = "Citation2"></p>
+        <ul>
+		  <li><a href="/index.php/de/">Deutsch</a>
+          <li><a href="/index.php/en/">English</a>
+          <li><a href="/index.php/es/">Español</a>
+		  <li><a href="/index.php/fr/">Français</a>
+		  <li><a href="/index.php/it/">Italiano</a>
+          <li><a href="/index.php/pt/">Português</a>
+        </ul>
+      </li>
+    </ul>
+</nav>
+
+
+<div class="search_div2"> 
+	<form action="/index.php/de/t-theorie/t-dokumente" method="post" class="form-inline">
+	<label for="mod-search-searchword" class="element-invisible"> Suchen... </label>
+	<input name="searchword" id="mod-search-searchword" maxlength="200"  class="inputbox search-query" type="search"  placeholder="Suchen..." size="" />
+   
+	<input type="image" alt="Start Search" class="search_button" id="search-button-id" src="/templates/protostar/images/custom_system/custom_search_button.svg" onclick="this.form.searchword.focus()"/>
+    
+
+		<input type="hidden" name="task" value="search" />
+		<input type="hidden" name="option" value="com_search" />
+		<input type="hidden" name="Itemid" value="156" />
+	</form>
+</div></div><div class=" "><ul class="nav menu">
+<li class="item-138"><a href="/index.php/de/ueber-uns" >Über uns</a></li><li class="item-139"><a href="/index.php/de/about-en" >About</a></li><li class="item-140"><a href="/index.php/de/about-es" > Sobre Nosotros</a></li><li class="item-141"><a href="/index.php/de/about-tr" >Hakkımızda</a></li><li class="item-144"><a href="/index.php/de/kontakt" >Kontakt</a></li><li class="item-164"><a href="/index.php/de/sicherheit" >Sicherheit</a></li></ul>
+</div><div class=" "><h3 class="page-header">Neueste Dokumente</h3> <div class="sprocket-strips-p" data-strips="109">
+	<div class="sprocket-strips-p-overlay"><div class="css-loader-wrapper"><div class="css-loader"></div></div></div>
+	<ul class="sprocket-strips-p-container cols-1" data-strips-items>
+		<li class="sprocket-strips-p-block" data-strips-item>
+	<div class="sprocket-strips-p-item" data-strips-content>
+					<img src="/images/I_K_B/LCI-DE.svg.png" alt="" />
+				<div class="sprocket-strips-p-content">
+						<h4 class="sprocket-strips-p-title" data-strips-toggler>
+				<a href="/index.php/de/t-theorie/t-dokumente/7519-ikb-wir-teilen-den-schmerz-der-menschen-aller-nationen-die-durch-das-erdbeben-in-der-tuerkei-rojava-und-nordsyrien-ihr-leben-verloren-haben">					IKB: "Wir teilen den Schmerz der Menschen aller Nationen, die durch das Erdbeben in der Türkei, Rojava und Nordsyrien ihr Leben verloren haben!"				</a>			</h4>
+												<a href="/index.php/de/t-theorie/t-dokumente/7519-ikb-wir-teilen-den-schmerz-der-menschen-aller-nationen-die-durch-das-erdbeben-in-der-tuerkei-rojava-und-nordsyrien-ihr-leben-verloren-haben" class="readon"><span>Weiterlesen</span></a>
+					</div>
+	</div>
+</li>
+<li class="sprocket-strips-p-block" data-strips-item>
+	<div class="sprocket-strips-p-item" data-strips-content>
+					<img src="/images/I_K_B/LCI-DE.svg.png" alt="" />
+				<div class="sprocket-strips-p-content">
+						<h4 class="sprocket-strips-p-title" data-strips-toggler>
+				<a href="/index.php/de/t-theorie/t-dokumente/7518-ikb-appell-an-alle-marxistisch-leninistisch-maoistischen-parteien-und-organisationen-dem-internationalen-kommunistischen-bund-beizutreten">					IKB: "Appell an alle marxistisch-leninistisch-maoistischen Parteien und Organisationen, dem Internationalen Kommunistischen Bund beizutreten"				</a>			</h4>
+												<a href="/index.php/de/t-theorie/t-dokumente/7518-ikb-appell-an-alle-marxistisch-leninistisch-maoistischen-parteien-und-organisationen-dem-internationalen-kommunistischen-bund-beizutreten" class="readon"><span>Weiterlesen</span></a>
+					</div>
+	</div>
+</li>
+<li class="sprocket-strips-p-block" data-strips-item>
+	<div class="sprocket-strips-p-item" data-strips-content>
+					<img src="/images/I_K_B/LCI-DE.svg.png" alt="" />
+				<div class="sprocket-strips-p-content">
+						<h4 class="sprocket-strips-p-title" data-strips-toggler>
+				<a href="/index.php/de/t-theorie/t-dokumente/7517-ikb-gegen-die-imperialistische-aggression-erhebt-das-banner-des-volkskrieges">					IKB: "Gegen die imperialistische Aggression, erhebt das Banner des Volkskrieges!"				</a>			</h4>
+												<a href="/index.php/de/t-theorie/t-dokumente/7517-ikb-gegen-die-imperialistische-aggression-erhebt-das-banner-des-volkskrieges" class="readon"><span>Weiterlesen</span></a>
+					</div>
+	</div>
+</li>
+<li class="sprocket-strips-p-block" data-strips-item>
+	<div class="sprocket-strips-p-item" data-strips-content>
+					<img src="/images/Spanien/Spanischer_Staat/2023/Neues_Treffen_der_Versammlung_der_Siedlung_in_Albacete_Die_Massen_organisieren_sich_für_die_Arbeit_außerhalb_des_bürgerlichen_Staates-1.png" alt="" />
+				<div class="sprocket-strips-p-content">
+						<h4 class="sprocket-strips-p-title" data-strips-toggler>
+				<a href="/index.php/de/t-international/7515-spanischer-staat-neues-treffen-der-versammlung-der-siedlung-in-albacete-die-massen-organisieren-sich-fuer-die-arbeit-ausserhalb-des-buergerlichen-staates">					Spanischer Staat: Neues Treffen der Versammlung der Siedlung in Albacete: Die Massen organisieren sich für die Arbeit außerhalb des bürgerlichen Staates				</a>			</h4>
+												<a href="/index.php/de/t-international/7515-spanischer-staat-neues-treffen-der-versammlung-der-siedlung-in-albacete-die-massen-organisieren-sich-fuer-die-arbeit-ausserhalb-des-buergerlichen-staates" class="readon"><span>Weiterlesen</span></a>
+					</div>
+	</div>
+</li>
+<li class="sprocket-strips-p-block" data-strips-item>
+	<div class="sprocket-strips-p-item" data-strips-content>
+					<img src="/images/Indien/2023/Indien_Der_alte_indische_Staat_intensiviert_die_Bekämpfung_des_Volkskriegs_und_den_Terror_gegen_das_Volk-1.jpeg" alt="" />
+				<div class="sprocket-strips-p-content">
+						<h4 class="sprocket-strips-p-title" data-strips-toggler>
+				<a href="/index.php/de/t-international/7511-indien-aktuelle-aktionen-im-volkskrieg">					Indien: Aktuelle Aktionen im Volkskrieg				</a>			</h4>
+												<a href="/index.php/de/t-international/7511-indien-aktuelle-aktionen-im-volkskrieg" class="readon"><span>Weiterlesen</span></a>
+					</div>
+	</div>
+</li>
+<li class="sprocket-strips-p-block" data-strips-item>
+	<div class="sprocket-strips-p-item" data-strips-content>
+					<img src="/images/Tuerkei/2023/AGEB-Deuch-Afis--1024x720.png" alt="" />
+				<div class="sprocket-strips-p-content">
+						<h4 class="sprocket-strips-p-title" data-strips-toggler>
+				<a href="/index.php/de/t-international/7510-ageb-lassen-sie-uns-solidaritaet-gegen-die-katastrophe-und-zerstoerung-des-erdbebens-vergroessern-verlangen-wir-rechenschaft-fuer-das-massaker">					AGEB: Lassen Sie uns Solidarität gegen die Katastrophe und Zerstörung des Erdbebens vergrößern!  Verlangen wir Rechenschaft für das Massaker!				</a>			</h4>
+												<a href="/index.php/de/t-international/7510-ageb-lassen-sie-uns-solidaritaet-gegen-die-katastrophe-und-zerstoerung-des-erdbebens-vergroessern-verlangen-wir-rechenschaft-fuer-das-massaker" class="readon"><span>Weiterlesen</span></a>
+					</div>
+	</div>
+</li>
+<li class="sprocket-strips-p-block" data-strips-item>
+	<div class="sprocket-strips-p-item" data-strips-content>
+				<div class="sprocket-strips-p-content">
+						<h4 class="sprocket-strips-p-title" data-strips-toggler>
+				<a href="/index.php/de/t-brd/7506-aldi-treibt-wasserprivatisierung-voranbereits-ende-letzten-jahres-hat-aldi-nord-angekuendigt-mit-der-altmuehltaler-mineralbrunnen-gmbh-und-der-vitaqua-gmbh-zwei-von-deutschlands-groessten-wasser-und-wasserflaschenherstellern-zu-kaufen-dies-musste-vom-bund">					Aldi treibt Wasserprivatisierung voran				</a>			</h4>
+												<a href="/index.php/de/t-brd/7506-aldi-treibt-wasserprivatisierung-voranbereits-ende-letzten-jahres-hat-aldi-nord-angekuendigt-mit-der-altmuehltaler-mineralbrunnen-gmbh-und-der-vitaqua-gmbh-zwei-von-deutschlands-groessten-wasser-und-wasserflaschenherstellern-zu-kaufen-dies-musste-vom-bund" class="readon"><span>Weiterlesen</span></a>
+					</div>
+	</div>
+</li>
+<li class="sprocket-strips-p-block" data-strips-item>
+	<div class="sprocket-strips-p-item" data-strips-content>
+					<img src="/images/HH/2023/Hamburg_Kundgebung_gegen_die_erneuten_Massaker_in_Palästina-1.JPG" alt="" />
+				<div class="sprocket-strips-p-content">
+						<h4 class="sprocket-strips-p-title" data-strips-toggler>
+				<a href="/index.php/de/t-international/7504-hamburg-kundgebung-gegen-die-erneuten-massaker-in-palaestina">					Hamburg: Kundgebung gegen die erneuten Massaker in Palästina				</a>			</h4>
+												<a href="/index.php/de/t-international/7504-hamburg-kundgebung-gegen-die-erneuten-massaker-in-palaestina" class="readon"><span>Weiterlesen</span></a>
+					</div>
+	</div>
+</li>
+<li class="sprocket-strips-p-block" data-strips-item>
+	<div class="sprocket-strips-p-item" data-strips-content>
+				<div class="sprocket-strips-p-content">
+						<h4 class="sprocket-strips-p-title" data-strips-toggler>
+				<a href="/index.php/de/t-brd/7503-kundgebung-in-hamburg-freiheit-fuer-palaestina">					Kundgebung in Hamburg: FREIHEIT FÜR PALÄSTINA!				</a>			</h4>
+												<a href="/index.php/de/t-brd/7503-kundgebung-in-hamburg-freiheit-fuer-palaestina" class="readon"><span>Weiterlesen</span></a>
+					</div>
+	</div>
+</li>
+<li class="sprocket-strips-p-block" data-strips-item>
+	<div class="sprocket-strips-p-item" data-strips-content>
+					<img src="/images/Proletarischer_Feminismus/8m2021/Video_8._März_2021.png" alt="" />
+				<div class="sprocket-strips-p-content">
+						<h4 class="sprocket-strips-p-title" data-strips-toggler>
+				<a href="/index.php/de/t-proletarischer-feminismus/7502-rotes-frauenkomitee-brd-flugblatt-zum-8-maerz-2023">					Rotes Frauenkomitee - BRD: Flugblatt zum 8. März 2023				</a>			</h4>
+												<a href="/index.php/de/t-proletarischer-feminismus/7502-rotes-frauenkomitee-brd-flugblatt-zum-8-maerz-2023" class="readon"><span>Weiterlesen</span></a>
+					</div>
+	</div>
+</li>
+	</ul>
+	<div class="sprocket-strips-p-nav">
+		<div class="sprocket-strips-p-pagination-hidden">
+			<ul>
+									    	<li class="active" data-strips-page="1"><span>1</span></li>
+									    	<li data-strips-page="2"><span>2</span></li>
+									    	<li data-strips-page="3"><span>3</span></li>
+						</ul>
+		</div>
+				<div class="sprocket-strips-p-arrows">
+			<span class="arrow next" data-strips-next></span>
+			<span class="arrow prev" data-strips-previous></span>
+		</div>
+			</div>
+</div>
+</div>            
+						<!-- End Right Sidebar -->
+					</div>
+							</div>
+		</div>
+	</div>
+	<!-- Footer -->
+	<footer class="footer" role="contentinfo">
+		<div class="container">
+			<hr />
+			
+			<p class="pull-right">
+				<a href="#top" id="back-top">
+					Nach oben				</a>
+			</p>
+			<p>
+			&copy; 2023  
+			</p>
+		</div>
+	</footer>
+	
+
+</body>
+</html>
