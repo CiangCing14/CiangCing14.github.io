@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de-de" lang="de-de" dir="ltr">
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	  <base href="https://www.demvolkedienen.org/index.php/de/t-brd/7522-erneut-faschistische-chatgruppe-in-freiburger-polizei-bekannt-geworden" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="Internetplattform, revolutionäre Bewegung, Dem Volke Dienen, Nachrichten, Theorie" />
+  <meta name="author" content="ruko" />
+  <meta name="description" content="Internetplattform für die Entwicklung einer revolutionären Bewegung" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Erneut faschistische Chatgruppe in Freiburger Polizei bekannt geworden.</title>
+  <link href="/templates/protostar/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/templates/protostar/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="/components/com_roksprocket/layouts/strips/themes/parallel/parallel.css" type="text/css" />
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js" type="text/javascript"></script>
+  <script src="/plugins/system/jqueryeasy/jquerynoconflict.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  
+  
+  
+  <script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+  <script src="/templates/protostar/js/template.js" type="text/javascript"></script>
+  <script src="/media/system/js/html5fallback.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/components/com_roksprocket/assets/js/mootools-mobile.js" type="text/javascript"></script>
+  <script src="/components/com_roksprocket/assets/js/rokmediaqueries.js" type="text/javascript"></script>
+  <script src="/components/com_roksprocket/assets/js/roksprocket.js" type="text/javascript"></script>
+  <script src="/components/com_roksprocket/assets/js/moofx.js" type="text/javascript"></script>
+  <script src="/components/com_roksprocket/assets/js/roksprocket.request.js" type="text/javascript"></script>
+  <script src="/components/com_roksprocket/layouts/strips/assets/js/strips.js" type="text/javascript"></script>
+  <script src="/components/com_roksprocket/layouts/strips/assets/js/strips-speeds.js" type="text/javascript"></script>
+  <script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});if (typeof RokSprocket == 'undefined') RokSprocket = {};
+Object.merge(RokSprocket, {
+	SiteURL: 'https://www.demvolkedienen.org/',
+	CurrentURL: 'https://www.demvolkedienen.org/',
+	AjaxURL: 'https://www.demvolkedienen.org/index.php?option=com_roksprocket&amp;task=ajax&amp;format=raw&amp;ItemId=149'
+});
+window.addEvent('domready', function(){
+		RokSprocket.instances.strips = new RokSprocket.Strips();
+});
+window.addEvent('domready', function(){
+	RokSprocket.instances.strips.attach(109, '{"animation":"fadeDelay","autoplay":"1","delay":"35"}');
+});
+window.addEvent('load', function(){
+   var overridden = false;
+   if (!overridden && window.G5 && window.G5.offcanvas){
+       var mod = document.getElement('[data-strips="109"]');
+       mod.addEvents({
+           touchstart: function(){ window.G5.offcanvas.detach(); },
+           touchend: function(){ window.G5.offcanvas.attach(); }
+       });
+       overridden = true;
+   };
+});
+
+  </script>
+
+				<link href='//fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css' />
+		<style type="text/css">
+			h1,h2,h3,h4,h5,h6{
+				font-family: 'Ubuntu', sans-serif;
+			}
+		</style>
+				<!--style type="text/css"> 4.10. horst: roter Rand oben // button hintergrund
+		
+		body.site
+		{
+			border-top: 3px solid #a81818;
+			background-color: #f4f6f7		}
+		a
+		{
+			color: #a81818;
+		}
+		.navbar-inner, .nav-list > .active > a, .nav-list > .active > a:hover, .dropdown-menu li > a:hover, .dropdown-menu .active > a, .dropdown-menu .active > a:hover, .nav-pills > .active > a, .nav-pills > .active > a:hover,
+		.btn-primary
+		{
+			background: #a81818;
+		}
+		.navbar-inner
+		{
+			-moz-box-shadow: 0 1px 3px rgba(0, 0, 0, .25), inset 0 -1px 0 rgba(0, 0, 0, .1), inset 0 30px 10px rgba(0, 0, 0, .2);
+			-webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, .25), inset 0 -1px 0 rgba(0, 0, 0, .1), inset 0 30px 10px rgba(0, 0, 0, .2);
+			box-shadow: 0 1px 3px rgba(0, 0, 0, .25), inset 0 -1px 0 rgba(0, 0, 0, .1), inset 0 30px 10px rgba(0, 0, 0, .2);
+		}
+	</style-->
+		<!--[if lt IE 9]>
+		<script src="/media/jui/js/html5.js"></script>
+	<![endif]-->
+</head>
+
+<body class="site com_content view-article no-layout no-task itemid-149">
+
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-70094084-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+	<!-- Body -->
+	<div class="body">
+		<div class="container">
+			<!-- Header -->
+			<header class="header" role="banner">
+				<div class="header-inner clearfix">
+					<a class="brand pull-left" href="/">
+						<span class="site-title" title="Dem Volke Dienen">Dem Volke Dienen</span>													<div class="site-description">Internetplattform für die Entwicklung der revolutionären Bewegung</div>											</a>
+					<div class="header-search pull-right">
+						
+					</div>
+				</div>
+			</header>
+							<nav class="navigation" role="navigation">
+					<div class="navbar pull-left">
+						<a class="btn btn-navbar collapsed" data-toggle="collapse" data-target=".nav-collapse">
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</a>
+					</div>
+					<div class="nav-collapse">
+						<ul class="nav menu nav-pills">
+<li class="item-101"><a href="/index.php/de/" >Home</a></li><li class="item-148"><a href="/index.php/de/t-international" >International</a></li><li class="item-149 current active"><a href="/index.php/de/t-brd" >BRD</a></li><li class="item-150"><a href="/index.php/de/t-kultur" >Kultur</a></li><li class="item-298"><a href="/index.php/de/200-jahre-karl-marx" >200 Jahre Karl Marx</a></li><li class="item-153"><a href="/index.php/de/t-proletarischer-feminismus" >Proletarischer Feminismus</a></li><li class="item-152"><a href="/index.php/de/t-jugend" >Jugend</a></li><li class="item-147 deeper parent"><a href="/index.php/de/t-theorie" >Theorie</a><ul class="nav-child unstyled small"><li class="item-165"><a href="/index.php/de/t-theorie/marx-engels" >Marx / Engels</a></li><li class="item-168"><a href="/index.php/de/t-theorie/lenin" >Lenin</a></li><li class="item-171"><a href="/index.php/de/t-theorie/stalin" >Stalin</a></li><li class="item-169"><a href="/index.php/de/t-theorie/mao" >Mao</a></li><li class="item-172"><a href="/index.php/de/t-theorie/gonzalo" >Gonzalo</a></li><li class="item-156"><a href="/index.php/de/t-theorie/t-dokumente" >Dokumente der kommunistischen Bewegung</a></li></ul></li><li class="item-155"><a href="/index.php/de/t-links" >Links</a></li></ul>
+
+					</div>
+				</nav>
+						
+			<div class="row-fluid">
+								<main id="content" role="main" class="span9">
+					<!-- Begin Content -->
+					
+					<div id="system-message-container">
+	</div>
+
+					<div class="item-page" itemscope itemtype="http://schema.org/Article">
+	<meta itemprop="inLanguage" content="de-DE" />
+	
+		
+			<div class="page-header">
+		<h2 itemprop="name">
+							Erneut faschistische Chatgruppe in Freiburger Polizei bekannt geworden.					</h2>
+							</div>
+					
+	
+	
+		
+								<div itemprop="articleBody">
+		<p><br />Regelm&auml;&szlig;ig werden aus verschiedenen teilen der BRD Informationen &uuml;ber rassistische und faschistische &Auml;u&szlig;erungen von Bullen in internen Chatgruppen bekannt. Unter anderem zum Beispiel in Ulm, Essen oder Frankfurt. In Frankfurt f&uuml;hrten die Ermittelungen sogar zur Aufl&ouml;sung einer SEK Einheit.</p>
+ 
+<p><br />Nun wurde auch in Freiburg erneut eine solche Chatgruppe bekannt.<br />Unter anderem berichtet die Zeit Online dar&uuml;ber, dass die Staatsanwaltschaft in Karlsruhe nun gegen drei Polizeibeamte, welche sich in einer Polizeichatgruppe rasisstisch ge&auml;u&szlig;ert haben ermittelt.</p>
+<p><br />Gegen die drei Polizisten wird unter anderem wegen des Verdachts der Volksverhetzung ermittelt.<br />Gegen vier weitere Polizisten welche ebenfalls Teil der Gruppe waren, werden m&ouml;gliche Straftatbest&auml;nde noch gepr&uuml;ft. Also mit anderen Worten die Staatsanwaltschaft &uuml;berlegt sich ob die &Auml;u&szlig;erungen welche diese in der Chatgruppe ver&ouml;ffentlichten so reaktion&auml;r und faschistisch sind dass sie dagegen vorgehen m&uuml;ssen oder ob sie ihren Kollegen das durchgehen lassen k&ouml;nnen.</p>
+<p>Im Rahmen dessen, dass die rassistischen &Auml;u&szlig;erungen in der Chatgruppe bekannt wurden wurden in Folge eines Polizeiinternen Disziplinarverfahren die Mobiltelefone der Beamten welche teils auch dienstlich genutzt wurden sichergestellt und &uuml;berpr&uuml;ft. Bei den Auswertungen der Handys entdeckte das Landeskriminalamt Baden-W&uuml;rttemberg den Angaben zufolge, dass von diesen strafrechtlich relevante Bild- und Videodateien versendet worden sind "bei denen insbesondere ein rechtsradikaler, ausl&auml;nderfeindlicher und zum Teil homophober Inhalt festzustellen ist".</p>
+<p><br />Desweiteren wird den beschuldigten Beamten auch das verwenden von sogenannten &bdquo;Kennzeichen verfassungswidriger Organisationen&ldquo; vorgeworfen. Uns allen d&uuml;rfte klar sein dass die Cops keine Logos antiimperialistischer Guerilliaorganisationen genutzt haben, also geht es im Klartext um das verwenden von Hakenkreuzen und sonstigen verbotenen faschistischen Symbolen.</p>
+<p><br />Die Chatgruppe an welcher haupts&auml;chlich Polizisten beteiligt waren vereinte insgesamt vierzig Mitglieder. Es ist aktuell noch nicht bekannt ob die Inhalte wegen denen nun ermittelt wird nur innerhalb der Chatgruppe oder auch &ouml;ffentlich verbreitet wurden.</p>
+<p>Es ist nicht das erste Mal, dass die Freiburger Polizei durch reaktion&auml;re Handlungen ihrer Cops Schlagzeilen macht. 2021 kam es schoneinmal zu einem Vorfall bei welchem rassistische Inhalte in Chats der Bullen bekannt wurden.<br />Regelm&auml;&szlig;ig kommt es zu berichten von rassistischen &Uuml;bergriffen und Polizeigewalt. &Uuml;ber diese haben wir hier auch in Vergangenheit regelm&auml;&szlig;ig berichtet.<br />Das bekannteste Beispiel dieser Art ist ein Vorfall aus dem Sommer 2021 bei welchem ein migrantischer Mann von einer zw&ouml;lfk&ouml;pfigen Gruppe in einer Art Hetzjagd unter &bdquo;Ausl&auml;nder raus&ldquo; Rufen durch den Stadtteil St&uuml;hlinger gejagt wurde. An dieser Gruppe waren unter anderem auch zwei Polizeihauptkommissare beteiligt gewesen welche den betroffenen k&ouml;rperlich Angriffen und drohten ihn umzubringen . Als Folge dieses und eines weiteren Vorfalles kam es anschlie&szlig;end zu gro&szlig;en Protesten bei welchen es auch zu Auseinandersetzungen mit der Polizei kam. Das anschlie&szlig;ende Verfahren gegen die Bullen und Rassisten wurde durch eine Geldzahlung im Rahmen eines T&auml;ter-Opfer ausgleiches eingestellt und die beiden Bullen sind immer noch im Dienst wo sie munter weiter Migranten jagen, schikanieren und verpr&uuml;geln k&ouml;nnen. Zur Polizei zu gehen hei&szlig;t f&uuml;r Rassisten, ihr Hobby zum Beruf zu machen.</p>	</div>
+
+				<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+									Details							</dt>
+
+							<dd class="createdby" itemprop="author" itemscope itemtype="http://schema.org/Person">
+					Geschrieben von <span itemprop="name">ruko</span>	</dd>
+			
+			
+			
+										<dd class="published">          
+								<time datetime="2023-03-06T06:13:42+00:00" itemprop="datePublished">
+				06. März 2023									</time>
+			</dd>					
+					
+			
+						</dl>
+			
+	
+<ul class="pager pagenav">
+	<li class="next">
+		<a href="/index.php/de/t-brd/7506-aldi-treibt-wasserprivatisierung-voranbereits-ende-letzten-jahres-hat-aldi-nord-angekuendigt-mit-der-altmuehltaler-mineralbrunnen-gmbh-und-der-vitaqua-gmbh-zwei-von-deutschlands-groessten-wasser-und-wasserflaschenherstellern-zu-kaufen-dies-musste-vom-bund" rel="next">
+			Weiter <span class="icon-chevron-right"></span>		</a>
+	</li>
+</ul>
+						</div>
+
+					
+					<!-- End Content -->
+				</main>
+									<div id="aside" class="span2" style="float:right;">
+						<!-- Begin Right Sidebar -->
+						<div class=" ">﻿<script type="text/javascript">
+// "σε άλλες γλώσσες "
+var cit = new Array(" in other languages ", " en otras languas ", " em outras línguas ", "Dans d'autres langues ", " In altre lingue ", " in anderen Sprachen ");
+var ind= 0;
+document.getElementById('Citation1').innerHTML = cit[ind];
+ChangeCitation2();
+function ChangeCitation2(){
+  incrementIndex()
+  document.getElementById('Citation2').innerHTML = cit[ind];
+  document.getElementById('Citation1').style.opacity = 0;
+  document.getElementById('Citation2').style.opacity = 1;
+  setTimeout(ChangeCitation1, 4000);
+}
+function ChangeCitation1(){
+  incrementIndex();
+  document.getElementById('Citation1').innerHTML = cit[ind];
+  document.getElementById('Citation1').style.opacity = 1;
+  document.getElementById('Citation2').style.opacity = 0;
+  setTimeout(ChangeCitation2, 4000);
+}
+function incrementIndex(){
+  if(ind < cit.length - 1 ){
+    ind++;
+  }else{
+    ind = 0;
+  }
+}</script>
+<img src="/templates/protostar/images/custom_system/custom_search_button.svg" style="display:none;" onload="ChangeCitation2()">
+<nav id="primary_nav_wrap">
+    <ul>
+      <li id="citationContainer">
+      	<p id = "Citation1"></p>
+    	<p id = "Citation2"></p>
+        <ul>
+		  <li><a href="/index.php/de/">Deutsch</a>
+          <li><a href="/index.php/en/">English</a>
+          <li><a href="/index.php/es/">Español</a>
+		  <li><a href="/index.php/fr/">Français</a>
+		  <li><a href="/index.php/it/">Italiano</a>
+          <li><a href="/index.php/pt/">Português</a>
+        </ul>
+      </li>
+    </ul>
+</nav>
+
+
+<div class="search_div2"> 
+	<form action="/index.php/de/t-brd" method="post" class="form-inline">
+	<label for="mod-search-searchword" class="element-invisible"> Suchen... </label>
+	<input name="searchword" id="mod-search-searchword" maxlength="200"  class="inputbox search-query" type="search"  placeholder="Suchen..." size="" />
+   
+	<input type="image" alt="Start Search" class="search_button" id="search-button-id" src="/templates/protostar/images/custom_system/custom_search_button.svg" onclick="this.form.searchword.focus()"/>
+    
+
+		<input type="hidden" name="task" value="search" />
+		<input type="hidden" name="option" value="com_search" />
+		<input type="hidden" name="Itemid" value="149" />
+	</form>
+</div></div><div class=" "><ul class="nav menu">
+<li class="item-138"><a href="/index.php/de/ueber-uns" >Über uns</a></li><li class="item-139"><a href="/index.php/de/about-en" >About</a></li><li class="item-140"><a href="/index.php/de/about-es" > Sobre Nosotros</a></li><li class="item-141"><a href="/index.php/de/about-tr" >Hakkımızda</a></li><li class="item-144"><a href="/index.php/de/kontakt" >Kontakt</a></li><li class="item-164"><a href="/index.php/de/sicherheit" >Sicherheit</a></li></ul>
+</div><div class=" "><h3 class="page-header">Neueste Dokumente</h3> <div class="sprocket-strips-p" data-strips="109">
+	<div class="sprocket-strips-p-overlay"><div class="css-loader-wrapper"><div class="css-loader"></div></div></div>
+	<ul class="sprocket-strips-p-container cols-1" data-strips-items>
+		<li class="sprocket-strips-p-block" data-strips-item>
+	<div class="sprocket-strips-p-item" data-strips-content>
+				<div class="sprocket-strips-p-content">
+						<h4 class="sprocket-strips-p-title" data-strips-toggler>
+				<a href="/index.php/de/t-brd/7522-erneut-faschistische-chatgruppe-in-freiburger-polizei-bekannt-geworden">					Erneut faschistische Chatgruppe in Freiburger Polizei bekannt geworden.				</a>			</h4>
+												<a href="/index.php/de/t-brd/7522-erneut-faschistische-chatgruppe-in-freiburger-polizei-bekannt-geworden" class="readon"><span>Weiterlesen</span></a>
+					</div>
+	</div>
+</li>
+<li class="sprocket-strips-p-block" data-strips-item>
+	<div class="sprocket-strips-p-item" data-strips-content>
+					<img src="/images/I_K_B/LCI-DE.svg.png" alt="" />
+				<div class="sprocket-strips-p-content">
+						<h4 class="sprocket-strips-p-title" data-strips-toggler>
+				<a href="/index.php/de/t-theorie/t-dokumente/7519-ikb-wir-teilen-den-schmerz-der-menschen-aller-nationen-die-durch-das-erdbeben-in-der-tuerkei-rojava-und-nordsyrien-ihr-leben-verloren-haben">					IKB: "Wir teilen den Schmerz der Menschen aller Nationen, die durch das Erdbeben in der Türkei, Rojava und Nordsyrien ihr Leben verloren haben!"				</a>			</h4>
+												<a href="/index.php/de/t-theorie/t-dokumente/7519-ikb-wir-teilen-den-schmerz-der-menschen-aller-nationen-die-durch-das-erdbeben-in-der-tuerkei-rojava-und-nordsyrien-ihr-leben-verloren-haben" class="readon"><span>Weiterlesen</span></a>
+					</div>
+	</div>
+</li>
+<li class="sprocket-strips-p-block" data-strips-item>
+	<div class="sprocket-strips-p-item" data-strips-content>
+					<img src="/images/I_K_B/LCI-DE.svg.png" alt="" />
+				<div class="sprocket-strips-p-content">
+						<h4 class="sprocket-strips-p-title" data-strips-toggler>
+				<a href="/index.php/de/t-theorie/t-dokumente/7518-ikb-appell-an-alle-marxistisch-leninistisch-maoistischen-parteien-und-organisationen-dem-internationalen-kommunistischen-bund-beizutreten">					IKB: "Appell an alle marxistisch-leninistisch-maoistischen Parteien und Organisationen, dem Internationalen Kommunistischen Bund beizutreten"				</a>			</h4>
+												<a href="/index.php/de/t-theorie/t-dokumente/7518-ikb-appell-an-alle-marxistisch-leninistisch-maoistischen-parteien-und-organisationen-dem-internationalen-kommunistischen-bund-beizutreten" class="readon"><span>Weiterlesen</span></a>
+					</div>
+	</div>
+</li>
+<li class="sprocket-strips-p-block" data-strips-item>
+	<div class="sprocket-strips-p-item" data-strips-content>
+					<img src="/images/I_K_B/LCI-DE.svg.png" alt="" />
+				<div class="sprocket-strips-p-content">
+						<h4 class="sprocket-strips-p-title" data-strips-toggler>
+				<a href="/index.php/de/t-theorie/t-dokumente/7517-ikb-gegen-die-imperialistische-aggression-erhebt-das-banner-des-volkskrieges">					IKB: "Gegen die imperialistische Aggression, erhebt das Banner des Volkskrieges!"				</a>			</h4>
+												<a href="/index.php/de/t-theorie/t-dokumente/7517-ikb-gegen-die-imperialistische-aggression-erhebt-das-banner-des-volkskrieges" class="readon"><span>Weiterlesen</span></a>
+					</div>
+	</div>
+</li>
+<li class="sprocket-strips-p-block" data-strips-item>
+	<div class="sprocket-strips-p-item" data-strips-content>
+					<img src="/images/Spanien/Spanischer_Staat/2023/Neues_Treffen_der_Versammlung_der_Siedlung_in_Albacete_Die_Massen_organisieren_sich_für_die_Arbeit_außerhalb_des_bürgerlichen_Staates-1.png" alt="" />
+				<div class="sprocket-strips-p-content">
+						<h4 class="sprocket-strips-p-title" data-strips-toggler>
+				<a href="/index.php/de/t-international/7515-spanischer-staat-neues-treffen-der-versammlung-der-siedlung-in-albacete-die-massen-organisieren-sich-fuer-die-arbeit-ausserhalb-des-buergerlichen-staates">					Spanischer Staat: Neues Treffen der Versammlung der Siedlung in Albacete: Die Massen organisieren sich für die Arbeit außerhalb des bürgerlichen Staates				</a>			</h4>
+												<a href="/index.php/de/t-international/7515-spanischer-staat-neues-treffen-der-versammlung-der-siedlung-in-albacete-die-massen-organisieren-sich-fuer-die-arbeit-ausserhalb-des-buergerlichen-staates" class="readon"><span>Weiterlesen</span></a>
+					</div>
+	</div>
+</li>
+<li class="sprocket-strips-p-block" data-strips-item>
+	<div class="sprocket-strips-p-item" data-strips-content>
+					<img src="/images/Indien/2023/Indien_Der_alte_indische_Staat_intensiviert_die_Bekämpfung_des_Volkskriegs_und_den_Terror_gegen_das_Volk-1.jpeg" alt="" />
+				<div class="sprocket-strips-p-content">
+						<h4 class="sprocket-strips-p-title" data-strips-toggler>
+				<a href="/index.php/de/t-international/7511-indien-aktuelle-aktionen-im-volkskrieg">					Indien: Aktuelle Aktionen im Volkskrieg				</a>			</h4>
+												<a href="/index.php/de/t-international/7511-indien-aktuelle-aktionen-im-volkskrieg" class="readon"><span>Weiterlesen</span></a>
+					</div>
+	</div>
+</li>
+<li class="sprocket-strips-p-block" data-strips-item>
+	<div class="sprocket-strips-p-item" data-strips-content>
+					<img src="/images/Tuerkei/2023/AGEB-Deuch-Afis--1024x720.png" alt="" />
+				<div class="sprocket-strips-p-content">
+						<h4 class="sprocket-strips-p-title" data-strips-toggler>
+				<a href="/index.php/de/t-international/7510-ageb-lassen-sie-uns-solidaritaet-gegen-die-katastrophe-und-zerstoerung-des-erdbebens-vergroessern-verlangen-wir-rechenschaft-fuer-das-massaker">					AGEB: Lassen Sie uns Solidarität gegen die Katastrophe und Zerstörung des Erdbebens vergrößern!  Verlangen wir Rechenschaft für das Massaker!				</a>			</h4>
+												<a href="/index.php/de/t-international/7510-ageb-lassen-sie-uns-solidaritaet-gegen-die-katastrophe-und-zerstoerung-des-erdbebens-vergroessern-verlangen-wir-rechenschaft-fuer-das-massaker" class="readon"><span>Weiterlesen</span></a>
+					</div>
+	</div>
+</li>
+<li class="sprocket-strips-p-block" data-strips-item>
+	<div class="sprocket-strips-p-item" data-strips-content>
+				<div class="sprocket-strips-p-content">
+						<h4 class="sprocket-strips-p-title" data-strips-toggler>
+				<a href="/index.php/de/t-brd/7506-aldi-treibt-wasserprivatisierung-voranbereits-ende-letzten-jahres-hat-aldi-nord-angekuendigt-mit-der-altmuehltaler-mineralbrunnen-gmbh-und-der-vitaqua-gmbh-zwei-von-deutschlands-groessten-wasser-und-wasserflaschenherstellern-zu-kaufen-dies-musste-vom-bund">					Aldi treibt Wasserprivatisierung voran				</a>			</h4>
+												<a href="/index.php/de/t-brd/7506-aldi-treibt-wasserprivatisierung-voranbereits-ende-letzten-jahres-hat-aldi-nord-angekuendigt-mit-der-altmuehltaler-mineralbrunnen-gmbh-und-der-vitaqua-gmbh-zwei-von-deutschlands-groessten-wasser-und-wasserflaschenherstellern-zu-kaufen-dies-musste-vom-bund" class="readon"><span>Weiterlesen</span></a>
+					</div>
+	</div>
+</li>
+<li class="sprocket-strips-p-block" data-strips-item>
+	<div class="sprocket-strips-p-item" data-strips-content>
+					<img src="/images/HH/2023/Hamburg_Kundgebung_gegen_die_erneuten_Massaker_in_Palästina-1.JPG" alt="" />
+				<div class="sprocket-strips-p-content">
+						<h4 class="sprocket-strips-p-title" data-strips-toggler>
+				<a href="/index.php/de/t-international/7504-hamburg-kundgebung-gegen-die-erneuten-massaker-in-palaestina">					Hamburg: Kundgebung gegen die erneuten Massaker in Palästina				</a>			</h4>
+												<a href="/index.php/de/t-international/7504-hamburg-kundgebung-gegen-die-erneuten-massaker-in-palaestina" class="readon"><span>Weiterlesen</span></a>
+					</div>
+	</div>
+</li>
+<li class="sprocket-strips-p-block" data-strips-item>
+	<div class="sprocket-strips-p-item" data-strips-content>
+				<div class="sprocket-strips-p-content">
+						<h4 class="sprocket-strips-p-title" data-strips-toggler>
+				<a href="/index.php/de/t-brd/7503-kundgebung-in-hamburg-freiheit-fuer-palaestina">					Kundgebung in Hamburg: FREIHEIT FÜR PALÄSTINA!				</a>			</h4>
+												<a href="/index.php/de/t-brd/7503-kundgebung-in-hamburg-freiheit-fuer-palaestina" class="readon"><span>Weiterlesen</span></a>
+					</div>
+	</div>
+</li>
+	</ul>
+	<div class="sprocket-strips-p-nav">
+		<div class="sprocket-strips-p-pagination-hidden">
+			<ul>
+									    	<li class="active" data-strips-page="1"><span>1</span></li>
+									    	<li data-strips-page="2"><span>2</span></li>
+									    	<li data-strips-page="3"><span>3</span></li>
+						</ul>
+		</div>
+				<div class="sprocket-strips-p-arrows">
+			<span class="arrow next" data-strips-next></span>
+			<span class="arrow prev" data-strips-previous></span>
+		</div>
+			</div>
+</div>
+</div>            
+						<!-- End Right Sidebar -->
+					</div>
+							</div>
+		</div>
+	</div>
+	<!-- Footer -->
+	<footer class="footer" role="contentinfo">
+		<div class="container">
+			<hr />
+			
+			<p class="pull-right">
+				<a href="#top" id="back-top">
+					Nach oben				</a>
+			</p>
+			<p>
+			&copy; 2023  
+			</p>
+		</div>
+	</footer>
+	
+
+</body>
+</html>
