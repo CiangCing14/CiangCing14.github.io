@@ -26,7 +26,16 @@ FileURL="Maoism-Datasets/" + time + "/index.htm";
 xmlhttp.open("GET",FileURL,false);
 xmlhttp.send();
 if(xmlhttp.readyState==4){
-    if(xmlhttp.status==200){location.assign(FileURL);}
+if(xmlhttp.status==200){location.assign(FileURL);}else{
+var myDate = new Date((new Date).getTime() - 4*60*60*1000 - 24*60*60*1000);
+var time = myDate.toJSON().split('T')[0];
+FileURL="Maoism-Datasets/" + time + "/index.htm";
+xmlhttp.open("GET",FileURL,false);
+xmlhttp.send();
+if(xmlhttp.readyState==4){
+if(xmlhttp.status==200){location.assign(FileURL);}
+}
+}
 }
 }
 </script>
