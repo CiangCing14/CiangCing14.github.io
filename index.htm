@@ -1,8 +1,12 @@
+
 <html><body>
 <script>
 window.onload=function turl(){
 var xmlhttp;
-if(window.XMLHttpRequest){xmlhttp = new XMLHttpRequest();}
+if(window.XMLHttpRequest)    
+{    
+    xmlhttp = new XMLHttpRequest();//其他浏览器    
+}    
 else if (window.ActiveXObject) 
 {    
     try {    
@@ -22,16 +26,15 @@ var time = myDate.toJSON().split('T')[0];
 FileURL="Maoism-Datasets/" + time + "/index.htm";
 xmlhttp.open("GET",FileURL,false);
 xmlhttp.send();
-var access = False;
-if(xmlhttp.readyState==4){if(xmlhttp.status==200){location.assign(FileURL);}else{access = True;}
-}else{access = True;}
-if(access){
+var ac=False;
+if(xmlhttp.readyState==4){
+if(xmlhttp.status==200){location.assign(FileURL);}else{ac=True;}
+}else{ac=True}
+if(ac){
 var myDate = new Date((new Date).getTime() - (4+24)*60*60*1000);
 var time = myDate.toJSON().split('T')[0];
 FileURL="Maoism-Datasets/" + time + "/index.htm";
-xmlhttp.open("GET",FileURL,false);
-xmlhttp.send();
-if(xmlhttp.readyState==4){if(xmlhttp.status==200){location.assign(FileURL);}}
+location.assign(FileURL);
 }
 }
 </script>
