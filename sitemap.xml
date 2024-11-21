@@ -4,19 +4,43 @@
     <!--created with Marxism-Leninism-Maoism Website Sitemap Generator-->
     <url>
         <loc>https://ciangcing14.github.io/index.htm</loc>
-        <lastmod>2024-11-20T00:40:16+00:00</lastmod>
+        <lastmod>2024-11-21T04:19:02+00:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://ciangcing14.github.io/pages/2024-11-20/CHI_NEW/findex.htm</loc>
-        <lastmod>2024-11-20T00:39:30+00:00</lastmod>
+        <loc>https://ciangcing14.github.io/pages/2024-11-21/CHI_NEW/findex.htm</loc>
+        <lastmod>2024-11-21T04:18:18+00:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://ciangcing14.github.io/pages/2024-11-20/CHI_NEW/findex_mobile.htm</loc>
-        <lastmod>2024-11-20T00:39:30+00:00</lastmod>
+        <loc>https://ciangcing14.github.io/pages/2024-11-21/CHI_NEW/findex_mobile.htm</loc>
+        <lastmod>2024-11-21T04:18:18+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://ciangcing14.github.io/pages/2024-11-21/ORI_NEW/findex.htm</loc>
+        <lastmod>2024-11-21T03:14:02+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://ciangcing14.github.io/pages/2024-11-21/ORI_NEW/findex_mobile.htm</loc>
+        <lastmod>2024-11-21T03:14:02+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://ciangcing14.github.io/files/index.htm</loc>
+        <lastmod>2024-11-21T04:19:02+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://ciangcing14.github.io/GNU Free Documentation License v1.3 - GNU Project - Free Software Foundation (FSF).html</loc>
+        <lastmod>2024-03-02T07:07:15+00:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
@@ -33,14 +57,14 @@
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://ciangcing14.github.io/files/index.htm</loc>
-        <lastmod>2024-11-20T00:40:16+00:00</lastmod>
+        <loc>https://ciangcing14.github.io/pages/2024-11-20/CHI_NEW/findex.htm</loc>
+        <lastmod>2024-11-20T00:39:30+00:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://ciangcing14.github.io/GNU Free Documentation License v1.3 - GNU Project - Free Software Foundation (FSF).html</loc>
-        <lastmod>2024-03-02T07:07:15+00:00</lastmod>
+        <loc>https://ciangcing14.github.io/pages/2024-11-20/CHI_NEW/findex_mobile.htm</loc>
+        <lastmod>2024-11-20T00:39:30+00:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
